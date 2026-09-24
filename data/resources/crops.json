@@ -1,0 +1,379 @@
+[
+  {
+    "id": "beetroot",
+    "name": "Beetroot",
+    "img": "/images/resources/crops/Inv_Beetroot.png",
+    "baseSellPrice": 1425,
+    "seed": {
+      "id": "beetroot_seed",
+      "name": "Beetroot Seed",
+      "img": "/images/resources/seeds/Inv_Beetroot_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 570,
+      "baseSellPrice": 285,
+      "category": "Crop Seed",
+      "growthPeriod": 7,
+      "outputCountMin": 1,
+      "outputCountMax": 1,
+      "season": ["Summer"]
+    },
+    "buffs": {
+      "length": 8,
+      "healthRegenRate": 1,
+      "staminaRegenRate": 1
+    }
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "img": "/images/resources/crops/Inv_Cabbage.png",
+    "baseSellPrice": 1750,
+    "seed": {
+      "id": "cabbage_seed",
+      "name": "Cabbage Seed",
+      "img": "/images/resources/seeds/Inv_Cabbage_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 700,
+      "baseSellPrice": 350,
+      "category": "Crop Seed",
+      "growthPeriod": 8,
+      "outputCountMin": 1,
+      "outputCountMax": 1,
+      "season": ["Autumn"]
+    },
+    "buffs": {
+      "length": 10,
+      "healthRegenRate": 2,
+      "staminaRegenRate": 2
+    }
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "img": "/images/resources/crops/Inv_Carrot.png",
+    "baseSellPrice": 475,
+    "seed": {
+      "id": "carrot_seed",
+      "name": "Carrot Seed",
+      "img": "/images/resources/seeds/Inv_Carrot_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 570,
+      "baseSellPrice": 285,
+      "category": "Crop Seed",
+      "growthPeriod": 7,
+      "outputCountMin": 3,
+      "outputCountMax": 3,
+      "season": ["Winter"]
+    },
+    "buffs": {
+      "length": 3,
+      "staminaRegenRate": 1
+    }
+  },
+  {
+    "id": "coffee_bean",
+    "name": "Coffee Bean",
+    "img": "/images/resources/crops/Inv_Coffee_Bean.png",
+    "baseSellPrice": 295,
+    "seed": {
+      "id": "coffee_seed",
+      "name": "Coffee Seed",
+      "img": "/images/resources/seeds/Inv_Coffee_Seeds.png",
+      "source": ["Jimmy's Boat"],
+      "buyPrice": 13600,
+      "baseSellPrice": 680,
+      "category": "Crop Seed",
+      "growthPeriod": 16,
+      "outputCountMin": 3,
+      "outputCountMax": 3,
+      "regrowth": 10,
+      "season": ["Spring"]
+    }
+  },
+  {
+    "id": "corn",
+    "name": "Corn",
+    "img": "/images/resources/crops/Inv_Corn.png",
+    "baseSellPrice": 358,
+    "seed": {
+      "id": "corn_seed",
+      "name": "Corn Seed",
+      "img": "/images/resources/seeds/Inv_Corn_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 1100,
+      "baseSellPrice": 550,
+      "category": "Crop Seed",
+      "growthPeriod": 11,
+      "outputCountMin": 2,
+      "outputCountMax": 2,
+      "regrowth": 6,
+      "season": ["Autumn", "Winter"]
+    },
+    "buffs": {
+      "length": 4,
+      "healthRegenRate": 1,
+      "staminaRegenRate": 0.8
+    }
+  },
+  {
+    "id": "green_bean",
+    "name": "Green Bean",
+    "img": "/images/resources/crops/Inv_Green_Bean.png",
+    "seed": {
+      "id": "green_bean_seed",
+      "name": "Green Bean Seed",
+      "img": "/images/resources/seeds/Inv_Green_Bean_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 1360,
+      "baseSellPrice": 680,
+      "category": "Crop Seed",
+      "growthPeriod": 11,
+      "outputCountMin": 3,
+      "outputCountMax": 6,
+      "regrowth": 5,
+      "season": ["Spring", "Summer"]
+    },
+    "baseSellPrice": 295,
+    "buffs": {
+      "length": 4,
+      "healthRegenRate": 1,
+      "staminaRegenRate": 1
+    }
+  },
+  {
+    "id": "kale",
+    "name": "Kale",
+    "img": "/images/resources/crops/Inv_Kale.png",
+    "seed": {
+      "id": "kale_seed",
+      "name": "Kale Seed",
+      "img": "/images/resources/seeds/Inv_Kale_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 760,
+      "baseSellPrice": 380,
+      "category": "Crop Seed",
+      "growthPeriod": 6,
+      "outputCountMin": 1,
+      "outputCountMax": 1,
+      "season": ["Winter"]
+    },
+    "buyPrice": 9120,
+    "baseSellPrice": 1520,
+    "buffs": {
+      "length": 10,
+      "healthRegenRate": 2,
+      "staminaRegenRate": 2
+    }
+  },
+  {
+    "id": "mighty_spread",
+    "name": "Mighty Spread",
+    "img": "/images/resources/crops/Inv_Mighty_Spread.png",
+    "seed": {
+      "id": "mighty_seed",
+      "name": "Mighty Seed",
+      "img": "/images/resources/seeds/Inv_Mighty_Seed.png",
+      "source": ["Deep Mine"],
+      "baseSellPrice": 15000,
+      "category": "Crop Seed",
+      "growthPeriod": 15,
+      "outputCountMin": 1,
+      "outputCountMax": 1,
+      "season": ["Summer"]
+    },
+    "baseSellPrice": 120000,
+    "buffs": {
+      "length": 10,
+      "healthRegenRate": 3,
+      "healthMax": 50,
+      "staminaRegenRate": 3,
+      "staminaMax": 50,
+      "attackLevel": 3,
+      "defenseLevel": 3,
+      "charged": true,
+      "diligent": true
+    }
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "img": "/images/resources/crops/Inv_Onion.png",
+    "seed": {
+      "id": "onion_seed",
+      "name": "Onion Seed",
+      "img": "/images/resources/seeds/Inv_Onion_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 540,
+      "baseSellPrice": 270,
+      "category": "Crop Seed",
+      "growthPeriod": 7,
+      "outputCountMin": 3,
+      "outputCountMax": 3,
+      "season": ["Spring", "Summer"]
+    },
+    "baseSellPrice": 450,
+    "buffs": {
+      "length": 1,
+      "healthRegenRate": 1,
+      "staminaRegenRate": 1.6
+    }
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "img": "/images/resources/crops/Inv_Pineapple.png",
+    "source": ["Island Reef"],
+    "baseSellPrice": 15000,
+    "buffs": {
+      "length": 8,
+      "staminaRegenRate": 3
+    }
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "img": "/images/resources/crops/Inv_Potato.png",
+    "seed": {
+      "id": "potato_seed",
+      "name": "Potato Seed",
+      "img": "/images/resources/seeds/Inv_Potato_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 640,
+      "baseSellPrice": 320,
+      "category": "Crop Seed",
+      "growthPeriod": 10,
+      "outputCountMin": 3,
+      "outputCountMax": 6,
+      "season": ["Spring"]
+    },
+    "baseSellPrice": 640,
+    "buffs": {
+      "length": 4,
+      "healthRegenRate": 1,
+      "staminaRegenRate": 0.6
+    }
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "img": "/images/resources/crops/Inv_Pumpkin.png",
+    "seed": {
+      "id": "pumpkin_seed",
+      "name": "Pumpkin Seed",
+      "img": "/images/resources/seeds/Inv_Pumpkin_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 780,
+      "baseSellPrice": 390,
+      "category": "Crop Seed",
+      "growthPeriod": 11,
+      "outputCountMin": 1,
+      "outputCountMax": 4,
+      "regrowth": 7,
+      "season": ["Autumn"]
+    },
+    "baseSellPrice": 3120,
+    "buffs": {
+      "length": 12,
+      "staminaRegenRate": 3,
+      "staminaMax": 10
+    }
+  },
+  {
+    "id": "sugar_cane",
+    "name": "Sugar Cane",
+    "img": "/images/resources/crops/Inv_Sugar_Cane.png",
+    "seed": {
+      "id": "sugar_cane_seed",
+      "name": "Sugar Cane Seed",
+      "img": "/images/resources/seeds/Inv_Sugar_Cane_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 400,
+      "baseSellPrice": 200,
+      "category": "Crop Seed",
+      "growthPeriod": 12,
+      "outputCountMin": 1,
+      "outputCountMax": 1,
+      "season": ["All"]
+    },
+    "baseSellPrice": 560,
+    "buffs": {
+      "length": 2,
+      "staminaRegenRate": 2,
+      "staminaMax": 5
+    }
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "img": "/images/resources/crops/Inv_Tomato.png",
+    "seed": {
+      "id": "tomato_seed",
+      "name": "Tomato Seed",
+      "img": "/images/resources/seeds/Inv_Tomato_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 1620,
+      "baseSellPrice": 810,
+      "category": "Crop Seed",
+      "growthPeriod": 11,
+      "outputCountMin": 3,
+      "outputCountMax": 3,
+      "regrowth": 6,
+      "season": ["Summer", "Autumn"]
+    },
+    "baseSellPrice": 351,
+    "buffs": {
+      "length": 4,
+      "healthRegenRate": 2,
+      "staminaRegenRate": 0.4
+    }
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "img": "/images/resources/crops/Inv_Watermelon.png",
+    "seed": {
+      "id": "watermelon_seed",
+      "name": "Watermelon Seed",
+      "img": "/images/resources/seeds/Inv_Watermelon_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 770,
+      "baseSellPrice": 385,
+      "category": "Crop Seed",
+      "growthPeriod": 11,
+      "outputCountMin": 1,
+      "outputCountMax": 4,
+      "regrowth": 7,
+      "season": ["Summer"]
+    },
+    "baseSellPrice": 3080,
+    "buffs": {
+      "length": 12,
+      "healthRegenRate": 1,
+      "healthMax": 10,
+      "coolLevel": 1
+    }
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "img": "/images/resources/crops/Inv_Wheat.png",
+    "seed": {
+      "id": "wheat_seed",
+      "name": "Wheat Seed",
+      "img": "/images/resources/seeds/Inv_Wheat_Seeds.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 360,
+      "baseSellPrice": 180,
+      "category": "Crop Seed",
+      "growthPeriod": 9,
+      "outputCountMin": 2,
+      "outputCountMax": 4,
+      "season": ["All"]
+    },
+    "baseSellPrice": 216,
+    "buffs": {
+      "length": 1,
+      "staminaRegenRate": 0.2
+    }
+  }
+]

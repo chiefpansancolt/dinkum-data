@@ -1,0 +1,40 @@
+import * as dinkumData from '../src';
+
+describe('package entry point', () => {
+  it('re-exports every module', () => {
+    expect(dinkumData.animals().count()).toBeGreaterThan(0);
+    expect(dinkumData.buildings().count()).toBeGreaterThan(0);
+    expect(dinkumData.calendar().count()).toBeGreaterThan(0);
+    expect(dinkumData.clothing().count()).toBeGreaterThan(0);
+    expect(dinkumData.allDailyMilestones().length).toBeGreaterThan(0);
+    expect(dinkumData.flowers().count()).toBeGreaterThan(0);
+    expect(dinkumData.furniture().count()).toBeGreaterThan(0);
+    expect(dinkumData.books().count()).toBeGreaterThan(0);
+    expect(dinkumData.cassettes().count()).toBeGreaterThan(0);
+    expect(dinkumData.equipment().count()).toBeGreaterThan(0);
+    expect(dinkumData.tools().count()).toBeGreaterThan(0);
+    expect(dinkumData.vehicles().count()).toBeGreaterThan(0);
+    expect(dinkumData.weapons().count()).toBeGreaterThan(0);
+    expect(dinkumData.licenses().count()).toBeGreaterThan(0);
+    expect(dinkumData.milestones().count()).toBeGreaterThan(0);
+    expect(dinkumData.npcs().count()).toBeGreaterThan(0);
+    expect(dinkumData.bugs().count()).toBeGreaterThan(0);
+    expect(dinkumData.critters().count()).toBeGreaterThan(0);
+    expect(dinkumData.fish().count()).toBeGreaterThan(0);
+    expect(dinkumData.cookingRecipes().count()).toBeGreaterThan(0);
+    expect(dinkumData.craftingRecipes().count()).toBeGreaterThan(0);
+    expect(dinkumData.signWritingRecipes().count()).toBeGreaterThan(0);
+    expect(dinkumData.animalProducts().count()).toBeGreaterThan(0);
+    expect(dinkumData.crops().count()).toBeGreaterThan(0);
+    expect(dinkumData.foragables().count()).toBeGreaterThan(0);
+    expect(dinkumData.minerals().count()).toBeGreaterThan(0);
+    expect(dinkumData.otherCraftables().count()).toBeGreaterThan(0);
+    expect(dinkumData.paint().count()).toBeGreaterThan(0);
+    expect(dinkumData.relics().count()).toBeGreaterThan(0);
+    expect(dinkumData.seeds().count()).toBeGreaterThan(0);
+    expect(dinkumData.trophies().count()).toBeGreaterThan(0);
+    expect(dinkumData.skills().count()).toBeGreaterThan(0);
+    expect(dinkumData.trees().count()).toBeGreaterThan(0);
+    expect(dinkumData.weightItems().count()).toBeGreaterThan(0);
+  });
+});

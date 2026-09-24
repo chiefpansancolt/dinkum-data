@@ -1,0 +1,997 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "season": "Summer",
+      "weekday": "Sunday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": [
+        {
+          "day": 1,
+          "season": "Summer",
+          "character": "Fletch",
+          "likes": "Bush Lime"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "season": "Summer",
+      "weekday": "Monday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 3,
+      "season": "Summer",
+      "weekday": "Tuesday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 4,
+      "season": "Summer",
+      "weekday": "Wednesday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 5,
+      "season": "Summer",
+      "weekday": "Thursday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 6,
+      "season": "Summer",
+      "weekday": "Friday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 7,
+      "season": "Summer",
+      "weekday": "Saturday",
+      "events": [
+        {
+          "name": "John's Goods Anniversary",
+          "startDay": 1,
+          "endDay": 7,
+          "season": "Summer",
+          "emoji": "🐠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 8,
+      "season": "Summer",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 9,
+      "season": "Summer",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 10,
+      "season": "Summer",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 11,
+      "season": "Summer",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 12,
+      "season": "Summer",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 13,
+      "season": "Summer",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 14,
+      "season": "Summer",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 14,
+          "season": "Summer",
+          "character": "Mason",
+          "likes": "Roe Nigiri"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "season": "Summer",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 16,
+      "season": "Summer",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 17,
+      "season": "Summer",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 18,
+      "season": "Summer",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 18,
+          "season": "Summer",
+          "character": "Theodore",
+          "likes": "Cooked Cactus Fig"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "season": "Summer",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 20,
+      "season": "Summer",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 21,
+      "season": "Summer",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 22,
+      "season": "Summer",
+      "weekday": "Sunday",
+      "events": [
+        {
+          "name": "Fish Catching Competition",
+          "startDay": 22,
+          "endDay": 22,
+          "season": "Summer",
+          "emoji": "🐟"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 23,
+      "season": "Summer",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 24,
+      "season": "Summer",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 25,
+      "season": "Summer",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 26,
+      "season": "Summer",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 26,
+          "season": "Summer",
+          "character": "Sheila",
+          "likes": "Prime Roast"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "season": "Summer",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 28,
+      "season": "Summer",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 1,
+      "season": "Autumn",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 2,
+      "season": "Autumn",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 2,
+          "season": "Autumn",
+          "character": "Franklyn",
+          "likes": "Cooked Giant Drumstick"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "season": "Autumn",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 4,
+      "season": "Autumn",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 5,
+      "season": "Autumn",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 6,
+      "season": "Autumn",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 7,
+      "season": "Autumn",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 8,
+      "season": "Autumn",
+      "weekday": "Sunday",
+      "events": [
+        {
+          "name": "Sky Fest",
+          "startDay": 8,
+          "endDay": 8,
+          "season": "Autumn",
+          "emoji": "🪁🌠"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 9,
+      "season": "Autumn",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 10,
+      "season": "Autumn",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 11,
+      "season": "Autumn",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 12,
+      "season": "Autumn",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 13,
+      "season": "Autumn",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 13,
+          "season": "Autumn",
+          "character": "Clover",
+          "likes": "Apple"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "season": "Autumn",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 15,
+      "season": "Autumn",
+      "weekday": "Sunday",
+      "events": [
+        {
+          "name": "Bug Catching Competition",
+          "startDay": 15,
+          "endDay": 15,
+          "season": "Autumn",
+          "emoji": "🦋"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 16,
+      "season": "Autumn",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 16,
+          "season": "Autumn",
+          "character": "River",
+          "likes": "Cooked Saltwater Fish"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "season": "Autumn",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 18,
+      "season": "Autumn",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 19,
+      "season": "Autumn",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 20,
+      "season": "Autumn",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 21,
+      "season": "Autumn",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 22,
+      "season": "Autumn",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 23,
+      "season": "Autumn",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 24,
+      "season": "Autumn",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 24,
+          "season": "Autumn",
+          "character": "John",
+          "likes": "Cooked Croco Meat"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "season": "Autumn",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 26,
+      "season": "Autumn",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 27,
+      "season": "Autumn",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 28,
+      "season": "Autumn",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 1,
+      "season": "Winter",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 2,
+      "season": "Winter",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 3,
+      "season": "Winter",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 4,
+      "season": "Winter",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 5,
+      "season": "Winter",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 5,
+          "season": "Winter",
+          "character": "Doug",
+          "likes": "Banana Jam"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "season": "Winter",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 7,
+      "season": "Winter",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 8,
+      "season": "Winter",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 9,
+      "season": "Winter",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 10,
+      "season": "Winter",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 11,
+      "season": "Winter",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 11,
+          "season": "Winter",
+          "character": "Milburn",
+          "likes": "High Quality Cheese"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "season": "Winter",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 13,
+      "season": "Winter",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 14,
+      "season": "Winter",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 15,
+      "season": "Winter",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 16,
+      "season": "Winter",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 16,
+          "season": "Winter",
+          "character": "Melvin",
+          "likes": "Cooked Meat"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "season": "Winter",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 18,
+      "season": "Winter",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 19,
+      "season": "Winter",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 20,
+      "season": "Winter",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 21,
+      "season": "Winter",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 22,
+      "season": "Winter",
+      "weekday": "Sunday",
+      "events": [
+        {
+          "name": "Fish Catching Competition",
+          "startDay": 22,
+          "endDay": 22,
+          "season": "Winter",
+          "emoji": "🐟"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 23,
+      "season": "Winter",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 24,
+      "season": "Winter",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 25,
+      "season": "Winter",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 26,
+      "season": "Winter",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 27,
+      "season": "Winter",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 28,
+      "season": "Winter",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 28,
+          "season": "Winter",
+          "character": "Sally",
+          "likes": "Glowing Mushroom"
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "season": "Spring",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 2,
+      "season": "Spring",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 3,
+      "season": "Spring",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 3,
+          "season": "Spring",
+          "character": "Irwin",
+          "likes": "Bananas"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "season": "Spring",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 5,
+      "season": "Spring",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 6,
+      "season": "Spring",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 7,
+      "season": "Spring",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 7,
+          "season": "Spring",
+          "character": "Forest",
+          "likes": "Pastie"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "season": "Spring",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 9,
+      "season": "Spring",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 10,
+      "season": "Spring",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 11,
+      "season": "Spring",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 12,
+      "season": "Spring",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 13,
+      "season": "Spring",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 14,
+      "season": "Spring",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 15,
+      "season": "Spring",
+      "weekday": "Sunday",
+      "events": [
+        {
+          "name": "Bug Catching Competition",
+          "startDay": 15,
+          "endDay": 15,
+          "season": "Spring",
+          "emoji": "🦋"
+        }
+      ],
+      "birthdays": []
+    },
+    {
+      "day": 16,
+      "season": "Spring",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 17,
+      "season": "Spring",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 18,
+      "season": "Spring",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 19,
+      "season": "Spring",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 20,
+      "season": "Spring",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": [
+        {
+          "day": 20,
+          "season": "Spring",
+          "character": "Rayne",
+          "likes": "Corn"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "season": "Spring",
+      "weekday": "Saturday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 22,
+      "season": "Spring",
+      "weekday": "Sunday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 23,
+      "season": "Spring",
+      "weekday": "Monday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 24,
+      "season": "Spring",
+      "weekday": "Tuesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 25,
+      "season": "Spring",
+      "weekday": "Wednesday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 26,
+      "season": "Spring",
+      "weekday": "Thursday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 27,
+      "season": "Spring",
+      "weekday": "Friday",
+      "events": [],
+      "birthdays": []
+    },
+    {
+      "day": 28,
+      "season": "Spring",
+      "weekday": "Saturday",
+      "events": [
+        {
+          "name": "Island Day",
+          "startDay": 28,
+          "endDay": 28,
+          "season": "Spring",
+          "emoji": "🎇🎆"
+        }
+      ],
+      "birthdays": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Foragables
 
-Wild-foraged plants and items, with the biomes they're found in. 38 items are included.
+Wild-foraged plants and items, with the biomes they're found in. 41 items are included.
 
 ---
 
@@ -26,7 +26,7 @@ Wild-foraged plants and items, with the biomes they're found in. 38 items are in
 ```ts
 import { foragables } from "dinkum-data";
 
-foragables(); // all 38 items
+foragables(); // all 41 items
 foragables(source); // wrap a pre-filtered array
 ```
 

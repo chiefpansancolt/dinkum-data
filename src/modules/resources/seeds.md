@@ -1,6 +1,6 @@
 # Seeds
 
-Every plantable seed, for crops, trees, and bushes alike, with growth timing and season. 35 seeds
+Every plantable seed, for crops, trees, and bushes alike, with growth timing and season. 36 seeds
 are included.
 
 ---
@@ -31,7 +31,7 @@ are included.
 ```ts
 import { seeds } from "dinkum-data";
 
-seeds(); // all 35 seeds
+seeds(); // all 36 seeds
 seeds(source); // wrap a pre-filtered array
 ```
 

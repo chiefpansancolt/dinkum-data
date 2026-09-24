@@ -216,6 +216,16 @@
     "season": ["All"]
   },
   {
+    "id": "mallee_gumnut",
+    "name": "Mallee Gumnut",
+    "img": "/images/resources/seeds/Inv_Mallee_Gumnut.png",
+    "source": ["Mallee Gum Tree"],
+    "baseSellPrice": 0,
+    "category": "Tree Seed",
+    "growthPeriod": 4,
+    "season": ["All"]
+  },
+  {
     "id": "mighty_seed",
     "name": "Mighty Seed",
     "img": "/images/resources/seeds/Inv_Mighty_Seed.png",
@@ -244,7 +254,7 @@
     "id": "palm_tree_seed",
     "name": "Palm Tree Seed",
     "img": "/images/resources/seeds/Inv_Palm_Tree_Seed.png",
-    "source": ["Palm Wood Tree"],
+    "source": ["Palm Tree"],
     "baseSellPrice": 4,
     "category": "Tree Seed",
     "growthPeriod": 5,

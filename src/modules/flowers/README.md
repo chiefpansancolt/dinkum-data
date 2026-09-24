@@ -1,6 +1,6 @@
 # Flowers
 
-Flowers found across Dinkum's biomes, including the seed or foragable each grows from. 43 flowers
+Flowers found across Dinkum's biomes, including the seed or foragable each grows from. 46 flowers
 are included.
 
 ---
@@ -33,7 +33,7 @@ are included.
 ```ts
 import { flowers } from "dinkum-data";
 
-flowers(); // all 43 flowers
+flowers(); // all 46 flowers
 flowers(source); // wrap a pre-filtered array
 ```
 

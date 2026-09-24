@@ -17,6 +17,7 @@ export const BIOMES = [
   'Hot Hot Hot',
   'Undergrove',
   'Deep Mine',
+  'Great Bite',
 ] as const;
 
 export type Biome = (typeof BIOMES)[number];

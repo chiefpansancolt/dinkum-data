@@ -229,7 +229,7 @@
   },
   {
     "id": "green_staghorn_coral",
-    "name": "Green Stagehorn Coral",
+    "name": "Green Staghorn Coral",
     "img": "/images/flowers/Inv_Green_Staghorn_Coral.png",
     "locations": ["Island Reef"],
     "baseSellPrice": 4
@@ -257,10 +257,18 @@
     "baseSellPrice": 100
   },
   {
+    "id": "magenta_pig_face",
+    "name": "Magenta Pig Face",
+    "img": "/images/flowers/Inv_Magenta_Pig_Face.png",
+    "locations": ["Great Bite"],
+    "baseSellPrice": 0
+  },
+  {
     "id": "orange_paper_daisy",
     "name": "Orange Paper Daisy",
     "img": "/images/flowers/Orange_Paper_Daisy.png",
-    "locations": ["Bushlands"],
+    "locations": ["Bushlands", "Plains"],
+    "conditions": "Spring Only",
     "baseSellPrice": 700
   },
   {
@@ -327,6 +335,13 @@
     "locations": ["Pine Forests"],
     "conditions": "Spring Only",
     "baseSellPrice": 280
+  },
+  {
+    "id": "red_pig_face",
+    "name": "Red Pig Face",
+    "img": "/images/flowers/Inv_Red_Pig_Face.png",
+    "locations": ["Great Bite"],
+    "baseSellPrice": 0
   },
   {
     "id": "red_seaweed",
@@ -397,7 +412,7 @@
   },
   {
     "id": "spinifex_tuft_tropical",
-    "name": "Spinife Tuft",
+    "name": "Spinifex Tuft",
     "img": "/images/flowers/Spinifex_Tropical.png",
     "locations": ["Tropics"],
     "itemsDropped": [
@@ -413,7 +428,7 @@
     "id": "spinifex_tuft",
     "name": "Spinifex Tuft",
     "img": "/images/flowers/Spinifex_Desert.png",
-    "locations": ["Desert"],
+    "locations": ["Desert", "Great Bite"],
     "itemsDropped": [
       {
         "name": "Spinifex Tuft",
@@ -475,6 +490,13 @@
     "locations": ["Bushlands", "Plains"],
     "conditions": "Spring Only",
     "baseSellPrice": 700
+  },
+  {
+    "id": "white_pig_face",
+    "name": "White Pig Face",
+    "img": "/images/flowers/Inv_White_Pig_Face.png",
+    "locations": ["Great Bite"],
+    "baseSellPrice": 0
   },
   {
     "id": "yellow_hibiscus",

@@ -1,7 +1,7 @@
 # Trees
 
 Trees found across Dinkum's biomes, including the seed or foragable each grows from and their
-regrowth timing. 17 trees are included.
+regrowth timing. 18 trees are included.
 
 ---
 
@@ -29,7 +29,7 @@ regrowth timing. 17 trees are included.
 ```ts
 import { trees } from "dinkum-data";
 
-trees(); // all 17 trees
+trees(); // all 18 trees
 trees(source); // wrap a pre-filtered array
 ```
 

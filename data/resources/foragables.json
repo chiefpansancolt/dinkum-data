@@ -215,6 +215,13 @@
     "baseSellPrice": 150
   },
   {
+    "id": "pearl_bluebush_seed",
+    "name": "Pearl Bluebush Seed",
+    "img": "/images/resources/foragables/Inv_Pearl_Bluebush_Seed.png",
+    "locations": ["Great Bite"],
+    "baseSellPrice": 0
+  },
+  {
     "id": "quandong",
     "name": "Quandong",
     "img": "/images/resources/foragables/Inv_Quandong.png",
@@ -244,6 +251,13 @@
     "img": "/images/resources/foragables/Inv_Red_Seaweed.png",
     "locations": ["Island Reef"],
     "baseSellPrice": 10
+  },
+  {
+    "id": "saltbush_seed",
+    "name": "Saltbush Seed",
+    "img": "/images/resources/foragables/Inv_Saltbush_Seed.png",
+    "locations": ["Great Bite"],
+    "baseSellPrice": 0
   },
   {
     "id": "sand_dollar",
@@ -294,10 +308,17 @@
     }
   },
   {
+    "id": "spear_grass_seed",
+    "name": "Spear Grass Seed",
+    "img": "/images/resources/foragables/Inv_Spear_Grass_Seed.png",
+    "locations": ["Great Bite"],
+    "baseSellPrice": 0
+  },
+  {
     "id": "spinifex_tuft",
     "name": "Spinifex Tuft",
     "img": "/images/resources/foragables/Inv_Spinifex_Tuft.png",
-    "locations": ["Tropics", "Desert"],
+    "locations": ["Tropics", "Desert", "Great Bite"],
     "baseSellPrice": 10
   },
   {
@@ -313,6 +334,14 @@
     "img": "/images/resources/foragables/Inv_Tonnidae_Shell.png",
     "locations": ["Beach"],
     "baseSellPrice": 6
+  },
+  {
+    "id": "tropical_grass_turf_roll",
+    "name": "Tropical Grass Turf Roll",
+    "img": "/images/resources/foragables/Inv_Tropical_Grass_Turf_Roll.png",
+    "source": ["Blue Chest in Island Reef"],
+    "locations": ["Island Reef"],
+    "baseSellPrice": 2
   },
   {
     "id": "vine",
@@ -340,13 +369,5 @@
     "source": ["Yellow Wattle Bush"],
     "locations": ["Bushlands"],
     "baseSellPrice": 145
-  },
-  {
-    "id": "tropical_grass_turf_roll",
-    "name": "Tropical Grass Turf Roll",
-    "img": "/images/resources/foragables/Inv_Tropical_Grass_Turf_Roll.png",
-    "source": ["Blue Chest in Island Reef"],
-    "locations": ["Island Reef"],
-    "baseSellPrice": 2
   }
 ]

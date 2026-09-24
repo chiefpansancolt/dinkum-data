@@ -107,10 +107,10 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | Module                                            | Factory        | Items | Description                           |
 | ------------------------------------------------- | -------------- | ----- | ------------------------------------- |
 | [crops](src/modules/resources/crops.md)           | `crops()`      | 17    | Farmable crops with their seeds       |
-| [seeds](src/modules/resources/seeds.md)           | `seeds()`      | 35    | Every plantable seed                  |
-| [foragables](src/modules/resources/foragables.md) | `foragables()` | 38    | Wild-foraged plants and items         |
-| [trees](src/modules/trees/README.md)              | `trees()`      | 17    | Trees with growth and regrowth timing |
-| [flowers](src/modules/flowers/README.md)          | `flowers()`    | 43    | Flowers found across every biome      |
+| [seeds](src/modules/resources/seeds.md)           | `seeds()`      | 36    | Every plantable seed                  |
+| [foragables](src/modules/resources/foragables.md) | `foragables()` | 41    | Wild-foraged plants and items         |
+| [trees](src/modules/trees/README.md)              | `trees()`      | 18    | Trees with growth and regrowth timing |
+| [flowers](src/modules/flowers/README.md)          | `flowers()`    | 46    | Flowers found across every biome      |
 
 ### ⛏️ Resources & Materials
 

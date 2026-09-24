@@ -639,6 +639,14 @@
     "melvinsCatalogue": false
   },
   {
+    "id": "cheesy_spag_plate",
+    "name": "Cheesy Spag Plate",
+    "img": "/images/furniture/Inv_Cheesy_Spag_Plate.png",
+    "source": ["Food Modeller"],
+    "baseSellPrice": 984,
+    "melvinsCatalogue": false
+  },
+  {
     "id": "cherry_box",
     "name": "Cherry Box",
     "img": "/images/furniture/Inv_Cherry_Box.png",
@@ -1529,6 +1537,14 @@
     "img": "/images/resources/trophies/Inv_Gold_Fish_Trophy.png",
     "source": ["Fish Catching Comp"],
     "baseSellPrice": 59040,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "gonut_box",
+    "name": "Gonut Box",
+    "img": "/images/furniture/Inv_Gonut_Box.png",
+    "source": ["TownCo. Agent", "Food Modeller"],
+    "baseSellPrice": 440,
     "melvinsCatalogue": false
   },
   {
@@ -2563,6 +2579,14 @@
     "id": "parmi_and_chips_plate",
     "name": "Parmi and Chips Plate",
     "img": "/images/furniture/Inv_Parmi_and_Chips_Plate.png",
+    "source": ["Food Modeller"],
+    "baseSellPrice": 984,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "parmy_and_chips_plate",
+    "name": "Parmy and Chips Plate",
+    "img": "/images/furniture/Inv_Parmy_and_Chips_Plate.png",
     "source": ["Food Modeller"],
     "baseSellPrice": 984,
     "melvinsCatalogue": false
@@ -3917,6 +3941,14 @@
     "img": "/images/furniture/Inv_Watermelon_Box.png",
     "source": ["Food Modeller", "Recycling Bin"],
     "baseSellPrice": 440,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "watermelon_popsicle_set",
+    "name": "Watermelon Popsicle Set",
+    "img": "/images/furniture/Inv_Watermelon_Popsicle_Set.png",
+    "source": ["Food Modeller", "Recycling Bin"],
+    "baseSellPrice": 500,
     "melvinsCatalogue": false
   },
   {

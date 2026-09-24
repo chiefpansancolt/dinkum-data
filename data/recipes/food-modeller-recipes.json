@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "apple_box",
+    "name": "Apple Box",
+    "img": "/images/furniture/Inv_Apple_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 10,
+            "name": "Apple",
+            "img": "/images/resources/foragables/Inv_Apple.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "apple_jam_set",
+    "name": "Apple Jam Set",
+    "img": "/images/furniture/Inv_Apple_Jam_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Apple Jam",
+            "img": "/images/recipes/cookingRecipes/Inv_Apple_Jam.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banana_box",
+    "name": "Banana Box",
+    "img": "/images/furniture/Inv_Banana_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 10,
+            "name": "Bananas",
+            "img": "/images/resources/foragables/Inv_Bananas.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banana_jam_set",
+    "name": "Banana Jam Set",
+    "img": "/images/furniture/Inv_Banana_Jam_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Banana Jam",
+            "img": "/images/recipes/cookingRecipes/Inv_Banana_Jam.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "beetroot_box",
+    "name": "Beetroot Box",
+    "img": "/images/furniture/Inv_Beetroot_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Beetroot",
+            "img": "/images/resources/crops/Inv_Beetroot.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bottle_tea_set",
+    "name": "Bottle Tea Set",
+    "img": "/images/furniture/Inv_Bottle_Tea_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Bottle Brush Tea",
+            "img": "/images/recipes/cookingRecipes/Inv_Bottle_Brush_Tea.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bottled_brush_set",
+    "name": "Bottled Brush Set",
+    "img": "/images/furniture/Inv_Bottled_Brush_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Bottle Brush Brew",
+            "img": "/images/recipes/cookingRecipes/Inv_Bottle_Brush_Brew.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bread_board",
+    "name": "Bread Board",
+    "img": "/images/furniture/Inv_Bread_Board.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Bread",
+            "img": "/images/recipes/cookingRecipes/Inv_Bread.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "burger_plate",
+    "name": "Burger Plate",
+    "img": "/images/furniture/Inv_Burger_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Burger",
+            "img": "/images/recipes/cookingRecipes/Inv_Burger.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bushlime_box",
+    "name": "Bushlime Box",
+    "img": "/images/furniture/Inv_Bushlime_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 10,
+            "name": "Bush Lime",
+            "img": "/images/resources/foragables/Inv_Bush_Lime.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cabbage_box",
+    "name": "Cabbage Box",
+    "img": "/images/furniture/Inv_Cabbage_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cabbage",
+            "img": "/images/resources/crops/Inv_Cabbage.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "carrot_box",
+    "name": "Carrot Box",
+    "img": "/images/furniture/Inv_Carrot_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Carrot",
+            "img": "/images/resources/crops/Inv_Carrot.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "caviar_set",
+    "name": "Caviar Set",
+    "img": "/images/furniture/Inv_Caviar_Set.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Caviar",
+            "img": "/images/recipes/cookingRecipes/Inv_Caviar.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cheese_board",
+    "name": "Cheese Board",
+    "img": "/images/furniture/Inv_Cheese_Board.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "cheese",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cheese",
+            "img": "/images/recipes/cookingRecipes/Inv_Cheese.png"
+          }
+        ]
+      },
+      {
+        "id": "high_quality_cheese",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "High Quality Cheese",
+            "img": "/images/recipes/cookingRecipes/Inv_High_Quality_Cheese.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cheesy_spag_plate",
+    "name": "Cheesy Spag Plate",
+    "img": "/images/furniture/Inv_Cheesy_Spag_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cheesy Spag",
+            "img": "/images/recipes/cookingRecipes/Inv_Cheesy_Spag.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cherry_box",
+    "name": "Cherry Box",
+    "img": "/images/furniture/Inv_Cherry_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 10,
+            "name": "Cherries",
+            "img": "/images/resources/foragables/Inv_Cherries.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coconut_drink_set",
+    "name": "Coconut Drink Set",
+    "img": "/images/furniture/Inv_Coconut_Drink_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Coconut Drink",
+            "img": "/images/recipes/cookingRecipes/Inv_Coconut_Drink.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coffee_bag_stack",
+    "name": "Coffee Bag Stack",
+    "img": "/images/furniture/Inv_Coffee_Bag_Stack.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Roasted Coffee Beans",
+            "img": "/images/recipes/cookingRecipes/Inv_Roasted_Coffee_Beans.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coffee_cup_set",
+    "name": "Coffee Cup Set",
+    "img": "/images/furniture/Inv_Coffee_Cup_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Coffee",
+            "img": "/images/recipes/cookingRecipes/Inv_Coffee.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooked_croco_meat_plate",
+    "name": "Cooked Croco Meat Plate",
+    "img": "/images/furniture/Inv_Cooked_Croco_Meat_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cooked Croco Meat",
+            "img": "/images/recipes/cookingRecipes/Inv_Cooked_Croco_Meat.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooked_drumstick_plate",
+    "name": "Cooked Drumstick Plate",
+    "img": "/images/furniture/Inv_Cooked_Drumstick_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cooked Drumstick",
+            "img": "/images/recipes/cookingRecipes/Inv_Cooked_Drumstick.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooked_meat_plate",
+    "name": "Cooked Meat Plate",
+    "img": "/images/furniture/Inv_Cooked_Meat_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cooked Meat",
+            "img": "/images/recipes/cookingRecipes/Inv_Cooked_Meat.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooked_prawn_plate",
+    "name": "Cooked Prawn Plate",
+    "img": "/images/furniture/Inv_Cooked_Prawn_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cooked Prawn",
+            "img": "/images/recipes/cookingRecipes/Inv_Cooked_Prawn.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooked_rice_set",
+    "name": "Cooked Rice Set",
+    "img": "/images/furniture/Inv_Cooked_Rice_Set.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cooked Rice",
+            "img": "/images/recipes/cookingRecipes/Inv_Cooked_Rice.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cooked_yabbie_plate",
+    "name": "Cooked Yabbie Plate",
+    "img": "/images/furniture/Inv_Cooked_Yabbie_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Cooked Yabbie",
+            "img": "/images/recipes/cookingRecipes/Inv_Cooked_Yabbie.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "corn_box",
+    "name": "Corn Box",
+    "img": "/images/furniture/Inv_Corn_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 2,
+            "name": "Corn",
+            "img": "/images/resources/crops/Inv_Corn.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "croco_skewer_set",
+    "name": "Croco Skewer Set",
+    "img": "/images/furniture/Inv_Croco_Skewer_Set.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Croco Skewer",
+            "img": "/images/recipes/cookingRecipes/Inv_Croco_Skewer.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dagwood_dog_set",
+    "name": "Dagwood Dog Set",
+    "img": "/images/furniture/Inv_Dagwood_Dog_Set.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Dagwood Dog",
+            "img": "/images/recipes/cookingRecipes/Inv_Dagwood_Dog.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "damper_plate",
+    "name": "Damper Plate",
+    "img": "/images/furniture/Inv_Damper_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Damper",
+            "img": "/images/recipes/cookingRecipes/Inv_Damper.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "egg_fried_rice_plate",
+    "name": "Egg Fried Rice Plate",
+    "img": "/images/furniture/Inv_Egg_Fried_Rice_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Egg Fried Rice",
+            "img": "/images/recipes/cookingRecipes/Inv_Egg_Fried_Rice.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "egg_plate",
+    "name": "Egg Plate",
+    "img": "/images/furniture/Inv_Egg_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "chicken_egg",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Chicken Egg",
+            "img": "/images/resources/animalProducts/Inv_Chicken_Egg.png"
+          }
+        ]
+      },
+      {
+        "id": "big_chicken_egg",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Big Chicken Egg",
+            "img": "/images/animals/Inv_Big_Chicken_Egg.png"
+          }
+        ]
+      },
+      {
+        "id": "fried_egg",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Fried Egg",
+            "img": "/images/recipes/cookingRecipes/Inv_Fried_Egg.png"
+          }
+        ]
+      },
+      {
+        "id": "big_fried_egg",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Big Fried Egg",
+            "img": "/images/recipes/cookingRecipes/Inv_Big_Fried_Egg.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fairy_bread_plate",
+    "name": "Fairy Bread Plate",
+    "img": "/images/furniture/Inv_Fairy_Bread_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Fairy Bread",
+            "img": "/images/recipes/cookingRecipes/Inv_Fairy_Bread.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "field_mushroom_basket",
+    "name": "Field Mushroom Basket",
+    "img": "/images/furniture/Inv_Field_Mushroom_Basket.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 5,
+            "name": "Field Mushroom",
+            "img": "/images/resources/foragables/Inv_Field_Mushroom.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish_and_chips_plate",
+    "name": "Fish And Chips Plate",
+    "img": "/images/furniture/Inv_Fish_And_Chips_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Fish and Chips",
+            "img": "/images/recipes/cookingRecipes/Inv_Fish_And_Chips.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flour_bag_stack",
+    "name": "Flour Bag Stack",
+    "img": "/images/furniture/Inv_Flour_Bag_Stack.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Flour",
+            "img": "/images/resources/otherCraftables/Inv_Flour.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fruit_salad_plate",
+    "name": "Fruit Salad Plate",
+    "img": "/images/furniture/Inv_Fruit_Salad_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Fruit Salad",
+            "img": "/images/recipes/cookingRecipes/Inv_Fruit_Salad.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "garden_salad_plate",
+    "name": "Garden Salad Plate",
+    "img": "/images/furniture/Inv_Garden_Salad_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Garden Salad",
+            "img": "/images/recipes/cookingRecipes/Inv_Garden_Salad.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gonut_box",
+    "name": "Gonut Box",
+    "img": "/images/furniture/Inv_Gonut_Box.png",
+    "baseSellPrice": 440,
+    "source": ["TownCo. Agent", "Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Gonut",
+            "img": "/images/recipes/cookingRecipes/Inv_Gonut.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "green_bean_box",
+    "name": "Green Bean Box",
+    "img": "/images/furniture/Inv_Green_Bean_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Green Bean",
+            "img": "/images/resources/crops/Inv_Green_Bean.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hearty_stew_plate",
+    "name": "Hearty Stew Plate",
+    "img": "/images/furniture/Inv_Hearty_Stew_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Hearty Stew",
+            "img": "/images/recipes/cookingRecipes/Inv_Hearty_Stew.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "high_quality_milk_set",
+    "name": "High Quality Milk Set",
+    "img": "/images/furniture/Inv_High_Quality_Milk_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "High Quality Milk",
+            "img": "/images/resources/animalProducts/Inv_High_Quality_Milk.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "honey_set",
+    "name": "Honey Set",
+    "img": "/images/furniture/Inv_Honey_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Honey",
+            "img": "/images/resources/foragables/Inv_Honey.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ice_cream_set",
+    "name": "Ice Cream Set",
+    "img": "/images/furniture/Inv_Ice_Cream_Set.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Ice Cream",
+            "img": "/images/resources/otherCraftables/Inv_Ice_Cream.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jam_toast_plate",
+    "name": "Jam Toast Plate",
+    "img": "/images/furniture/Inv_Jam_Toast_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Jam Toast",
+            "img": "/images/recipes/cookingRecipes/Inv_Jam_Toast.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jelly_brew_set",
+    "name": "Jelly Brew Set",
+    "img": "/images/furniture/Inv_Jelly_Brew_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Jelly Brew",
+            "img": "/images/recipes/cookingRecipes/Inv_Jelly_Brew.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kale_box",
+    "name": "Kale Box",
+    "img": "/images/furniture/Inv_Kale_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Kale",
+            "img": "/images/resources/crops/Inv_Kale.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lamington_plate",
+    "name": "Lamington Plate",
+    "img": "/images/furniture/Inv_Lamington_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Lamington",
+            "img": "/images/recipes/cookingRecipes/Inv_Lamington.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lime_jam_set",
+    "name": "Lime Jam Set",
+    "img": "/images/furniture/Inv_Lime_Jam_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Lime Jam",
+            "img": "/images/recipes/cookingRecipes/Inv_Lime_Jam.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lot_burger_plate",
+    "name": "Lot Burger Plate",
+    "img": "/images/furniture/Inv_Lot_Burger_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Lot Burger",
+            "img": "/images/recipes/cookingRecipes/Inv_Lot_Burger.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meat_on_a_stick_set",
+    "name": "Meat on a Stick Set",
+    "img": "/images/furniture/Inv_Meat_on_a_Stick_Set.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Meat on a stick",
+            "img": "/images/recipes/cookingRecipes/Inv_Meat_on_a_Stick.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meat_pie_plate",
+    "name": "Meat Pie Plate",
+    "img": "/images/furniture/Inv_Meat_Pie_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Meat Pie",
+            "img": "/images/recipes/cookingRecipes/Inv_Meat_Pie.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mighty_sandwich_plate",
+    "name": "Mighty Sandwich Plate",
+    "img": "/images/furniture/Inv_Mighty_Sandwich_Plate.png",
+    "baseSellPrice": 0,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Mighty Sandwich",
+            "img": "/images/recipes/cookingRecipes/Inv_Mighty_Sandwich.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mighty_spread_set",
+    "name": "Mighty Spread Set",
+    "img": "/images/furniture/Inv_Mighty_Spread_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Mighty Spread",
+            "img": "/images/resources/crops/Inv_Mighty_Spread.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "milk_cap_basket",
+    "name": "Milk Cap Basket",
+    "img": "/images/furniture/Inv_Milk_Cap_Basket.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 5,
+            "name": "Milk Cap",
+            "img": "/images/resources/foragables/Inv_Milk_Cap.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "milk_set",
+    "name": "Milk Set",
+    "img": "/images/furniture/Inv_Milk_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Milk",
+            "img": "/images/resources/animalProducts/Inv_Milk.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mushroom_risotto_plate",
+    "name": "Mushroom Risotto Plate",
+    "img": "/images/furniture/Inv_Mushroom_Risotto_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Mushroom Risotto",
+            "img": "/images/recipes/cookingRecipes/Inv_Mushroom_Risotto.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mushroom_soup_plate",
+    "name": "Mushroom Soup Plate",
+    "img": "/images/furniture/Inv_Mushroom_Soup_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Mushroom Soup",
+            "img": "/images/recipes/cookingRecipes/Inv_Mushroom_Soup.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "onion_box",
+    "name": "Onion Box",
+    "img": "/images/furniture/Inv_Onion_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Onion",
+            "img": "/images/resources/crops/Inv_Onion.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parmy_and_chips_plate",
+    "name": "Parmy and Chips Plate",
+    "img": "/images/furniture/Inv_Parmy_and_Chips_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Parmy and Chips",
+            "img": "/images/recipes/cookingRecipes/Inv_Parmy_and_Chips.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pastie_plate",
+    "name": "Pastie Plate",
+    "img": "/images/furniture/Inv_Pastie_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Pastie",
+            "img": "/images/recipes/cookingRecipes/Inv_Pastie.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pavlova_plate",
+    "name": "Pavlova Plate",
+    "img": "/images/furniture/Inv_Pavlova_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Pavlova",
+            "img": "/images/recipes/cookingRecipes/Inv_Pavlova.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pineapple_box",
+    "name": "Pineapple Box",
+    "img": "/images/furniture/Inv_Pineapple_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 10,
+            "name": "Pineapple",
+            "img": "/images/resources/crops/Inv_Pineapple.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pineapple_jam_set",
+    "name": "Pineapple Jam Set",
+    "img": "/images/furniture/Inv_Pineapple_Jam_Set.png",
+    "baseSellPrice": 100,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Pineapple Jam",
+            "img": "/images/recipes/cookingRecipes/Inv_Pineapple_Jam.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "potato_box",
+    "name": "Potato Box",
+    "img": "/images/furniture/Inv_Potato_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Potato",
+            "img": "/images/resources/crops/Inv_Potato.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prime_roast_plate",
+    "name": "Prime Roast Plate",
+    "img": "/images/furniture/Inv_Prime_Roast_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Prime Roast",
+            "img": "/images/recipes/cookingRecipes/Inv_Prime_Roast.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pumpkin_box",
+    "name": "Pumpkin Box",
+    "img": "/images/furniture/Inv_Pumpkin_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 2,
+            "name": "Pumpkin",
+            "img": "/images/resources/crops/Inv_Pumpkin.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pumpkin_soup_plate",
+    "name": "Pumpkin Soup Plate",
+    "img": "/images/furniture/Inv_Pumpkin_Soup_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Pumpkin Soup",
+            "img": "/images/recipes/cookingRecipes/Inv_Pumpkin_Soup.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quandong_box",
+    "name": "Quandong Box",
+    "img": "/images/furniture/Inv_Quandong_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 10,
+            "name": "Quandong",
+            "img": "/images/resources/foragables/Inv_Quandong.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quandong_jam_set",
+    "name": "Quandong Jam Set",
+    "img": "/images/furniture/Inv_Quandong_Jam_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Quandong Jam",
+            "img": "/images/recipes/cookingRecipes/Inv_Quandong_Jam.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quiche_plate",
+    "name": "Quiche Plate",
+    "img": "/images/furniture/Inv_Quiche_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Quiche",
+            "img": "/images/recipes/cookingRecipes/Inv_Quiche.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rice_bag_stack",
+    "name": "Rice Bag Stack",
+    "img": "/images/furniture/Inv_Rice_Bag_Stack.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Rice",
+            "img": "/images/resources/crops/Inv_Rice.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "roe_nigiri_plate",
+    "name": "Roe Nigiri Plate",
+    "img": "/images/furniture/Inv_Roe_Nigiri_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Roe Nigiri",
+            "img": "/images/recipes/cookingRecipes/Inv_Roe_Nigiri.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "roundhead_basket",
+    "name": "Roundhead Basket",
+    "img": "/images/furniture/Inv_Roundhead_Basket.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 5,
+            "name": "Red Roundhead",
+            "img": "/images/resources/foragables/Inv_Red_Roundhead.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sausage_roll_plate",
+    "name": "Sausage Roll Plate",
+    "img": "/images/furniture/Inv_Sausage_Roll_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Sausage Roll",
+            "img": "/images/recipes/cookingRecipes/Inv_Sausage_Roll.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scones_plate",
+    "name": "Scones Plate",
+    "img": "/images/furniture/Inv_Scones_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Scones",
+            "img": "/images/recipes/cookingRecipes/Inv_Scones.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seaweed_soup_plate",
+    "name": "Seaweed Soup Plate",
+    "img": "/images/furniture/Inv_Seaweed_Soup_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Seaweed Soup",
+            "img": "/images/recipes/cookingRecipes/Inv_Seaweed_Soup.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slippery_jack_basket",
+    "name": "Slippery Jack Basket",
+    "img": "/images/furniture/Inv_Slippery_Jack_Basket.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 5,
+            "name": "Slippery Jack",
+            "img": "/images/resources/foragables/Inv_Slippery_Jack.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spag_bol_plate",
+    "name": "Spag Bol Plate",
+    "img": "/images/furniture/Inv_Spag_Bol_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Spag Bol",
+            "img": "/images/recipes/cookingRecipes/Inv_Spag_Bol.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sparkin_soup_plate",
+    "name": "Sparkin' Soup Plate",
+    "img": "/images/furniture/Inv_Sparkin%27_Soup_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Sparkin' Soup",
+            "img": "/images/recipes/cookingRecipes/Inv_Sparkin%27_Soup.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sugar_bag_stack",
+    "name": "Sugar Bag Stack",
+    "img": "/images/furniture/Inv_Sugar_Bag_Stack.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Sugar",
+            "img": "/images/resources/otherCraftables/Inv_Sugar.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sugar_cane_crate",
+    "name": "Sugar Cane Crate",
+    "img": "/images/furniture/Inv_Sugar_Cane_Crate.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Sugar Cane",
+            "img": "/images/resources/crops/Inv_Sugar_Cane.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toffee_plate",
+    "name": "Toffee Plate",
+    "img": "/images/furniture/Inv_Toffee_Plate.png",
+    "baseSellPrice": 984,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Toffee",
+            "img": "/images/recipes/cookingRecipes/Inv_Toffee.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tomato_box",
+    "name": "Tomato Box",
+    "img": "/images/furniture/Inv_Tomato_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Tomato",
+            "img": "/images/resources/crops/Inv_Tomato.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "watermelon_box",
+    "name": "Watermelon Box",
+    "img": "/images/furniture/Inv_Watermelon_Box.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 2,
+            "name": "Watermelon",
+            "img": "/images/resources/crops/Inv_Watermelon.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "watermelon_popsicle_set",
+    "name": "Watermelon Popsicle Set",
+    "img": "/images/furniture/Inv_Watermelon_Popsicle_Set.png",
+    "baseSellPrice": 500,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Watermelon Popsicle",
+            "img": "/images/resources/otherCraftables/Inv_Watermelon_Popsicle.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wattle_brew_set",
+    "name": "Wattle Brew Set",
+    "img": "/images/furniture/Inv_Wattle_Brew_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Wattle Brew",
+            "img": "/images/recipes/cookingRecipes/Inv_Wattle_Brew.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wattle_tea_set",
+    "name": "Wattle Tea Set",
+    "img": "/images/furniture/Inv_Wattle_Tea_Set.png",
+    "baseSellPrice": 1000,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Wattle Tea",
+            "img": "/images/recipes/cookingRecipes/Inv_Wattle_Tea.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wheat_crate",
+    "name": "Wheat Crate",
+    "img": "/images/furniture/Inv_Wheat_Crate.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 3,
+            "name": "Wheat",
+            "img": "/images/resources/crops/Inv_Wheat.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yellow_morel_basket",
+    "name": "Yellow Morel Basket",
+    "img": "/images/furniture/Inv_Yellow_Morel_Basket.png",
+    "baseSellPrice": 440,
+    "source": ["Food Modeller"],
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 5,
+            "name": "Yellow Morel",
+            "img": "/images/resources/foragables/Inv_Yellow_Morel.png"
+          }
+        ]
+      }
+    ]
+  }
+]

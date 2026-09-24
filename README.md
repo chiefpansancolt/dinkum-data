@@ -125,11 +125,12 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 
 ### 🍳 Recipes
 
-| Module                                                              | Factory                | Items | Description                |
-| ------------------------------------------------------------------- | ---------------------- | ----- | -------------------------- |
-| [cooking-recipes](src/modules/recipes/cooking-recipes.md)           | `cookingRecipes()`     | 72    | Cookable dishes with buffs |
-| [crafting-recipes](src/modules/recipes/crafting-recipes.md)         | `craftingRecipes()`    | 235   | Craftable items            |
-| [sign-writing-recipes](src/modules/recipes/sign-writing-recipes.md) | `signWritingRecipes()` | 14    | Sign Writing recipes       |
+| Module                                                                | Factory                 | Items | Description                       |
+| --------------------------------------------------------------------- | ----------------------- | ----- | --------------------------------- |
+| [cooking-recipes](src/modules/recipes/cooking-recipes.md)             | `cookingRecipes()`      | 72    | Cookable dishes with buffs        |
+| [crafting-recipes](src/modules/recipes/crafting-recipes.md)           | `craftingRecipes()`     | 235   | Craftable items                   |
+| [food-modeller-recipes](src/modules/recipes/food-modeller-recipes.md) | `foodModellerRecipes()` | 89    | Food Modeller display conversions |
+| [sign-writing-recipes](src/modules/recipes/sign-writing-recipes.md)   | `signWritingRecipes()`  | 14    | Sign Writing recipes              |
 
 ### ⚔️ Gear & Equipment
 
@@ -148,7 +149,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | ------------------------------------------------------ | ----------------- | ----- | ---------------------------------------- |
 | [clothing](src/modules/clothing/README.md)             | `clothing()`      | 520   | Wearable clothing across every slot      |
 | [clothing-slots](src/modules/clothing-slots/README.md) | `clothingSlots()` | n/a   | Which clothing types belong to each slot |
-| [furniture](src/modules/furniture/README.md)           | `furniture()`     | 437   | Placeable furniture                      |
+| [furniture](src/modules/furniture/README.md)           | `furniture()`     | 441   | Placeable furniture                      |
 
 ### 🏠 World
 

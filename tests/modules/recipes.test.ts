@@ -1,10 +1,15 @@
 import { CookingRecipeQuery, cookingRecipes } from '@/modules/recipes/cooking-recipes';
 import { CraftingRecipeQuery, craftingRecipes } from '@/modules/recipes/crafting-recipes';
+import {
+  FoodModellerRecipeQuery,
+  foodModellerRecipes,
+} from '@/modules/recipes/food-modeller-recipes';
 import { SignWritingRecipeQuery, signWritingRecipes } from '@/modules/recipes/sign-writing-recipes';
 import { testQueryBaseContract } from '../helpers';
 
 testQueryBaseContract('cookingRecipes', () => cookingRecipes());
 testQueryBaseContract('craftingRecipes', () => craftingRecipes());
+testQueryBaseContract('foodModellerRecipes', () => foodModellerRecipes());
 testQueryBaseContract('signWritingRecipes', () => signWritingRecipes());
 
 describe('CookingRecipeQuery filters', () => {
@@ -72,6 +77,45 @@ describe('CraftingRecipeQuery filters', () => {
 
   it('sortByBaseSellPrice() sorts ascending when requested', () => {
     const sorted = craftingRecipes().sortByBaseSellPrice('asc').get();
+    for (let i = 1; i < sorted.length; i++) {
+      expect(sorted[i - 1].baseSellPrice).toBeLessThanOrEqual(sorted[i].baseSellPrice);
+    }
+  });
+});
+
+describe('FoodModellerRecipeQuery filters', () => {
+  it('accepts an explicit source array', () => {
+    const subset = foodModellerRecipes().get().slice(0, 1);
+    expect(new FoodModellerRecipeQuery(subset).count()).toBe(1);
+  });
+
+  it('uses default data when constructed without arguments', () => {
+    expect(new FoodModellerRecipeQuery().count()).toBeGreaterThan(0);
+  });
+
+  it('bySource() returns only matching recipes', () => {
+    const source = foodModellerRecipes().first()!.source![0];
+    for (const r of foodModellerRecipes().bySource(source).get()) {
+      expect(r.source?.some((s) => s.toLowerCase().includes(source.toLowerCase()))).toBe(true);
+    }
+  });
+
+  it('bySource() excludes recipes with no source', () => {
+    const noSource = new FoodModellerRecipeQuery([
+      { ...foodModellerRecipes().first()!, source: undefined },
+    ]);
+    expect(noSource.bySource('anything').count()).toBe(0);
+  });
+
+  it('sortByBaseSellPrice() sorts descending by default', () => {
+    const sorted = foodModellerRecipes().sortByBaseSellPrice().get();
+    for (let i = 1; i < sorted.length; i++) {
+      expect(sorted[i - 1].baseSellPrice).toBeGreaterThanOrEqual(sorted[i].baseSellPrice);
+    }
+  });
+
+  it('sortByBaseSellPrice() sorts ascending when requested', () => {
+    const sorted = foodModellerRecipes().sortByBaseSellPrice('asc').get();
     for (let i = 1; i < sorted.length; i++) {
       expect(sorted[i - 1].baseSellPrice).toBeLessThanOrEqual(sorted[i].baseSellPrice);
     }

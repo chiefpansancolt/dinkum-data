@@ -118,8 +118,8 @@ See [CHANGELOG.md](CHANGELOG.md) for a full history of releases and changes.
 ## Disclaimer
 
 This project is not affiliated with, endorsed by, or connected to Dinkum or its creators. All game
-data is sourced from the [Dinkum Wiki](https://dinkum.fandom.com/wiki/Dinkum_Wiki). Game images and names are
-used for reference purposes only.
+data is sourced from the [Dinkum Wiki](https://dinkum.fandom.com/wiki/Dinkum_Wiki). Game images and
+names are used for reference purposes only.
 
 ## License
 

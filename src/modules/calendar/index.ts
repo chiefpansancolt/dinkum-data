@@ -5,7 +5,7 @@ const calendarData: { days: CalendarDay[] } = data as { days: CalendarDay[] };
 
 /**
  * Query builder for the static 112-day Dinkum calendar (4 seasons x 28 days).
- * Unlike other queries, this is not indexed by id/name — days are addressed by season and day number.
+ * Unlike other queries, this is not indexed by id/name; days are addressed by season and day number.
  */
 export class CalendarQuery {
   constructor(private readonly days: CalendarDay[] = calendarData.days) {}

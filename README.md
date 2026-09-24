@@ -11,15 +11,15 @@ TypeScript types and image assets, consumable as an ESM or CJS npm package.
 
 ## Features
 
-- **Comprehensive game data** — animals, buildings, the full 112-day calendar, clothing, flowers,
+- **Comprehensive game data**: animals, buildings, the full 112-day calendar, clothing, flowers,
   furniture, licenses, milestones, NPCs, skills, trees, weight-calculator items, museum pedia
   entries (fish, bugs, critters), gear and equipment (books, cassettes, equipment, tools, vehicles,
   weapons), recipes (cooking, crafting, sign-writing), and resources (animal products, crops,
   foragables, minerals, other craftables, paint, relics, seeds, trophies)
-- **Fully typed** — every entity has a precise TypeScript interface
-- **Fluent query API** — chainable filter and sort methods per category
-- **Image assets included** — over 2,000 item icons, accessible via relative path
-- **Dual ESM + CJS** — works in both modern ESM projects and legacy CommonJS
+- **Fully typed**: every entity has a precise TypeScript interface
+- **Fluent query API**: chainable filter and sort methods per category
+- **Image assets included**: over 2,000 item icons, accessible via relative path
+- **Dual ESM + CJS**: works in both modern ESM projects and legacy CommonJS
 
 ---
 
@@ -51,7 +51,7 @@ const domesticatable = animals().domesticable().get();
 
 // Museum pedia
 const rareFish = fish().byRarity("Rare").get();
-const summerFish = fish().bySeason("Summer").sortBySellPrice().get();
+const summerFish = fish().bySeason("Summer").sortByBaseSellPrice().get();
 
 // Licenses
 const miningLicence = licenses().findByName("Mining Licence");
@@ -123,4 +123,4 @@ names are used for reference purposes only.
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT. See [LICENSE](LICENSE) for details.

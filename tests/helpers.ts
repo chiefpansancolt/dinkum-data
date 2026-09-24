@@ -8,7 +8,7 @@ export function testQueryBaseContract<T extends { id: string; name: string }>(
   factoryName: string,
   factory: () => QueryBase<T>,
 ) {
-  describe(`${factoryName} — QueryBase contract`, () => {
+  describe(`${factoryName}: QueryBase contract`, () => {
     it('get() returns a non-empty array', () => {
       const results = factory().get();
       expect(Array.isArray(results)).toBe(true);

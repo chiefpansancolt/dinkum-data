@@ -61,18 +61,18 @@ abstract class QueryBase<T extends { id: string; name: string }> {
 
 ### Rules
 
-1. **Filter methods** return `new XxxQuery(filteredData)` — never mutate
-2. **Sort methods** return `new XxxQuery(sortedData)` — never mutate
-3. **Terminal methods** return data or primitives — end the chain
+1. **Filter methods** return `new XxxQuery(filteredData)`. Never mutate.
+2. **Sort methods** return `new XxxQuery(sortedData)`. Never mutate.
+3. **Terminal methods** return data or primitives and end the chain.
 4. The internal data const must not shadow the factory function name (e.g. `animalData`, not
    `animals`)
 5. Factory functions accept an optional `source` parameter for wrapping pre-filtered arrays
 
 ### Modules without QueryBase
 
-- **calendar** — `CalendarQuery` addresses days by season/day number rather than id/name, since a
+- **calendar**: `CalendarQuery` addresses days by season/day number rather than id/name, since a
   calendar day has neither
-- **daily-milestones** — plain functions over a grouped object (`dailyMilestones()`,
+- **daily-milestones**: plain functions over a grouped object (`dailyMilestones()`,
   `dailyMilestonesByCategory()`, `allDailyMilestones()`), since the source data is categorized
   groups, not a flat list
 
@@ -91,7 +91,7 @@ abstract class QueryBase<T extends { id: string; name: string }> {
 ## Import Conventions
 
 ```ts
-// Within src/ — use path aliases
+// Within src/, use path aliases
 import { QueryBase } from "@/common/query-base";
 import data from "@/data/animals.json";
 import { Animal } from "@/types";
@@ -224,14 +224,14 @@ describe("NPCQuery filters", () => {
 **Coverage notes:**
 
 - `testQueryBaseContract` covers the shared `get`/`count`/`first`/`find`/`findByName`/`search`
-  contract — always call it first
+  contract, so always call it first
 - The class constructor's own default parameter is a separate branch from the factory function's
   default parameter. The factory always resolves its own default before calling `new XQuery(...)`,
   so `new XQuery()` with zero arguments must be called directly to cover that branch
 - Every sort method needs both `'asc'` and `'desc'` exercised
 - Every optional-chaining filter (`?.`) needs a real dataset entry that has the field and one that
-  doesn't — check with a quick Python/Node one-liner over the JSON before writing the test rather
-  than guessing
+  doesn't. Check with a quick Python/Node one-liner over the JSON before writing the test rather
+  than guessing.
 
 ### Step 8: Format and validate
 
@@ -246,14 +246,14 @@ pnpm sample          # Exercise queries end to end
 
 When adding a new module, make sure you've touched all of these:
 
-- [ ] `src/types/<module>.ts` — type interface
-- [ ] `src/types/index.ts` — re-export the type
-- [ ] `data/<module>.json` — data file
-- [ ] `src/modules/<module>/index.ts` — query class + factory
-- [ ] `src/index.ts` (or the category's `index.ts`) — re-export the module
-- [ ] `images/<category>/` — image assets
-- [ ] `sample/index.ts` — a representative call or two
-- [ ] `tests/modules/<module>.test.ts` — test file, including both constructor-default branches and
+- [ ] `src/types/<module>.ts`: type interface
+- [ ] `src/types/index.ts`: re-export the type
+- [ ] `data/<module>.json`: data file
+- [ ] `src/modules/<module>/index.ts`: query class + factory
+- [ ] `src/index.ts` (or the category's `index.ts`): re-export the module
+- [ ] `images/<category>/`: image assets
+- [ ] `sample/index.ts`: a representative call or two
+- [ ] `tests/modules/<module>.test.ts`: test file, including both constructor-default branches and
       both directions of every sort
 - [ ] Run `pnpm format && pnpm lint && pnpm test:coverage && pnpm sample`
 

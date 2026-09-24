@@ -34,10 +34,10 @@ Thanks for your interest in contributing! This guide will help you get started.
 
 ### Before Submitting
 
-1. **Format your code** — run `pnpm format` to ensure consistent style
-2. **Lint** — run `pnpm lint` to catch type errors and lint issues
-3. **Run tests** — run `pnpm test` to make sure nothing is broken
-4. **Run the sample** — run `pnpm sample` to exercise query logic end to end
+1. **Format your code**: run `pnpm format` to ensure consistent style
+2. **Lint**: run `pnpm lint` to catch type errors and lint issues
+3. **Run tests**: run `pnpm test` to make sure nothing is broken
+4. **Run the sample**: run `pnpm sample` to exercise query logic end to end
 
 ## Adding a New Data Module
 
@@ -58,7 +58,7 @@ issue template.
 
 ## Pull Requests
 
-- Keep PRs focused — one feature or fix per PR
+- Keep PRs focused: one feature or fix per PR
 - Write a clear description of what changed and why
 - Ensure all checks pass (lint, test, format)
 - Reference any related issues

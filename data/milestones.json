@@ -2507,6 +2507,19 @@
     ]
   },
   {
+    "id": "thunderstruck",
+    "name": "Thunderstruck",
+    "description": "Sometimes the sky gets mad and starts throwing down bolts. Here is a milestone for getting hit by lightning.",
+    "img": "/images/milestones/Milestone_Thunderstruck.png",
+    "levels": [
+      {
+        "level": 1,
+        "count": 1,
+        "permitPoints": 2500
+      }
+    ]
+  },
+  {
     "id": "timber",
     "name": "Timber",
     "description": "Sometime trees get in the way and sometimes you just need to borrow their wood for a bit. Here is a milestone for chopping down trees.",
@@ -2771,21 +2784,6 @@
       {
         "level": 1,
         "count": 10,
-        "permitPoints": 100
-      },
-      {
-        "level": 2,
-        "count": 50,
-        "permitPoints": 100
-      },
-      {
-        "level": 3,
-        "count": 250,
-        "permitPoints": 100
-      },
-      {
-        "level": 4,
-        "count": 1000,
         "permitPoints": 100
       }
     ]

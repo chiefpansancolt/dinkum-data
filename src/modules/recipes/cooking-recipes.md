@@ -1,6 +1,6 @@
 # Cooking Recipes
 
-Every cookable recipe, with ingredients, buffs, and where each recipe sells for the most. 70 recipes
+Every cookable recipe, with ingredients, buffs, and where each recipe sells for the most. 72 recipes
 are included.
 
 ---
@@ -34,7 +34,7 @@ Extends `Recipe`.
 ```ts
 import { cookingRecipes } from "dinkum-data";
 
-cookingRecipes(); // all 70 recipes
+cookingRecipes(); // all 72 recipes
 cookingRecipes(source); // wrap a pre-filtered array
 ```
 
@@ -81,3 +81,11 @@ import { cookingRecipes } from "dinkum-data";
 // Everything cookable on a Campfire, most valuable first
 cookingRecipes().byLocation("Campfire").sortByBaseSellPrice().get();
 ```
+
+---
+
+## Data Notes
+
+As of the Cooking Table review (2026-09), Mighty Sandwich's `baseSellPrice` is a placeholder `0`.
+Neither its wiki page nor the Cooking Table recipe table list a sell price for it. Re-check
+[the wiki](https://dinkum.fandom.com/wiki/Cooking_Table) for a real value once one is added.

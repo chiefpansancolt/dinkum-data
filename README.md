@@ -127,7 +127,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 
 | Module                                                              | Factory                | Items | Description                |
 | ------------------------------------------------------------------- | ---------------------- | ----- | -------------------------- |
-| [cooking-recipes](src/modules/recipes/cooking-recipes.md)           | `cookingRecipes()`     | 70    | Cookable dishes with buffs |
+| [cooking-recipes](src/modules/recipes/cooking-recipes.md)           | `cookingRecipes()`     | 72    | Cookable dishes with buffs |
 | [crafting-recipes](src/modules/recipes/crafting-recipes.md)         | `craftingRecipes()`    | 235   | Craftable items            |
 | [sign-writing-recipes](src/modules/recipes/sign-writing-recipes.md) | `signWritingRecipes()` | 14    | Sign Writing recipes       |
 

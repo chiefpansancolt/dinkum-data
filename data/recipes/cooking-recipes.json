@@ -208,7 +208,7 @@
     "buffs": {
       "length": 35,
       "healthRegenRate": 3,
-      "healthMax": 0.5,
+      "healthMax": 30,
       "staminaRegenRate": 7,
       "staminaMax": 20
     }
@@ -277,9 +277,9 @@
     "buffs": {
       "length": 20,
       "healthRegenRate": 1,
-      "healthMax": 0.5,
+      "healthMax": 30,
       "staminaRegenRate": 3.5,
-      "staminaMax": 0.5,
+      "staminaMax": 30,
       "attackLevel": 2,
       "defenseLevel": 1
     }
@@ -1578,7 +1578,7 @@
     "id": "fairy_bread",
     "name": "Fairy Bread",
     "img": "/images/recipes/cookingRecipes/Inv_Fairy_Bread.png",
-    "outputCount": 1,
+    "outputCount": 4,
     "variants": [
       {
         "id": "standard",
@@ -1644,7 +1644,7 @@
       "healthRegenRate": 3,
       "healthMax": 10,
       "staminaRegenRate": 3,
-      "staminaMax": 0.5,
+      "staminaMax": 30,
       "fishLevel": 3
     }
   },
@@ -1719,7 +1719,7 @@
           },
           {
             "count": 2,
-            "name": "Banana",
+            "name": "Bananas",
             "img": "/images/resources/foragables/Inv_Bananas.png"
           },
           {
@@ -2102,7 +2102,7 @@
       "healthRegenRate": 1,
       "healthMax": 15,
       "staminaRegenRate": 6,
-      "staminaMax": 0.5,
+      "staminaMax": 30,
       "defenseLevel": 1,
       "foragingLevel": 1,
       "miningLevel": 1,
@@ -2199,7 +2199,7 @@
   },
   {
     "id": "meat_on_a_stick",
-    "name": "Meat on a stick.",
+    "name": "Meat on a stick",
     "img": "/images/recipes/cookingRecipes/Inv_Meat_on_a_Stick.png",
     "outputCount": 1,
     "variants": [
@@ -2285,6 +2285,42 @@
       "staminaRegenRate": 4,
       "staminaMax": 5,
       "attackLevel": 1
+    }
+  },
+  {
+    "id": "mighty_sandwich",
+    "name": "Mighty Sandwich",
+    "img": "/images/recipes/cookingRecipes/Inv_Mighty_Sandwich.png",
+    "outputCount": 3,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Bread",
+            "img": "/images/recipes/cookingRecipes/Inv_Bread.png"
+          },
+          {
+            "count": 1,
+            "name": "Mighty Spread",
+            "img": "/images/resources/crops/Inv_Mighty_Spread.png"
+          }
+        ]
+      }
+    ],
+    "cookingLocation": ["Cooking Table"],
+    "baseSellPrice": 0,
+    "buffs": {
+      "length": 10,
+      "healthRegenRate": 3,
+      "healthMax": 15,
+      "staminaRegenRate": 3,
+      "staminaMax": 15,
+      "attackLevel": 3,
+      "defenseLevel": 3,
+      "charged": true,
+      "diligent": true
     }
   },
   {
@@ -2392,7 +2428,7 @@
         "inputs": [
           {
             "count": 1,
-            "name": "Raw Drumstick",
+            "name": "Raw Giant Drumstick",
             "img": "/images/animals/Inv_Raw_Giant_Drumstick.png"
           },
           {
@@ -2417,7 +2453,7 @@
         "inputs": [
           {
             "count": 1,
-            "name": "Raw Drumstick",
+            "name": "Raw Giant Drumstick",
             "img": "/images/animals/Inv_Raw_Giant_Drumstick.png"
           },
           {
@@ -2439,7 +2475,7 @@
       }
     ],
     "cookingLocation": ["Cooking Table"],
-    "baseSellPrice": 2424,
+    "baseSellPrice": 4242,
     "sheilasSellPrice": 10605,
     "tedsSellPrice": 8484,
     "jimmysSellPrice": 6363,
@@ -2448,7 +2484,7 @@
       "healthRegenRate": 3,
       "healthMax": 10,
       "staminaRegenRate": 7,
-      "staminaMax": 0.5,
+      "staminaMax": 30,
       "attackLevel": 2
     }
   },
@@ -2670,6 +2706,107 @@
     }
   },
   {
+    "id": "quiche",
+    "name": "Quiche",
+    "img": "/images/recipes/cookingRecipes/Inv_Quiche.png",
+    "outputCount": 1,
+    "variants": [
+      {
+        "id": "chicken_egg_cheese",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Flour",
+            "img": "/images/resources/otherCraftables/Inv_Flour.png"
+          },
+          {
+            "count": 1,
+            "name": "Chicken Egg",
+            "img": "/images/resources/animalProducts/Inv_Chicken_Egg.png"
+          },
+          {
+            "count": 1,
+            "name": "Cheese",
+            "img": "/images/recipes/cookingRecipes/Inv_Cheese.png"
+          }
+        ]
+      },
+      {
+        "id": "big_chicken_egg_cheese",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Flour",
+            "img": "/images/resources/otherCraftables/Inv_Flour.png"
+          },
+          {
+            "count": 1,
+            "name": "Big Chicken Egg",
+            "img": "/images/animals/Inv_Big_Chicken_Egg.png"
+          },
+          {
+            "count": 1,
+            "name": "Cheese",
+            "img": "/images/recipes/cookingRecipes/Inv_Cheese.png"
+          }
+        ]
+      },
+      {
+        "id": "chicken_egg_high_quality_cheese",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Flour",
+            "img": "/images/resources/otherCraftables/Inv_Flour.png"
+          },
+          {
+            "count": 1,
+            "name": "Chicken Egg",
+            "img": "/images/resources/animalProducts/Inv_Chicken_Egg.png"
+          },
+          {
+            "count": 1,
+            "name": "High Quality Cheese",
+            "img": "/images/recipes/cookingRecipes/Inv_High_Quality_Cheese.png"
+          }
+        ]
+      },
+      {
+        "id": "big_chicken_egg_high_quality_cheese",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Flour",
+            "img": "/images/resources/otherCraftables/Inv_Flour.png"
+          },
+          {
+            "count": 1,
+            "name": "Big Chicken Egg",
+            "img": "/images/animals/Inv_Big_Chicken_Egg.png"
+          },
+          {
+            "count": 1,
+            "name": "High Quality Cheese",
+            "img": "/images/recipes/cookingRecipes/Inv_High_Quality_Cheese.png"
+          }
+        ]
+      }
+    ],
+    "cookingLocation": ["Cooking Table"],
+    "baseSellPrice": 3830,
+    "sheilasSellPrice": 9575,
+    "jimmysSellPrice": 5745,
+    "buffs": {
+      "length": 17,
+      "healthRegenRate": 2,
+      "healthMax": 20,
+      "staminaRegenRate": 4,
+      "staminaMax": 30,
+      "foragingLevel": 2,
+      "miningLevel": 2
+    }
+  },
+  {
     "id": "roasted_coffee_beans",
     "name": "Roasted Coffee Beans",
     "img": "/images/recipes/cookingRecipes/Inv_Roasted_Coffee_Beans.png",
@@ -2782,7 +2919,7 @@
   },
   {
     "id": "scone",
-    "name": "Scone",
+    "name": "Scones",
     "img": "/images/recipes/cookingRecipes/Inv_Scones.png",
     "outputCount": 1,
     "variants": [
@@ -2976,9 +3113,9 @@
     "buffs": {
       "length": 20,
       "healthRegenRate": 1,
-      "healthMax": 0.5,
+      "healthMax": 30,
       "staminaRegenRate": 3.5,
-      "staminaMax": 0.5,
+      "staminaMax": 30,
       "attackLevel": 2,
       "defenseLevel": 1
     }

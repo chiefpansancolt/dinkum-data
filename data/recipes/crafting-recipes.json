@@ -903,7 +903,7 @@
     "id": "bug_terrarium",
     "name": "Bug Terrarium",
     "img": "/images/recipes/craftingRecipes/Inv_Bug_Terrarium.png",
-    "baseSellPrice": 0,
+    "baseSellPrice": 104325,
     "source": ["Bug Catching Level 30"],
     "outputCount": 1,
     "variants": [
@@ -931,7 +931,7 @@
             "img": "/images/resources/minerals/Inv_Quartz_Crystal.png"
           },
           {
-            "name": "Fir Grass Seed",
+            "name": "Fir Grass Seeds",
             "count": 10,
             "img": "/images/resources/seeds/Inv_Fir_Grass_Seeds.png"
           },
@@ -971,7 +971,7 @@
             "img": "/images/resources/minerals/Inv_Quartz_Crystal.png"
           },
           {
-            "name": "Fir Grass Seed",
+            "name": "Fir Grass Seeds",
             "count": 10,
             "img": "/images/resources/seeds/Inv_Fir_Grass_Seeds.png"
           },
@@ -1011,7 +1011,7 @@
             "img": "/images/resources/minerals/Inv_Quartz_Crystal.png"
           },
           {
-            "name": "Fir Grass Seed",
+            "name": "Fir Grass Seeds",
             "count": 10,
             "img": "/images/resources/seeds/Inv_Fir_Grass_Seeds.png"
           },

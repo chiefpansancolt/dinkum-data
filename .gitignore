@@ -4,6 +4,7 @@ tmp/
 *.log
 dist/
 .env
+.npmrc
 coverage/
 .claude/
 CLAUDE.md

@@ -50,6 +50,17 @@ relics().byLocation("Old Barrel").get();
 
 Sort by John's sell price. Defaults to `'desc'` (most valuable first).
 
+### Other
+
+#### `.uniqueLocations()`
+
+Every distinct dig-site location across the current result set, alphabetically sorted. Useful for
+building a location filter without hand-maintaining a separate list.
+
+```ts
+relics().uniqueLocations(); // ["Car Relic", "Crab Pot", "John's Goods", "Old Barrel", "Satellite", "Wheelie Bin"]
+```
+
 ---
 
 ### Terminal methods

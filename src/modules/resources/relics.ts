@@ -24,6 +24,11 @@ export class RelicQuery extends QueryBase<Relic> {
       ),
     );
   }
+
+  /** Every distinct dig-site location across the current result set, alphabetically sorted. */
+  uniqueLocations(): string[] {
+    return [...new Set(this.data.flatMap((r) => r.locations))].sort();
+  }
 }
 
 /** Returns a RelicQuery for all relic data. Pass `source` to wrap a pre-filtered array. */

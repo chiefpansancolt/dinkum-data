@@ -83,9 +83,11 @@ const mostValuable = rareFish.sortByBaseSellPrice().first();
 const count = rareFish.count();
 ```
 
-Two modules don't follow this pattern, since their source data isn't a flat, filterable list. See
-[Calendar](src/modules/calendar/README.md) and
-[Daily Milestones](src/modules/daily-milestones/README.md) below.
+Four modules don't follow this pattern, since their source data isn't a flat, filterable list. See
+[Calendar](src/modules/calendar/README.md),
+[Daily Milestones](src/modules/daily-milestones/README.md),
+[Clothing Slots](src/modules/clothing-slots/README.md), and
+[Buff Icons](src/modules/buff-icons/README.md) below.
 
 ---
 
@@ -142,10 +144,11 @@ Two modules don't follow this pattern, since their source data isn't a flat, fil
 
 ### 👕 Clothing & Furniture
 
-| Module                                       | Factory       | Items | Description                         |
-| -------------------------------------------- | ------------- | ----- | ----------------------------------- |
-| [clothing](src/modules/clothing/README.md)   | `clothing()`  | 514   | Wearable clothing across every slot |
-| [furniture](src/modules/furniture/README.md) | `furniture()` | 421   | Placeable furniture                 |
+| Module                                                 | Factory           | Items | Description                              |
+| ------------------------------------------------------ | ----------------- | ----- | ---------------------------------------- |
+| [clothing](src/modules/clothing/README.md)             | `clothing()`      | 514   | Wearable clothing across every slot      |
+| [clothing-slots](src/modules/clothing-slots/README.md) | `clothingSlots()` | n/a   | Which clothing types belong to each slot |
+| [furniture](src/modules/furniture/README.md)           | `furniture()`     | 421   | Placeable furniture                      |
 
 ### 🏠 World
 
@@ -156,18 +159,25 @@ Two modules don't follow this pattern, since their source data isn't a flat, fil
 
 ### 🏆 Progression
 
-| Module                                                     | Factory             | Items | Description                           |
-| ---------------------------------------------------------- | ------------------- | ----- | ------------------------------------- |
-| [licenses](src/modules/licenses/README.md)                 | `licenses()`        | 25    | Purchasable licenses and their levels |
-| [milestones](src/modules/milestones/README.md)             | `milestones()`      | 98    | Long-term milestone achievements      |
-| [skills](src/modules/skills/README.md)                     | `skills()`          | 6     | Trainable skills                      |
-| [daily-milestones](src/modules/daily-milestones/README.md) | `dailyMilestones()` | 120   | Repeatable daily task pool            |
+| Module                                                             | Factory                 | Items | Description                           |
+| ------------------------------------------------------------------ | ----------------------- | ----- | ------------------------------------- |
+| [licenses](src/modules/licenses/README.md)                         | `licenses()`            | 25    | Purchasable licenses and their levels |
+| [milestones](src/modules/milestones/README.md)                     | `milestones()`          | 98    | Long-term milestone achievements      |
+| [milestone-categories](src/modules/milestone-categories/README.md) | `milestoneCategories()` | 9     | Categories used to group milestones   |
+| [skills](src/modules/skills/README.md)                             | `skills()`              | 6     | Trainable skills                      |
+| [daily-milestones](src/modules/daily-milestones/README.md)         | `dailyMilestones()`     | 120   | Repeatable daily task pool            |
 
 ### 📅 Calendar
 
 | Module                                     | Factory      | Description                                         |
 | ------------------------------------------ | ------------ | --------------------------------------------------- |
 | [calendar](src/modules/calendar/README.md) | `calendar()` | The full 112-day calendar with birthdays and events |
+
+### 🔖 Reference Data
+
+| Module                                         | Factory       | Description                        |
+| ---------------------------------------------- | ------------- | ---------------------------------- |
+| [buff-icons](src/modules/buff-icons/README.md) | `buffIcons()` | Icon image path for each buff tier |
 
 ### 🧮 Calculators
 

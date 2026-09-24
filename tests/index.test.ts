@@ -36,5 +36,8 @@ describe('package entry point', () => {
     expect(dinkumData.skills().count()).toBeGreaterThan(0);
     expect(dinkumData.trees().count()).toBeGreaterThan(0);
     expect(dinkumData.weightItems().count()).toBeGreaterThan(0);
+    expect(dinkumData.buffIcons().length).toBeDefined();
+    expect(dinkumData.clothingSlots().Head.length).toBeGreaterThan(0);
+    expect(dinkumData.milestoneCategories().count()).toBeGreaterThan(0);
   });
 });

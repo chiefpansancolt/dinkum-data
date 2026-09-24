@@ -1,7 +1,7 @@
 {
   "name": "dinkum-data",
-  "version": "0.1.0",
-  "description": "A comprehensive, fully-typed dataset for Dinkum — structured JSON data, image assets, and a chainable query builder API.",
+  "version": "0.2.0",
+  "description": "A comprehensive, fully-typed dataset for Dinkum: structured JSON data, image assets, and a chainable query builder API.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

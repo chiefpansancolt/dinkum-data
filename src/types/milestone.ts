@@ -12,6 +12,15 @@ export interface Milestone extends Base {
   levels: MilestoneLevel[];
 }
 
+/**
+ * A milestone category tag. `id` is the substring every milestone in that category shares in its
+ * own `id` (e.g. every fishing milestone's `id` contains `"fish"`).
+ */
+export interface MilestoneCategory {
+  id: string;
+  name: string;
+}
+
 export interface DailyMilestone {
   id: string;
   name: string;

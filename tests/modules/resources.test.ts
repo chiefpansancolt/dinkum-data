@@ -237,6 +237,18 @@ describe('RelicQuery filters', () => {
       expect(sorted[i - 1].johnsSellPrice).toBeLessThanOrEqual(sorted[i].johnsSellPrice);
     }
   });
+
+  it('uniqueLocations() returns every distinct location, sorted', () => {
+    const locations = relics().uniqueLocations();
+    expect(locations.length).toBeGreaterThan(0);
+    expect([...locations].sort()).toEqual(locations);
+    const allLocations = new Set(
+      relics()
+        .get()
+        .flatMap((r) => r.locations),
+    );
+    expect(new Set(locations)).toEqual(allLocations);
+  });
 });
 
 describe('SeedQuery filters', () => {

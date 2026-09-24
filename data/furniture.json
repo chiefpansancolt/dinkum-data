@@ -1,5 +1,14 @@
 [
   {
+    "id": "airship_souvenir",
+    "name": "Airship Souvenir",
+    "img": "/images/furniture/Inv_Airship_Souvenir.png",
+    "source": ["Airport"],
+    "displayPrice": 15000,
+    "baseSellPrice": 7500,
+    "melvinsCatalogue": false
+  },
+  {
     "id": "alarm_clock",
     "name": "Alarm Clock",
     "img": "/images/furniture/Inv_Alarm_Clock.png",
@@ -62,16 +71,6 @@
     "melvinsCatalogue": true
   },
   {
-    "id": "basic_blue_orange",
-    "name": "Basic Blue Orange",
-    "img": "/images/furniture/Inv_Basic_Blue_Orange.png",
-    "source": ["Melvin Furniture", "Recycling Bin"],
-    "displayPrice": 2900,
-    "cataloguePrice": 3625,
-    "baseSellPrice": 1450,
-    "melvinsCatalogue": true
-  },
-  {
     "id": "basic_blue_rug",
     "name": "Basic Blue Rug",
     "img": "/images/furniture/Inv_Basic_Blue_Rug.png",
@@ -110,6 +109,15 @@
     "cataloguePrice": 625,
     "baseSellPrice": 250,
     "melvinsCatalogue": true
+  },
+  {
+    "id": "basic_blue_orange",
+    "name": "Basic Orange Rug",
+    "img": "/images/furniture/Inv_Basic_Blue_Orange.png",
+    "source": ["Melvin Furniture", "Recycling Bin"],
+    "displayPrice": 2900,
+    "baseSellPrice": 1450,
+    "melvinsCatalogue": false
   },
   {
     "id": "basic_pink_rug",
@@ -256,6 +264,14 @@
     "baseSellPrice": 14881,
     "melvinsCatalogue": false,
     "furnitureSet": "Beach Set"
+  },
+  {
+    "id": "blue_cushion_stack",
+    "name": "Blue Cushion Stack",
+    "img": "/images/furniture/Inv_Blue_Cushion_Stack.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 550,
+    "melvinsCatalogue": true
   },
   {
     "id": "blue_pattern_wall",
@@ -629,6 +645,14 @@
     "source": ["Food Modeller", "Recycling Bin"],
     "baseSellPrice": 440,
     "melvinsCatalogue": false
+  },
+  {
+    "id": "chopping_board",
+    "name": "Chopping Board",
+    "img": "/images/furniture/Inv_Chopping_Board.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": true
   },
   {
     "id": "cloud_wall",
@@ -1386,6 +1410,14 @@
     "furnitureSet": "Flower and Plant Set"
   },
   {
+    "id": "floor_candelabra",
+    "name": "Floor Candelabra",
+    "img": "/images/furniture/Inv_Floor_Candelabra.png",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": false
+  },
+  {
     "id": "floor_drain",
     "name": "Floor Drain",
     "img": "/images/furniture/Inv_Floor_Drain.png",
@@ -1456,6 +1488,32 @@
     "cataloguePrice": 1500,
     "baseSellPrice": 600,
     "melvinsCatalogue": true
+  },
+  {
+    "id": "glowing_box",
+    "name": "Glowing Box",
+    "img": "/images/furniture/Inv_Glowing_Box.png",
+    "source": ["Night Merchant Event"],
+    "displayPrice": 1000000,
+    "baseSellPrice": 500000,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "glowing_mushroom_pot",
+    "name": "Glowing Mushroom Pot",
+    "img": "/images/furniture/Inv_Glowing_Mushroom_Pot.png",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "glowing_slab",
+    "name": "Glowing Slab",
+    "img": "/images/furniture/Inv_Glowing_Slab.png",
+    "source": ["Night Merchant Event"],
+    "displayPrice": 1000000,
+    "baseSellPrice": 500000,
+    "melvinsCatalogue": false
   },
   {
     "id": "gold_bug_comp_trophy",
@@ -1742,11 +1800,11 @@
     "melvinsCatalogue": false
   },
   {
-    "id": "ice_cream_set",
-    "name": "Ice Cream Set",
-    "img": "/images/furniture/Inv_Ice_Cream_Set.png",
-    "source": ["Food Modeller", "Recycling Bin"],
-    "baseSellPrice": 984,
+    "id": "hunters_stool",
+    "name": "Hunter's Stool",
+    "img": "/images/furniture/Inv_Hunter%27s_Stool.png",
+    "source": ["Great Bite", "Hunter's Camp"],
+    "baseSellPrice": 0,
     "melvinsCatalogue": false
   },
   {
@@ -1757,6 +1815,14 @@
     "baseSellPrice": 19,
     "melvinsCatalogue": false,
     "furnitureSet": "Ice Set"
+  },
+  {
+    "id": "ice_cream_set",
+    "name": "Ice Cream Set",
+    "img": "/images/furniture/Inv_Ice_Cream_Set.png",
+    "source": ["Food Modeller", "Recycling Bin"],
+    "baseSellPrice": 984,
+    "melvinsCatalogue": false
   },
   {
     "id": "ice_fence",
@@ -1822,14 +1888,6 @@
     "furnitureSet": "Ice Set"
   },
   {
-    "id": "inflatable_pool",
-    "name": "Inflatable Pool",
-    "img": "/images/furniture/Inv_Inflatable_Pool.png",
-    "source": ["Island Reef", "Cooler"],
-    "baseSellPrice": 0,
-    "melvinsCatalogue": false
-  },
-  {
     "id": "indoor_summer_lily",
     "name": "Indoor Summer Lily",
     "img": "/images/furniture/Inv_Indoor_Summer_Lily.png",
@@ -1839,6 +1897,14 @@
     "baseSellPrice": 1500,
     "melvinsCatalogue": true,
     "furnitureSet": "Flower and Plant Set"
+  },
+  {
+    "id": "inflatable_pool",
+    "name": "Inflatable Pool",
+    "img": "/images/furniture/Inv_Inflatable_Pool.png",
+    "source": ["Island Reef", "Cooler"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": false
   },
   {
     "id": "interior_doorway",
@@ -1947,6 +2013,15 @@
     "melvinsCatalogue": false
   },
   {
+    "id": "leather_bench",
+    "name": "Leather Bench",
+    "img": "/images/furniture/Inv_Leather_Bench.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "cataloguePrice": 19050,
+    "baseSellPrice": 0,
+    "melvinsCatalogue": true
+  },
+  {
     "id": "leather_couch",
     "name": "Leather Couch",
     "img": "/images/furniture/Inv_Leather_Couch.png",
@@ -1985,6 +2060,15 @@
     "cataloguePrice": 8760,
     "baseSellPrice": 3504,
     "melvinsCatalogue": true
+  },
+  {
+    "id": "lighthouse_souvenir",
+    "name": "Lighthouse Souvenir",
+    "img": "/images/furniture/Inv_Lighthouse_Souvenir.png",
+    "source": ["Airport"],
+    "displayPrice": 15000,
+    "baseSellPrice": 7500,
+    "melvinsCatalogue": false
   },
   {
     "id": "lime_jam_set",
@@ -2031,17 +2115,17 @@
     "melvinsCatalogue": true
   },
   {
-    "id": "meat_pie_plate",
-    "name": "Meat Pie Plate",
-    "img": "/images/furniture/Inv_Meat_Pie_Plate.png",
+    "id": "meat_on_a_stick_set",
+    "name": "Meat on a Stick Set",
+    "img": "/images/furniture/Inv_Meat_on_a_Stick_Set.png",
     "source": ["Food Modeller", "Recycling Bin"],
     "baseSellPrice": 984,
     "melvinsCatalogue": false
   },
   {
-    "id": "meat_on_a_stick_set",
-    "name": "Meat on a Stick Set",
-    "img": "/images/furniture/Inv_Meat_on_a_Stick_Set.png",
+    "id": "meat_pie_plate",
+    "name": "Meat Pie Plate",
+    "img": "/images/furniture/Inv_Meat_Pie_Plate.png",
     "source": ["Food Modeller", "Recycling Bin"],
     "baseSellPrice": 984,
     "melvinsCatalogue": false
@@ -2570,6 +2654,22 @@
     "melvinsCatalogue": false
   },
   {
+    "id": "pencil_cup",
+    "name": "Pencil Cup",
+    "img": "/images/furniture/Inv_Pencil_Cup.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": true
+  },
+  {
+    "id": "penguin_plush",
+    "name": "Penguin Plush",
+    "img": "/images/furniture/Inv_Penguin_Plush.png",
+    "source": ["Prize Box during John's Goods Anniversary Event"],
+    "baseSellPrice": 500,
+    "melvinsCatalogue": false
+  },
+  {
     "id": "picnic_basket",
     "name": "Picnic Basket",
     "img": "/images/furniture/Inv_Picnic_Basket.png",
@@ -2594,6 +2694,14 @@
     "img": "/images/furniture/Inv_Pineapple_Box.png",
     "source": ["Food Modeller", "Recycling Bin"],
     "baseSellPrice": 440,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "pineapple_jam_set",
+    "name": "Pineapple Jam Set",
+    "img": "/images/furniture/Inv_Pineapple_Jam_Set.png",
+    "source": ["Food Modeller", "Recycling Bin"],
+    "baseSellPrice": 100,
     "melvinsCatalogue": false
   },
   {
@@ -2737,6 +2845,14 @@
     "cataloguePrice": 1087,
     "baseSellPrice": 435,
     "melvinsCatalogue": true
+  },
+  {
+    "id": "pleep_plush",
+    "name": "Pleep Plush",
+    "img": "/images/furniture/Inv_Pleep_Plush.png",
+    "source": ["Prize Box during John's Goods Anniversary Event"],
+    "baseSellPrice": 500,
+    "melvinsCatalogue": false
   },
   {
     "id": "potato_box",
@@ -3040,6 +3156,14 @@
     "melvinsCatalogue": true
   },
   {
+    "id": "red_cushion_stack",
+    "name": "Red Cushion Stack",
+    "img": "/images/furniture/Inv_Red_Cushion_Stack.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": true
+  },
+  {
     "id": "red_lava_lamp",
     "name": "Red Lava Lamp",
     "img": "/images/furniture/Inv_Red_Lava_Lamp.png",
@@ -3325,6 +3449,15 @@
     "img": "/images/furniture/Inv_Shark_Plush.png",
     "source": ["Prize Box"],
     "baseSellPrice": 2500,
+    "melvinsCatalogue": false
+  },
+  {
+    "id": "shark_statue_souvenir",
+    "name": "Shark Statue Souvenir",
+    "img": "/images/furniture/Inv_Shark_Statue_Souvenir.png",
+    "source": ["Airport"],
+    "displayPrice": 15000,
+    "baseSellPrice": 7500,
     "melvinsCatalogue": false
   },
   {
@@ -3888,6 +4021,14 @@
     "furnitureSet": "White Set"
   },
   {
+    "id": "white_cushion_stack",
+    "name": "White Cushion Stack",
+    "img": "/images/furniture/Inv_White_Cushion_Stack.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": true
+  },
+  {
     "id": "white_dinner_table",
     "name": "White Dinner Table",
     "img": "/images/furniture/Inv_White_Dinner_Table.png",
@@ -4107,13 +4248,5 @@
     "baseSellPrice": 1500,
     "melvinsCatalogue": true,
     "furnitureSet": "Flower and Plant Set"
-  },
-  {
-    "id": "pineapple_jam_set",
-    "name": "Pineapple Jam Set",
-    "img": "/images/furniture/Inv_Pineapple_Jam_Set.png",
-    "source": ["Food Modeller", "Recycling Bin"],
-    "baseSellPrice": 100,
-    "melvinsCatalogue": false
   }
 ]

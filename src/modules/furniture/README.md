@@ -1,6 +1,6 @@
 # Furniture
 
-Placeable furniture for houses and buildings, including catalogue pricing and set membership. 421
+Placeable furniture for houses and buildings, including catalogue pricing and set membership. 437
 items are included.
 
 ---
@@ -29,7 +29,7 @@ items are included.
 ```ts
 import { furniture } from "dinkum-data";
 
-furniture(); // all 421 items
+furniture(); // all 437 items
 furniture(source); // wrap a pre-filtered array
 ```
 

@@ -26,6 +26,32 @@
     ]
   },
   {
+    "id": "critter_book",
+    "name": "Critter Book",
+    "img": "/images/gearAndEquipment/books/Inv_Critter_Book.png",
+    "details": [
+      {
+        "aquiredFrom": "Theodore at the Museum",
+        "requirements": "The museum collection to be 50% completed",
+        "buyingPrice": 98000,
+        "sellingPrice": 49000
+      }
+    ]
+  },
+  {
+    "id": "encyclopedia",
+    "name": "Encyclopedia",
+    "img": "/images/gearAndEquipment/books/Inv_Encyclopedia.png",
+    "details": [
+      {
+        "aquiredFrom": "Hunter's Crafting Table in Ted Selly's camp at the Great Bite",
+        "requirements": "Year 2, Airport built",
+        "buyingPrice": 0,
+        "sellingPrice": 196250
+      }
+    ]
+  },
+  {
     "id": "fish_book",
     "name": "Fish Book",
     "img": "/images/gearAndEquipment/books/Inv_Fish_Book.png",
@@ -44,8 +70,8 @@
     "img": "/images/gearAndEquipment/books/Inv_Machine_Manual.png",
     "details": [
       {
-        "aquiredFrom": "John fom John's Goods",
-        "requirements": "Purchase un John's Goods",
+        "aquiredFrom": "John from John's Goods",
+        "requirements": "Purchase in John's Goods",
         "buyingPrice": 15000,
         "sellingPrice": 7500
       }
@@ -80,6 +106,19 @@
         "requirements": "Purchase on Jimmy's Boat",
         "buyingPrice": 36000,
         "sellingPrice": 18000
+      }
+    ]
+  },
+  {
+    "id": "tome_of_wounding",
+    "name": "Tome of Wounding",
+    "img": "/images/gearAndEquipment/books/Inv_Tome_of_Wounding.png",
+    "details": [
+      {
+        "aquiredFrom": "Hunter's Crafting Table in Ted Selly's camp at the Great Bite",
+        "requirements": "Year 2, Airport built",
+        "buyingPrice": 0,
+        "sellingPrice": 130000
       }
     ]
   }

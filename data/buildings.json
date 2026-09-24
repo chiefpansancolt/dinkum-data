@@ -7,7 +7,7 @@
     "img": "/images/buildings/Inv_Airport_Deed.png",
     "npc": "Nancy",
     "npcImg": "/images/npcs/NPC_Nancy.png",
-    "description": "From Year 2 after all NPCs have moved in",
+    "description": "From Year 2 after 11 NPCs have moved in",
     "buildTime": "2 Nights",
     "deedPrice": 2500000,
     "deedType": "Collectable",
@@ -143,7 +143,7 @@
       }
     ],
     "operatingHours": ["7am - 4pm"],
-    "daysClosed": "Staurday & Sunday"
+    "daysClosed": "Saturday & Sunday"
   },
   {
     "id": "base_tent",
@@ -301,6 +301,53 @@
     "deedPrice": 25000,
     "deedType": "Movable",
     "inputs": [],
+    "operatingHours": [],
+    "daysClosed": ""
+  },
+  {
+    "id": "guest_house_upgrade_2",
+    "name": "Guest House Upgrade 2",
+    "deedName": "Guest House Upgrade 2",
+    "size": "8x8",
+    "img": "/images/buildings/Inv_Guest_House_Deed_1.png",
+    "npc": "",
+    "npcImg": "",
+    "description": "Unlocked with a House Customisation Kit. Construction materials box appears at house.",
+    "buildTime": "Overnight",
+    "deedPrice": 220000,
+    "deedType": "Collectable",
+    "inputs": [
+      {
+        "count": 15,
+        "name": "Gum Wood Plank",
+        "img": "/images/resources/otherCraftables/Inv_Gum_Wood_Plank.png"
+      },
+      {
+        "count": 15,
+        "name": "Palm Wood Plank",
+        "img": "/images/resources/otherCraftables/Inv_Palm_Wood_Plank.png"
+      },
+      {
+        "count": 15,
+        "name": "Hard Wood Plank",
+        "img": "/images/resources/otherCraftables/Inv_Hard_Wood_Plank.png"
+      },
+      {
+        "count": 16,
+        "name": "Nails",
+        "img": "/images/gearAndEquipment/equipment/Inv_Nails.png"
+      },
+      {
+        "count": 3,
+        "name": "Tin Sheet",
+        "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
+      },
+      {
+        "count": 5,
+        "name": "Copper Bar",
+        "img": "/images/resources/otherCraftables/Inv_Copper_Bar.png"
+      }
+    ],
     "operatingHours": [],
     "daysClosed": ""
   },
@@ -890,7 +937,7 @@
         "img": "/images/gearAndEquipment/equipment/Inv_Nails.png"
       }
     ],
-    "operatingHours": ["9am - 5p"],
+    "operatingHours": ["9am - 5pm"],
     "daysClosed": "Tuesday"
   },
   {
@@ -914,7 +961,7 @@
       {
         "count": 10,
         "name": "Hard Wood Plank",
-        "img": "/images/resources/otherCraftables/Inv_Palm_Wood_Plank.png"
+        "img": "/images/resources/otherCraftables/Inv_Hard_Wood_Plank.png"
       },
       {
         "count": 10,
@@ -961,7 +1008,7 @@
       {
         "count": 15,
         "name": "Hard Wood Plank",
-        "img": "/images/resources/otherCraftables/Inv_Palm_Wood_Plank.png"
+        "img": "/images/resources/otherCraftables/Inv_Hard_Wood_Plank.png"
       },
       {
         "count": 4,

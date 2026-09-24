@@ -35,7 +35,7 @@
     "id": "green_board",
     "name": "Green Board",
     "img": "/images/resources/relics/Inv_Green_Board.png",
-    "locations": ["Old Barrel", "Wheelie Bin", "Satellite"],
+    "locations": ["Old Barrel", "Wheelie Bin", "Satellite", "Old Gizmo"],
     "baseSellPrice": 6120,
     "johnsSellPrice": 1530
   },
@@ -59,7 +59,7 @@
     "id": "old_gear",
     "name": "Old Gear",
     "img": "/images/resources/relics/Inv_Old_Gear.png",
-    "locations": ["Old Barrel", "Car Relic", "John's Goods"],
+    "locations": ["Old Barrel", "Car Relic", "John's Goods", "Old Gizmo"],
     "buyPrice": 1050,
     "baseSellPrice": 525,
     "johnsSellPrice": 131
@@ -76,7 +76,7 @@
     "id": "old_spring",
     "name": "Old Spring",
     "img": "/images/resources/relics/Inv_Old_Spring.png",
-    "locations": ["Old Barrel", "Car Relic"],
+    "locations": ["Old Barrel", "Car Relic", "Old Gizmo"],
     "baseSellPrice": 485,
     "johnsSellPrice": 120
   },

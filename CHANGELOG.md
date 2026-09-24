@@ -10,5 +10,4 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 
 Initial release: structured JSON data, TypeScript types, image assets, and a chainable query builder
-API for Dinkum, sourced from the [dinkum-tracker](https://github.com/chiefpansancolt/dinkum-tracker)
-app.
+API for Dinkum, sourced from [Dinkum Wiki](https://dinkum.fandom.com/wiki/Dinkum_Wiki).

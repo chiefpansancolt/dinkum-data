@@ -767,7 +767,7 @@
     "img": "/images/gearAndEquipment/equipment/Inv_Storage_Barrel.png",
     "description": "Holds 24 items. Can be painted.",
     "requirementLevel": null,
-    "source": ["Crafting Table", "Franklyn's Lab", "Jimmy's Boat"],
+    "source": ["Crafting Table"],
     "buyPrice": 5000,
     "buyUnits": "Dinks",
     "baseSellPrice": 4281

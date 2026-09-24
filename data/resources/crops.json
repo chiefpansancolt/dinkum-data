@@ -279,6 +279,25 @@
     }
   },
   {
+    "id": "rice",
+    "name": "Rice",
+    "img": "/images/resources/crops/Inv_Rice.png",
+    "baseSellPrice": 144,
+    "seed": {
+      "id": "rice_seed",
+      "name": "Rice Seed",
+      "img": "/images/resources/seeds/Inv_Rice_Seed.png",
+      "source": ["Rayne's Greenhouse"],
+      "buyPrice": 120,
+      "baseSellPrice": 60,
+      "category": "Crop Seed",
+      "growthPeriod": 9,
+      "outputCountMin": 1,
+      "outputCountMax": 1,
+      "season": ["All"]
+    }
+  },
+  {
     "id": "sugar_cane",
     "name": "Sugar Cane",
     "img": "/images/resources/crops/Inv_Sugar_Cane.png",

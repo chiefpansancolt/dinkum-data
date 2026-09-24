@@ -1,6 +1,6 @@
 # Crops
 
-Farmable crops, with the seed each one grows from. 16 crops are included.
+Farmable crops, with the seed each one grows from. 17 crops are included.
 
 ---
 
@@ -26,7 +26,7 @@ Farmable crops, with the seed each one grows from. 16 crops are included.
 ```ts
 import { crops } from "dinkum-data";
 
-crops(); // all 16 crops
+crops(); // all 17 crops
 crops(source); // wrap a pre-filtered array
 ```
 

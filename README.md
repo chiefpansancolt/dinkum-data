@@ -184,7 +184,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 
 | Module                                             | Factory         | Items | Description                                     |
 | -------------------------------------------------- | --------------- | ----- | ----------------------------------------------- |
-| [weight-items](src/modules/weight-items/README.md) | `weightItems()` | 12    | Items sold by weight, for the Weight Calculator |
+| [weight-items](src/modules/weight-items/README.md) | `weightItems()` | 13    | Items sold by weight, for the Weight Calculator |
 
 ---
 

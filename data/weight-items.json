@@ -24,12 +24,12 @@
     "maxWeight": 1.5
   },
   {
-    "id": "raw_berkonium",
-    "name": "Raw Berkonium",
-    "img": "/images/weightItems/Raw_Berkonium.png",
-    "pricePerKg": 25000,
-    "minWeight": 2,
-    "maxWeight": 6
+    "id": "big_snow_ball",
+    "name": "Big Snow Ball",
+    "img": "/images/weightItems/Big_Snow_Ball.png",
+    "pricePerKg": 100,
+    "minWeight": 1,
+    "maxWeight": 5
   },
   {
     "id": "emerald",
@@ -48,6 +48,14 @@
     "maxWeight": 12
   },
   {
+    "id": "giant_shell",
+    "name": "Giant Shell",
+    "img": "/images/weightItems/Giant_Shell.png",
+    "pricePerKg": 15000,
+    "minWeight": 0.5,
+    "maxWeight": 1.5
+  },
+  {
     "id": "meteorite",
     "name": "Meteorite",
     "img": "/images/resources/minerals/Meteorite.png",
@@ -56,20 +64,20 @@
     "maxWeight": 3
   },
   {
+    "id": "raw_berkonium",
+    "name": "Raw Berkonium",
+    "img": "/images/weightItems/Raw_Berkonium.png",
+    "pricePerKg": 25000,
+    "minWeight": 2,
+    "maxWeight": 6
+  },
+  {
     "id": "ruby",
     "name": "Ruby",
     "img": "/images/resources/minerals/Ruby.png",
     "pricePerKg": 15000,
     "minWeight": 2,
     "maxWeight": 6
-  },
-  {
-    "id": "big_snow_ball",
-    "name": "Big Snow Ball",
-    "img": "/images/weightItems/Big_Snow_Ball.png",
-    "pricePerKg": 100,
-    "minWeight": 1,
-    "maxWeight": 5
   },
   {
     "id": "snow_man",

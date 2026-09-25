@@ -1,7 +1,7 @@
 # Weight Items
 
 Items sold by weight rather than by unit, with their price per kilogram and weight range, for the
-Weight Calculator. 12 items are included.
+Weight Calculator. 13 items are included.
 
 ---
 
@@ -25,7 +25,7 @@ Weight Calculator. 12 items are included.
 ```ts
 import { weightItems } from "dinkum-data";
 
-weightItems(); // all 12 items
+weightItems(); // all 13 items
 weightItems(source); // wrap a pre-filtered array
 ```
 

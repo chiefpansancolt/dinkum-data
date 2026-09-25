@@ -23,7 +23,7 @@
         "img": "/images/animals/Inv_Raw_Drumstick.png"
       }
     ],
-    "researchReward": 8400,
+    "researchReward": 5250,
     "type": "Wild Animal"
   },
   {
@@ -55,7 +55,7 @@
         "img": "/images/resources/seeds/Inv_Bottle_Tree_Seed.png"
       }
     ],
-    "researchReward": 4000,
+    "researchReward": 2500,
     "type": "Wild Animal"
   },
   {
@@ -87,7 +87,7 @@
         "img": "/images/resources/animalProducts/Inv_Maggie_Egg.png"
       }
     ],
-    "researchReward": 4000,
+    "researchReward": 2500,
     "type": "Wild Animal"
   },
   {
@@ -104,12 +104,12 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       },
       {
-        "name": "Raw Drumstick",
+        "name": "Raw Giant Drumstick",
         "count": 3,
-        "img": "/images/animals/Inv_Raw_Drumstick.png"
+        "img": "/images/animals/Inv_Raw_Giant_Drumstick.png"
       }
     ],
-    "researchReward": 4000,
+    "researchReward": 2500,
     "type": "Wild Animal"
   },
   {
@@ -151,7 +151,7 @@
         "img": "/images/animals/Inv_Raw_Drumstick.png"
       }
     ],
-    "researchReward": 4200,
+    "researchReward": 2625,
     "type": "Wild Animal"
   },
   {
@@ -204,7 +204,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 4400,
+    "researchReward": 2750,
     "type": "Wild Animal"
   },
   {
@@ -226,7 +226,7 @@
         "img": "/images/resources/animalProducts/Inv_Thunder_Sac.png"
       }
     ],
-    "researchReward": 8720,
+    "researchReward": 5450,
     "type": "Wild Animal"
   },
   {
@@ -253,12 +253,12 @@
         "img": "/images/clothing/Inv_Jackaroo_Hood.png"
       }
     ],
-    "researchReward": 6400,
+    "researchReward": 4000,
     "type": "Wild Animal"
   },
   {
     "id": "kinda",
-    "name": "Kinda",
+    "name": "Kidna",
     "img": "/images/animals/Kidna.png",
     "temperament": "Neutral",
     "habitat": ["Desert"],
@@ -275,7 +275,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 8400,
+    "researchReward": 5250,
     "type": "Wild Animal"
   },
   {
@@ -297,7 +297,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 8000,
+    "researchReward": 5000,
     "type": "Wild Animal",
     "domesticable": true
   },
@@ -310,7 +310,7 @@
     "health": 350,
     "drops": [
       {
-        "name": "Raw Meat",
+        "name": "Raw Prime Meat",
         "count": 3,
         "img": "/images/animals/Inv_Raw_Prime_Meat.png"
       },
@@ -331,7 +331,7 @@
     "health": 200,
     "drops": [
       {
-        "name": "Raw Meat",
+        "name": "Raw Prime Meat",
         "count": 3,
         "img": "/images/animals/Inv_Raw_Prime_Meat.png"
       },
@@ -352,7 +352,7 @@
     "health": 200,
     "drops": [
       {
-        "name": "Raw Meat",
+        "name": "Raw Prime Meat",
         "count": 3,
         "img": "/images/animals/Inv_Raw_Prime_Meat.png"
       },
@@ -373,7 +373,7 @@
     "health": 600,
     "drops": [
       {
-        "name": "Raw Meat",
+        "name": "Raw Prime Meat",
         "count": 1,
         "img": "/images/animals/Inv_Raw_Prime_Meat.png"
       },
@@ -414,7 +414,7 @@
         "img": "/images/resources/animalProducts/Inv_Tongue.png"
       }
     ],
-    "researchReward": 26160,
+    "researchReward": 16350,
     "type": "Wild Animal"
   },
   {
@@ -431,7 +431,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       },
       {
-        "name": "Raw Meat",
+        "name": "Raw Prime Meat",
         "count": 1,
         "img": "/images/animals/Inv_Raw_Prime_Meat.png"
       },
@@ -441,7 +441,7 @@
         "img": "/images/resources/animalProducts/Inv_Flame_Sac.png"
       }
     ],
-    "researchReward": 12000,
+    "researchReward": 7500,
     "type": "Wild Animal"
   },
   {
@@ -474,7 +474,7 @@
         "img": "/images/animals/Inv_Croco_Meat.png"
       },
       {
-        "name": "Crocobile Tooth",
+        "name": "Crocodile Tooth",
         "count": 1,
         "img": "/images/resources/animalProducts/Inv_Crocodile_Tooth.png"
       },
@@ -484,7 +484,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 9600,
+    "researchReward": 6000,
     "type": "Wild Animal"
   },
   {
@@ -506,7 +506,7 @@
         "img": "/images/clothing/Inv_Flame_Jelly_Hood.png"
       }
     ],
-    "researchReward": 20000,
+    "researchReward": 10500,
     "type": "Wild Animal"
   },
   {
@@ -523,7 +523,7 @@
         "img": "/images/animals/Inv_Croco_Meat.png"
       },
       {
-        "name": "Crocobile Tooth",
+        "name": "Crocodile Tooth",
         "count": 1,
         "img": "/images/resources/animalProducts/Inv_Crocodile_Tooth.png"
       },
@@ -533,7 +533,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 9600,
+    "researchReward": 6000,
     "type": "Wild Animal"
   },
   {
@@ -607,7 +607,7 @@
   },
   {
     "id": "wary_wu",
-    "name": "Wary Wu",
+    "name": "Wary Mu",
     "img": "/images/animals/Wary_Mu.png",
     "temperament": "Aggressive",
     "habitat": ["Tropics"],
@@ -624,7 +624,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 8400,
+    "researchReward": 5250,
     "type": "Wild Animal"
   },
   {
@@ -951,7 +951,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 24000,
+    "researchReward": 15000,
     "type": "Wild Animal",
     "domesticable": true
   },
@@ -974,7 +974,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 31200,
+    "researchReward": 19500,
     "type": "Wild Animal",
     "domesticable": true
   },
@@ -1024,7 +1024,7 @@
         "img": "/images/resources/animalProducts/Inv_Bone.png"
       }
     ],
-    "researchReward": 22400,
+    "researchReward": 14000,
     "type": "Wild Animal",
     "domesticable": true
   },

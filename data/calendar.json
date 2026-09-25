@@ -207,7 +207,15 @@
       "day": 19,
       "season": "Summer",
       "weekday": "Thursday",
-      "events": [],
+      "events": [
+        {
+          "name": "Night Merchant Event",
+          "startDay": 19,
+          "endDay": 19,
+          "season": "Summer",
+          "emoji": "🌙"
+        }
+      ],
       "birthdays": []
     },
     {
@@ -455,7 +463,15 @@
       "day": 19,
       "season": "Autumn",
       "weekday": "Thursday",
-      "events": [],
+      "events": [
+        {
+          "name": "Night Merchant Event",
+          "startDay": 19,
+          "endDay": 19,
+          "season": "Autumn",
+          "emoji": "🌙"
+        }
+      ],
       "birthdays": []
     },
     {
@@ -679,7 +695,15 @@
       "day": 19,
       "season": "Winter",
       "weekday": "Thursday",
-      "events": [],
+      "events": [
+        {
+          "name": "Night Merchant Event",
+          "startDay": 19,
+          "endDay": 19,
+          "season": "Winter",
+          "emoji": "🌙"
+        }
+      ],
       "birthdays": []
     },
     {
@@ -912,7 +936,15 @@
       "day": 19,
       "season": "Spring",
       "weekday": "Thursday",
-      "events": [],
+      "events": [
+        {
+          "name": "Night Merchant Event",
+          "startDay": 19,
+          "endDay": 19,
+          "season": "Spring",
+          "emoji": "🌙"
+        }
+      ],
       "birthdays": []
     },
     {

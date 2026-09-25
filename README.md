@@ -130,7 +130,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | [cooking-recipes](src/modules/recipes/cooking-recipes.md)             | `cookingRecipes()`      | 72    | Cookable dishes with buffs        |
 | [crafting-recipes](src/modules/recipes/crafting-recipes.md)           | `craftingRecipes()`     | 235   | Craftable items                   |
 | [food-modeller-recipes](src/modules/recipes/food-modeller-recipes.md) | `foodModellerRecipes()` | 89    | Food Modeller display conversions |
-| [sign-writing-recipes](src/modules/recipes/sign-writing-recipes.md)   | `signWritingRecipes()`  | 14    | Sign Writing recipes              |
+| [sign-writing-recipes](src/modules/recipes/sign-writing-recipes.md)   | `signWritingRecipes()`  | 17    | Sign Writing recipes              |
 
 ### ⚔️ Gear & Equipment
 

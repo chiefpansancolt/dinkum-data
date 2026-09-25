@@ -1,5 +1,30 @@
 [
   {
+    "id": "blue_sign",
+    "name": "Blue Sign",
+    "img": "/images/recipes/signWritingRecipes/Inv_Blue_Sign.png",
+    "outputCount": 1,
+    "source": ["Sign Writing Licence Level 2"],
+    "baseSellPrice": 594,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Tin Sheet",
+            "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
+          },
+          {
+            "count": 1,
+            "name": "Blue Paint",
+            "img": "/images/resources/paint/Inv_Blue_Paint.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "floor_plaque",
     "name": "Floor Plaque",
     "img": "/images/recipes/signWritingRecipes/Inv_Floor_Plaque.png",
@@ -369,6 +394,56 @@
             "count": 1,
             "name": "Tin Sheet",
             "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "white_sign",
+    "name": "White Sign",
+    "img": "/images/recipes/signWritingRecipes/Inv_White_Sign.png",
+    "outputCount": 1,
+    "source": ["Sign Writing Licence Level 2"],
+    "baseSellPrice": 0,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Tin Sheet",
+            "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
+          },
+          {
+            "count": 1,
+            "name": "White Paint",
+            "img": "/images/resources/paint/Inv_White_Paint.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yellow_item_sign",
+    "name": "Yellow Item Sign",
+    "img": "/images/recipes/signWritingRecipes/Inv_Yellow_Item_Sign.png",
+    "outputCount": 1,
+    "source": ["Sign Writing Licence Level 2"],
+    "baseSellPrice": 0,
+    "variants": [
+      {
+        "id": "standard",
+        "inputs": [
+          {
+            "count": 1,
+            "name": "Tin Sheet",
+            "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
+          },
+          {
+            "count": 1,
+            "name": "Yellow Paint",
+            "img": "/images/resources/paint/Inv_Yellow_Paint.png"
           }
         ]
       }

@@ -1,6 +1,6 @@
 # Sign Writing Recipes
 
-Every Sign Writing recipe and its license unlock level. 14 recipes are included.
+Every Sign Writing recipe and its license unlock level. 17 recipes are included.
 
 ---
 

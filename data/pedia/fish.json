@@ -349,7 +349,7 @@
   },
   {
     "id": "macquarie_perch",
-    "name": "Macquire Perch",
+    "name": "Macquarie Perch",
     "img": "/images/pedia/fish/Inv_Macquarie_Perch.png",
     "biome": ["Rivers"],
     "timeFound": ["Day"],

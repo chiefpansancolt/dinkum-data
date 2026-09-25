@@ -156,7 +156,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | Module                                       | Factory       | Items | Description                             |
 | -------------------------------------------- | ------------- | ----- | --------------------------------------- |
 | [buildings](src/modules/buildings/README.md) | `buildings()` | 31    | Deeds and collectable/movable buildings |
-| [npcs](src/modules/npcs/README.md)           | `npcs()`      | 22    | Every resident NPC                      |
+| [npcs](src/modules/npcs/README.md)           | `npcs()`      | 23    | Every resident NPC                      |
 
 ### 🏆 Progression
 

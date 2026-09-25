@@ -1,6 +1,6 @@
 # NPCs
 
-Every resident NPC in Dinkum, with their occupation, move-in requirements, and food preferences. 22
+Every resident NPC in Dinkum, with their occupation, move-in requirements, and food preferences. 23
 NPCs are included.
 
 ---
@@ -29,7 +29,7 @@ NPCs are included.
 ```ts
 import { npcs } from "dinkum-data";
 
-npcs(); // all 22 NPCs
+npcs(); // all 23 NPCs
 npcs(source); // wrap a pre-filtered array
 ```
 

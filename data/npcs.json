@@ -350,5 +350,21 @@
       "dislikes": "Crab Soup",
       "dislikesImg": "/images/recipes/cookingRecipes/Inv_Crab_Soup.png"
     }
+  },
+  {
+    "id": "night_merchant",
+    "name": "Night Merchant",
+    "img": "/images/npcs/NPC_Night_Merchant.png",
+    "occupation": "Runs the Night Merchant Event tent at the Visitors Site",
+    "requirements": {
+      "visit": "From Year 2, on the 19th of every season, at the Visitors Site",
+      "moveIn": "N/A"
+    },
+    "foodPreferences": {
+      "likes": "",
+      "likesImg": "",
+      "dislikes": "",
+      "dislikesImg": ""
+    }
   }
 ]

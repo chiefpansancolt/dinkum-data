@@ -3,6 +3,7 @@ export * from './animal';
 export * from './building';
 export * from './calendar';
 export * from './clothing';
+export * from './decoration';
 export * from './furniture';
 export * from './gear';
 export * from './items';

@@ -7,6 +7,7 @@ export * from './modules/clothing';
 export * from './modules/clothing-slots';
 export * from './modules/daily-milestones';
 export * from './modules/flowers';
+export * from './modules/decorations';
 export * from './modules/furniture';
 export * from './modules/gear-and-equipment';
 export * from './modules/licenses';

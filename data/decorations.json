@@ -1,0 +1,2960 @@
+[
+  {
+    "id": "arch_fence",
+    "name": "Arch Fence",
+    "img": "/images/decorations/Inv_Arch_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 625
+  },
+  {
+    "id": "arrow_light",
+    "name": "Arrow Light",
+    "img": "/images/decorations/Inv_Arrow_Light.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 3815
+  },
+  {
+    "id": "barbed_wire_fence",
+    "name": "Barbed Wire Fence",
+    "img": "/images/decorations/Inv_Barbed_Wire_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "basalt",
+    "name": "Basalt",
+    "img": "/images/decorations/Inv_Basalt.png",
+    "category": "Paths & Steps",
+    "source": ["Hot Hot Hot"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "basic_bench",
+    "name": "Basic Bench",
+    "img": "/images/decorations/Inv_Basic_Bench.png",
+    "category": "Benches",
+    "source": ["Gacha Machine"],
+    "baseSellPrice": 1280
+  },
+  {
+    "id": "beach_bar",
+    "name": "Beach Bar",
+    "img": "/images/decorations/Inv_Beach_Bar.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1565
+  },
+  {
+    "id": "bin_chook_plush",
+    "name": "Bin Chook Plush",
+    "img": "/images/decorations/Inv_Bin_Chook_Plush.png",
+    "category": "Plush",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 500
+  },
+  {
+    "id": "bin_chook_statue",
+    "name": "Bin Chook Statue",
+    "img": "/images/decorations/Inv_Bin_Chook_Statue.png",
+    "category": "Statues",
+    "source": ["Hot Hot Hot"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "black_marble_path",
+    "name": "Black Marble Path",
+    "img": "/images/decorations/Inv_Black_Marble_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Hot Hot Hot"],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "black_tile_path",
+    "name": "Black Tile Path",
+    "img": "/images/decorations/Inv_Black_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "blue_belt_fence",
+    "name": "Blue Belt Fence",
+    "img": "/images/decorations/Inv_Blue_Belt_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 156
+  },
+  {
+    "id": "blue_carpet_path",
+    "name": "Blue Carpet Path",
+    "img": "/images/decorations/Inv_Blue_Carpet_Path.png",
+    "category": "Paths & Steps",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 156
+  },
+  {
+    "id": "blue_floor_light",
+    "name": "Blue Floor Light",
+    "img": "/images/decorations/Inv_Blue_Floor_Light.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2240
+  },
+  {
+    "id": "blue_tile_path",
+    "name": "Blue Tile Path",
+    "img": "/images/decorations/Inv_Blue_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "board_fence",
+    "name": "Board Fence",
+    "img": "/images/decorations/Inv_Board_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "bottle_brush_vase",
+    "name": "Bottle Brush Vase",
+    "img": "/images/decorations/Inv_Bottle_Brush_Vase.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 1500
+  },
+  {
+    "id": "bouquet_pot",
+    "name": "Bouquet Pot",
+    "img": "/images/decorations/Inv_Bouquet_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["Prize Box"],
+    "baseSellPrice": 500
+  },
+  {
+    "id": "brick_bridge",
+    "name": "Brick Bridge",
+    "img": "/images/decorations/Inv_Brick_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 238
+  },
+  {
+    "id": "brick_flower_bed",
+    "name": "Brick Flower Bed",
+    "img": "/images/decorations/Inv_Brick_Flower_Bed.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 19
+  },
+  {
+    "id": "brick_fountain",
+    "name": "Brick Fountain",
+    "img": "/images/decorations/Inv_Brick_Fountain.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 15500
+  },
+  {
+    "id": "brick_path",
+    "name": "Brick Path",
+    "img": "/images/decorations/Inv_Brick_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "brick_pergola",
+    "name": "Brick Pergola",
+    "img": "/images/decorations/Inv_Brick_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 162
+  },
+  {
+    "id": "brick_steps",
+    "name": "Brick Steps",
+    "img": "/images/decorations/Inv_Brick_Steps.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1", "Crafting"],
+    "baseSellPrice": 8
+  },
+  {
+    "id": "brick_well",
+    "name": "Brick Well",
+    "img": "/images/decorations/Inv_Brick_Well.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1125
+  },
+  {
+    "id": "bright_gravel_path",
+    "name": "Bright Gravel Path",
+    "img": "/images/decorations/Inv_Bright_Gravel_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "bunting_festoon",
+    "name": "Bunting Festoon",
+    "img": "/images/decorations/Inv_Bunting_Festoon.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 26688
+  },
+  {
+    "id": "bus_stop",
+    "name": "Bus Stop",
+    "img": "/images/decorations/Inv_Bus_Stop.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 3188
+  },
+  {
+    "id": "bush_devil_plush",
+    "name": "Bush Devil Plush",
+    "img": "/images/decorations/Inv_Bush_Devil_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "bush_devil_statue",
+    "name": "Bush Devil Statue",
+    "img": "/images/decorations/Inv_Bush_Devil_Statue.png",
+    "category": "Statues",
+    "source": ["Deep Mine"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "butterfly_orchid_pot",
+    "name": "Butterfly Orchid Pot",
+    "img": "/images/decorations/Inv_Butterfly_Orchid_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 984
+  },
+  {
+    "id": "cement_bird_bath",
+    "name": "Cement Bird Bath",
+    "img": "/images/decorations/Inv_Cement_Bird_Bath.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 62
+  },
+  {
+    "id": "cement_bridge",
+    "name": "Cement Bridge",
+    "img": "/images/decorations/Inv_Cement_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 812
+  },
+  {
+    "id": "cement_fence",
+    "name": "Cement Fence",
+    "img": "/images/decorations/Inv_Cement_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 6
+  },
+  {
+    "id": "cement_path",
+    "name": "Cement Path",
+    "img": "/images/decorations/Inv_Cement_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "cement_planter",
+    "name": "Cement Planter",
+    "img": "/images/decorations/Inv_Cement_Planter.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 412
+  },
+  {
+    "id": "cement_steps",
+    "name": "Cement Steps",
+    "img": "/images/decorations/Inv_Cement_Steps.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 6
+  },
+  {
+    "id": "cloth_pergola",
+    "name": "Cloth Pergola",
+    "img": "/images/decorations/Inv_Cloth_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 7688
+  },
+  {
+    "id": "cobblestone_fence",
+    "name": "Cobblestone Fence",
+    "img": "/images/decorations/Inv_Cobblestone_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4
+  },
+  {
+    "id": "cobblestone_path",
+    "name": "Cobblestone Path",
+    "img": "/images/decorations/Inv_Cobblestone_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "cobblestone_road",
+    "name": "Cobblestone Road",
+    "img": "/images/decorations/Inv_Cobblestone_Road.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "cobblestone_road_lines",
+    "name": "Cobblestone Road Lines",
+    "img": "/images/decorations/Inv_Cobblestone_Road_Lines.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "cockatoo_plush",
+    "name": "Cockatoo Plush",
+    "img": "/images/decorations/Inv_Cockatoo_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "copper_bulb_lamp",
+    "name": "Copper Bulb Lamp",
+    "img": "/images/decorations/Inv_Copper_Bulb_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2794
+  },
+  {
+    "id": "copper_flower_pot",
+    "name": "Copper Flower Pot",
+    "img": "/images/decorations/Inv_Copper_Flower_Pot.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "copper_top_fence",
+    "name": "Copper Top Fence",
+    "img": "/images/decorations/Inv_Copper_Top_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 202
+  },
+  {
+    "id": "corner_ramp",
+    "name": "Corner Ramp",
+    "img": "/images/decorations/Inv_Corner_Ramp.png",
+    "category": "Paths & Steps",
+    "source": ["Table Saw"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "creeping_vine",
+    "name": "Creeping Vine",
+    "img": "/images/decorations/Inv_Creeping_Vine.png",
+    "category": "Ladders",
+    "source": ["Vine"],
+    "baseSellPrice": 10
+  },
+  {
+    "id": "croco_plush",
+    "name": "Croco Plush",
+    "img": "/images/decorations/Inv_Croco_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "croco_statue",
+    "name": "Croco Statue",
+    "img": "/images/decorations/Inv_Croco_Statue.png",
+    "category": "Statues",
+    "source": ["Undergrove Deep Mine"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "crude_fence",
+    "name": "Crude Fence",
+    "img": "/images/decorations/Inv_Crude_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Fletch"],
+    "baseSellPrice": 32
+  },
+  {
+    "id": "crude_ladder",
+    "name": "Crude Ladder",
+    "img": "/images/decorations/Inv_Crude_Ladder.png",
+    "category": "Ladders",
+    "source": ["Fletch"],
+    "baseSellPrice": 900
+  },
+  {
+    "id": "curtain_festoon",
+    "name": "Curtain Festoon",
+    "img": "/images/decorations/Inv_Curtain_Festoon.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 26688
+  },
+  {
+    "id": "desert_pea_pot",
+    "name": "Desert Pea Pot",
+    "img": "/images/decorations/Inv_Desert_Pea_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 984
+  },
+  {
+    "id": "desert_rose_pot",
+    "name": "Desert Rose Pot",
+    "img": "/images/decorations/Inv_Desert_Rose_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 480
+  },
+  {
+    "id": "diggo_plush",
+    "name": "Diggo Plush",
+    "img": "/images/decorations/Inv_Diggo_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "diggo_statue",
+    "name": "Diggo Statue",
+    "img": "/images/decorations/Inv_Diggo_Statue.png",
+    "category": "Statues",
+    "source": ["Undergrove"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "fairy_light_pergola",
+    "name": "Fairy Light Pergola",
+    "img": "/images/decorations/Inv_Fairy_Light_Pergola.png",
+    "category": "Pergolas",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 7500
+  },
+  {
+    "id": "fairy_light_wall",
+    "name": "Fairy Light Wall",
+    "img": "/images/decorations/Inv_Fairy_Light_Wall.png",
+    "category": "Lights",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "fern_vase",
+    "name": "Fern Vase",
+    "img": "/images/decorations/Inv_Fern_Vase.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 103
+  },
+  {
+    "id": "festive_boom_box",
+    "name": "Festive Boom Box",
+    "img": "/images/decorations/Inv_Festive_Boom_Box.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 65669
+  },
+  {
+    "id": "festive_chair",
+    "name": "Festive Chair",
+    "img": "/images/decorations/Inv_Festive_Chair.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 966
+  },
+  {
+    "id": "festive_crate",
+    "name": "Festive Crate",
+    "img": "/images/decorations/Inv_Festive_Crate.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 1485
+  },
+  {
+    "id": "festive_fence",
+    "name": "Festive Fence",
+    "img": "/images/decorations/Inv_Festive_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Nick"],
+    "baseSellPrice": 56
+  },
+  {
+    "id": "festive_festoon",
+    "name": "Festive Festoon",
+    "img": "/images/decorations/Inv_Festive_Festoon.png",
+    "category": "Lights",
+    "source": ["Nick"],
+    "baseSellPrice": 7870
+  },
+  {
+    "id": "festive_gifts",
+    "name": "Festive Gifts",
+    "img": "/images/decorations/Inv_Festive_Gifts.png",
+    "category": "Festive",
+    "source": ["Jolly Sack"],
+    "baseSellPrice": 8487
+  },
+  {
+    "id": "festive_jackaroo",
+    "name": "Festive Jackaroo",
+    "img": "/images/decorations/Inv_Festive_Jackaroo.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 5319
+  },
+  {
+    "id": "festive_lamp",
+    "name": "Festive Lamp",
+    "img": "/images/decorations/Inv_Festive_Lamp.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 4482
+  },
+  {
+    "id": "festive_pole",
+    "name": "Festive Pole",
+    "img": "/images/decorations/Inv_Festive_Pole.png",
+    "category": "Festive",
+    "source": ["Jolly Sack"],
+    "baseSellPrice": 8487
+  },
+  {
+    "id": "festive_roo_plush",
+    "name": "Festive Roo Plush",
+    "img": "/images/decorations/Inv_Festive_Roo_Plush.png",
+    "category": "Plush",
+    "source": ["Jolly Sack"],
+    "baseSellPrice": 6088
+  },
+  {
+    "id": "festive_scarecrow",
+    "name": "Festive Scarecrow",
+    "img": "/images/decorations/Inv_Festive_Scarecrow.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 7331
+  },
+  {
+    "id": "festive_table",
+    "name": "Festive Table",
+    "img": "/images/decorations/Inv_Festive_Table.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "festive_towel",
+    "name": "Festive Towel",
+    "img": "/images/decorations/Inv_Festive_Towel.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 7022
+  },
+  {
+    "id": "festive_tree",
+    "name": "Festive Tree",
+    "img": "/images/decorations/Inv_Festive_Tree.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 2696
+  },
+  {
+    "id": "festive_umbrella",
+    "name": "Festive Umbrella",
+    "img": "/images/decorations/Inv_Festive_Umbrella.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 14881
+  },
+  {
+    "id": "festoon_lights",
+    "name": "Festoon Lights",
+    "img": "/images/decorations/Inv_Festoon_Lights.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 7431
+  },
+  {
+    "id": "field_mushroom_lamp",
+    "name": "Field Mushroom Lamp",
+    "img": "/images/decorations/Inv_Field_Mushroom_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4919
+  },
+  {
+    "id": "fireplace",
+    "name": "Fireplace",
+    "img": "/images/decorations/Inv_Fireplace.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 2829
+  },
+  {
+    "id": "flannel_flower_pot",
+    "name": "Flannel Flower Pot",
+    "img": "/images/decorations/Inv_Flannel_Flower_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 984
+  },
+  {
+    "id": "flat_top_fence",
+    "name": "Flat Top Fence",
+    "img": "/images/decorations/Inv_Flat_Top_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 625
+  },
+  {
+    "id": "floor_light",
+    "name": "Floor Light",
+    "img": "/images/decorations/Inv_Floor_Light.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1115
+  },
+  {
+    "id": "flower_pot",
+    "name": "Flower Pot",
+    "img": "/images/decorations/Inv_Flower_Pot.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 38
+  },
+  {
+    "id": "frilly_plush",
+    "name": "Frilly Plush",
+    "img": "/images/decorations/Inv_Frilly_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "frilly_statue",
+    "name": "Frilly Statue",
+    "img": "/images/decorations/Inv_Frilly_Statue.png",
+    "category": "Statues",
+    "source": ["Undergrove"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "garden_light",
+    "name": "Garden Light",
+    "img": "/images/decorations/Inv_Garden_Light.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1115
+  },
+  {
+    "id": "gingerbread_path",
+    "name": "Gingerbread Path",
+    "img": "/images/decorations/Inv_Gingerbread_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Nick"],
+    "baseSellPrice": 159
+  },
+  {
+    "id": "glass_fence",
+    "name": "Glass Fence",
+    "img": "/images/decorations/Inv_Glass_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 438
+  },
+  {
+    "id": "glowing_path",
+    "name": "Glowing Path",
+    "img": "/images/decorations/Inv_Glowing_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "golden_bush_devil_statue",
+    "name": "Golden Bush Devil Statue",
+    "img": "/images/decorations/Inv_Golden_Bush_Devil_Statue.png",
+    "category": "Statues",
+    "source": ["Jimmy's Boat"],
+    "baseSellPrice": 180000,
+    "buyPrice": 360000
+  },
+  {
+    "id": "golden_jackaroo_statue",
+    "name": "Golden Jackaroo Statue",
+    "img": "/images/decorations/Inv_Golden_Jackaroo_Statue.png",
+    "category": "Statues",
+    "source": ["Jimmy's Boat"],
+    "baseSellPrice": 180000,
+    "buyPrice": 360000
+  },
+  {
+    "id": "gravel_pathway",
+    "name": "Gravel Pathway",
+    "img": "/images/decorations/Inv_Gravel_Pathway.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "green_floor_light",
+    "name": "Green Floor Light",
+    "img": "/images/decorations/Inv_Green_Floor_Light.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4115
+  },
+  {
+    "id": "green_tile_path",
+    "name": "Green Tile Path",
+    "img": "/images/decorations/Inv_Green_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "gum_log_seat",
+    "name": "Gum Log Seat",
+    "img": "/images/decorations/Inv_Gum_Log_Seat.png",
+    "category": "Benches",
+    "source": ["Fletch"],
+    "baseSellPrice": 375
+  },
+  {
+    "id": "gum_wood_arch",
+    "name": "Gum Wood Arch",
+    "img": "/images/decorations/Inv_Gum_Wood_Arch.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 945
+  },
+  {
+    "id": "gum_wood_bench",
+    "name": "Gum Wood Bench",
+    "img": "/images/decorations/Inv_Gum_Wood_Bench.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1328
+  },
+  {
+    "id": "gum_wood_bridge",
+    "name": "Gum Wood Bridge",
+    "img": "/images/decorations/Inv_Gum_Wood_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 4275
+  },
+  {
+    "id": "gum_wood_double_gate",
+    "name": "Gum Wood Double Gate",
+    "img": "/images/decorations/Inv_Gum_Wood_Double_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 765
+  },
+  {
+    "id": "gum_wood_fence",
+    "name": "Gum Wood Fence",
+    "img": "/images/decorations/Inv_Gum_Wood_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 119
+  },
+  {
+    "id": "gum_wood_flag_post",
+    "name": "Gum Wood Flag Post",
+    "img": "/images/decorations/Inv_Gum_Wood_Flag_Post.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 6781
+  },
+  {
+    "id": "gum_wood_gate",
+    "name": "Gum Wood Gate",
+    "img": "/images/decorations/Inv_Gum_Wood_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 765
+  },
+  {
+    "id": "gum_wood_ladder",
+    "name": "Gum Wood Ladder",
+    "img": "/images/decorations/Inv_Gum_Wood_Ladder.png",
+    "category": "Ladders",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 750
+  },
+  {
+    "id": "gum_wood_lamp_post",
+    "name": "Gum Wood Lamp Post",
+    "img": "/images/decorations/Inv_Gum_Wood_Lamp_Post.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 514
+  },
+  {
+    "id": "gum_wood_market_stall",
+    "name": "Gum Wood Market Stall",
+    "img": "/images/decorations/Inv_Gum_Wood_Market_Stall.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 7578
+  },
+  {
+    "id": "gum_wood_path",
+    "name": "Gum Wood Path",
+    "img": "/images/decorations/Inv_Gum_Wood_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 46
+  },
+  {
+    "id": "gum_wood_pergola",
+    "name": "Gum Wood Pergola",
+    "img": "/images/decorations/Inv_Gum_Wood_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4780
+  },
+  {
+    "id": "gum_wood_steps",
+    "name": "Gum Wood Steps",
+    "img": "/images/decorations/Inv_Gum_Wood_Steps.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 71
+  },
+  {
+    "id": "hanging_planter",
+    "name": "Hanging Planter",
+    "img": "/images/decorations/Inv_Hanging_Planter.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "hard_wood_arch",
+    "name": "Hard Wood Arch",
+    "img": "/images/decorations/Inv_Hard_Wood_Arch.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1445
+  },
+  {
+    "id": "hard_wood_bench",
+    "name": "Hard Wood Bench",
+    "img": "/images/decorations/Inv_Hard_Wood_Bench.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1952
+  },
+  {
+    "id": "hard_wood_bridge",
+    "name": "Hard Wood Bridge",
+    "img": "/images/decorations/Inv_Hard_Wood_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 6150
+  },
+  {
+    "id": "hard_wood_double_gate",
+    "name": "Hard Wood Double Gate",
+    "img": "/images/decorations/Inv_Hard_Wood_Double_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 1015
+  },
+  {
+    "id": "hard_wood_fence",
+    "name": "Hard Wood Fence",
+    "img": "/images/decorations/Inv_Hard_Wood_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 165
+  },
+  {
+    "id": "hard_wood_flag_post",
+    "name": "Hard Wood Flag Post",
+    "img": "/images/decorations/Inv_Hard_Wood_Flag_Post.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 6945
+  },
+  {
+    "id": "hard_wood_flower_bed",
+    "name": "Hard Wood Flower Bed",
+    "img": "/images/decorations/Inv_Hard_Wood_Flower_Bed.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 361
+  },
+  {
+    "id": "hard_wood_gate",
+    "name": "Hard Wood Gate",
+    "img": "/images/decorations/Inv_Hard_Wood_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 1015
+  },
+  {
+    "id": "hard_wood_ladder",
+    "name": "Hard Wood Ladder",
+    "img": "/images/decorations/Inv_Hard_Wood_Ladder.png",
+    "category": "Ladders",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1250
+  },
+  {
+    "id": "hard_wood_lamp_post",
+    "name": "Hard Wood Lamp Post",
+    "img": "/images/decorations/Inv_Hard_Wood_Lamp_Post.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 571
+  },
+  {
+    "id": "hard_wood_market_stall",
+    "name": "Hard Wood Market Stall",
+    "img": "/images/decorations/Inv_Hard_Wood_Market_Stall.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 8078
+  },
+  {
+    "id": "hard_wood_path",
+    "name": "Hard Wood Path",
+    "img": "/images/decorations/Inv_Hard_Wood_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 78
+  },
+  {
+    "id": "hard_wood_pergola",
+    "name": "Hard Wood Pergola",
+    "img": "/images/decorations/Inv_Hard_Wood_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 5780
+  },
+  {
+    "id": "hard_wood_steps",
+    "name": "Hard Wood Steps",
+    "img": "/images/decorations/Inv_Hard_Wood_Steps.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 102
+  },
+  {
+    "id": "hardwood_crude_fence",
+    "name": "Hardwood Crude Fence",
+    "img": "/images/decorations/Inv_Hardwood_Crude_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 56
+  },
+  {
+    "id": "hedge",
+    "name": "Hedge",
+    "img": "/images/decorations/Inv_Hedge.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 18
+  },
+  {
+    "id": "hedge_arch",
+    "name": "Hedge Arch",
+    "img": "/images/decorations/Inv_Hedge_Arch.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 351
+  },
+  {
+    "id": "honey_comb_path",
+    "name": "Honey Comb Path",
+    "img": "/images/decorations/Inv_Honey_Comb_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 244
+  },
+  {
+    "id": "ice_chest",
+    "name": "Ice Chest",
+    "img": "/images/decorations/Inv_Ice_Chest.png",
+    "category": "Winter Ice Sculpting",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 19
+  },
+  {
+    "id": "ice_fence",
+    "name": "Ice Fence",
+    "img": "/images/decorations/Inv_Ice_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 1
+  },
+  {
+    "id": "ice_lamp",
+    "name": "Ice Lamp",
+    "img": "/images/decorations/Inv_Ice_Lamp.png",
+    "category": "Winter Ice Sculpting",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 1312
+  },
+  {
+    "id": "ice_ottoman",
+    "name": "Ice Ottoman",
+    "img": "/images/decorations/Inv_Ice_Ottoman.png",
+    "category": "Winter Ice Sculpting",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 12
+  },
+  {
+    "id": "ice_path",
+    "name": "Ice Path",
+    "img": "/images/decorations/Inv_Ice_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "ice_sculpture",
+    "name": "Ice Sculpture",
+    "img": "/images/decorations/Inv_Ice_Sculpture.png",
+    "category": "Statues",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 25
+  },
+  {
+    "id": "ice_seat",
+    "name": "Ice Seat",
+    "img": "/images/decorations/Inv_Ice_Seat.png",
+    "category": "Winter Ice Sculpting",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 19
+  },
+  {
+    "id": "ice_table",
+    "name": "Ice Table",
+    "img": "/images/decorations/Inv_Ice_Table.png",
+    "category": "Winter Ice Sculpting",
+    "source": ["Ice Sculpting Table"],
+    "baseSellPrice": 19
+  },
+  {
+    "id": "indoor_summer_lily",
+    "name": "Indoor Summer Lily",
+    "img": "/images/decorations/Inv_Indoor_Summer_Lily.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 1500
+  },
+  {
+    "id": "inflatable_pool",
+    "name": "Inflatable Pool",
+    "img": "/images/decorations/Inv_Inflatable_Pool.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": ["Island Reef", "Cooler"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "inverse_corner_ramp",
+    "name": "Inverse Corner Ramp",
+    "img": "/images/decorations/Inv_Inverse_Corner_Ramp.png",
+    "category": "Paths & Steps",
+    "source": ["Table Saw"],
+    "baseSellPrice": 146
+  },
+  {
+    "id": "iron_bridge",
+    "name": "Iron Bridge",
+    "img": "/images/decorations/Inv_Iron_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 12500
+  },
+  {
+    "id": "iron_cement_fence",
+    "name": "Iron Cement Fence",
+    "img": "/images/decorations/Inv_Iron_Cement_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 314
+  },
+  {
+    "id": "iron_ladder",
+    "name": "Iron Ladder",
+    "img": "/images/decorations/Inv_Iron_Ladder.png",
+    "category": "Ladders",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "iron_path",
+    "name": "Iron Path",
+    "img": "/images/decorations/Inv_Iron_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 312
+  },
+  {
+    "id": "iron_wood_bench",
+    "name": "Iron Wood Bench",
+    "img": "/images/decorations/Inv_Iron_Wood_Bench.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 6406
+  },
+  {
+    "id": "jackaroo_statue",
+    "name": "Jackaroo Statue",
+    "img": "/images/decorations/Inv_Jackaroo_Statue.png",
+    "category": "Statues",
+    "source": ["Deep Mine"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "large_cement_fountain",
+    "name": "Large Cement Fountain",
+    "img": "/images/decorations/Inv_Large_Cement_Fountain.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 46172
+  },
+  {
+    "id": "lattice_fence",
+    "name": "Lattice Fence",
+    "img": "/images/decorations/Inv_Lattice_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 146
+  },
+  {
+    "id": "leather_bench",
+    "name": "Leather Bench",
+    "img": "/images/decorations/Inv_Leather_Bench.png",
+    "category": "Benches",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "letter_statue_a_z",
+    "name": "Letter Statue (A-Z)",
+    "img": "/images/decorations/Inv_A_Letter_Statue.png",
+    "category": "Statues",
+    "source": ["Sign Writing Licence Level 2"],
+    "baseSellPrice": 38
+  },
+  {
+    "id": "light_arch",
+    "name": "Light Arch",
+    "img": "/images/decorations/Inv_Light_Arch.png",
+    "category": "Flags, Festoons & Arches",
+    "source": ["Jolly Sack"],
+    "baseSellPrice": 1445
+  },
+  {
+    "id": "loop_fence",
+    "name": "Loop Fence",
+    "img": "/images/decorations/Inv_Loop_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "magpie_plush",
+    "name": "Magpie Plush",
+    "img": "/images/decorations/Inv_Magpie_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "marble_bench",
+    "name": "Marble Bench",
+    "img": "/images/decorations/Inv_Marble_Bench.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 125
+  },
+  {
+    "id": "marble_fence",
+    "name": "Marble Fence",
+    "img": "/images/decorations/Inv_Marble_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 26
+  },
+  {
+    "id": "marble_path",
+    "name": "Marble Path",
+    "img": "/images/decorations/Inv_Marble_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 6
+  },
+  {
+    "id": "marble_pedestal",
+    "name": "Marble Pedestal",
+    "img": "/images/decorations/Inv_Marble_Pedestal.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 125
+  },
+  {
+    "id": "marble_pergola",
+    "name": "Marble Pergola",
+    "img": "/images/decorations/Inv_Marble_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2938
+  },
+  {
+    "id": "marble_pillar",
+    "name": "Marble Pillar",
+    "img": "/images/decorations/Inv_Marble_Pillar.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 312
+  },
+  {
+    "id": "matching_steps",
+    "name": "Matching Steps",
+    "img": "/images/decorations/Inv_Matching_Steps.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 6
+  },
+  {
+    "id": "milk_cap_lamp",
+    "name": "Milk Cap Lamp",
+    "img": "/images/decorations/Inv_Milk_Cap_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4919
+  },
+  {
+    "id": "mini_festive_tree",
+    "name": "Mini Festive Tree",
+    "img": "/images/decorations/Inv_Mini_Festive_Tree.png",
+    "category": "Festive",
+    "source": ["Nick"],
+    "baseSellPrice": 516
+  },
+  {
+    "id": "mossy_brick_path",
+    "name": "Mossy Brick Path",
+    "img": "/images/decorations/Inv_Mossy_Brick_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Undergrove"],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "mu_plush",
+    "name": "Mu Plush",
+    "img": "/images/decorations/Inv_Mu_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "mushroom_lamp",
+    "name": "Mushroom Lamp",
+    "img": "/images/decorations/Inv_Mushroom_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2450
+  },
+  {
+    "id": "mushroom_path",
+    "name": "Mushroom Path",
+    "img": "/images/decorations/Inv_Mushroom_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 12
+  },
+  {
+    "id": "natural_path",
+    "name": "Natural Path",
+    "img": "/images/decorations/Inv_Natural_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "old_wood_fence",
+    "name": "Old Wood Fence",
+    "img": "/images/decorations/Inv_Old_Wood_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Deep Mine"],
+    "baseSellPrice": 3
+  },
+  {
+    "id": "old_wood_lamp_post",
+    "name": "Old Wood Lamp Post",
+    "img": "/images/decorations/Inv_Old_Wood_Lamp_Post.png",
+    "category": "Lights",
+    "source": ["Deep Mine"],
+    "baseSellPrice": 10
+  },
+  {
+    "id": "orange_paper_daisy_pot",
+    "name": "Orange Paper Daisy Pot",
+    "img": "/images/decorations/Inv_Orange_Paper_Daisy_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 984
+  },
+  {
+    "id": "orange_tile_path",
+    "name": "Orange Tile Path",
+    "img": "/images/decorations/Inv_Orange_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "palm_wood_arch",
+    "name": "Palm Wood Arch",
+    "img": "/images/decorations/Inv_Palm_Wood_Arch.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1320
+  },
+  {
+    "id": "palm_wood_bench",
+    "name": "Palm Wood Bench",
+    "img": "/images/decorations/Inv_Palm_Wood_Bench.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1796
+  },
+  {
+    "id": "palm_wood_bridge",
+    "name": "Palm Wood Bridge",
+    "img": "/images/decorations/Inv_Palm_Wood_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 5681
+  },
+  {
+    "id": "palm_wood_double_gate",
+    "name": "Palm Wood Double Gate",
+    "img": "/images/decorations/Inv_Palm_Wood_Double_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 952
+  },
+  {
+    "id": "palm_wood_fence",
+    "name": "Palm Wood Fence",
+    "img": "/images/decorations/Inv_Palm_Wood_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 154
+  },
+  {
+    "id": "palm_wood_flag_post",
+    "name": "Palm Wood Flag Post",
+    "img": "/images/decorations/Inv_Palm_Wood_Flag_Post.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 6825
+  },
+  {
+    "id": "palm_wood_gate",
+    "name": "Palm Wood Gate",
+    "img": "/images/decorations/Inv_Palm_Wood_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 952
+  },
+  {
+    "id": "palm_wood_ladder",
+    "name": "Palm Wood Ladder",
+    "img": "/images/decorations/Inv_Palm_Wood_Ladder.png",
+    "category": "Ladders",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1125
+  },
+  {
+    "id": "palm_wood_market_stall",
+    "name": "Palm Wood Market Stall",
+    "img": "/images/decorations/Inv_Palm_Wood_Market_Stall.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 7952
+  },
+  {
+    "id": "palm_wood_path",
+    "name": "Palm Wood Path",
+    "img": "/images/decorations/Inv_Palm_Wood_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 70
+  },
+  {
+    "id": "palm_wood_pergola",
+    "name": "Palm Wood Pergola",
+    "img": "/images/decorations/Inv_Palm_Wood_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 5530
+  },
+  {
+    "id": "palm_wood_steps",
+    "name": "Palm Wood Steps",
+    "img": "/images/decorations/Inv_Palm_Wood_Steps.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 94
+  },
+  {
+    "id": "pattern_stone_path",
+    "name": "Pattern Stone Path",
+    "img": "/images/decorations/Inv_Pattern_Stone_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "pearl_path",
+    "name": "Pearl Path",
+    "img": "/images/decorations/Inv_Pearl_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 391
+  },
+  {
+    "id": "penguin_plush",
+    "name": "Penguin Plush",
+    "img": "/images/decorations/Inv_Penguin_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box during John's Goods Anniversary Event"],
+    "baseSellPrice": 500
+  },
+  {
+    "id": "picket_fence",
+    "name": "Picket Fence",
+    "img": "/images/decorations/Inv_Picket_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 119
+  },
+  {
+    "id": "picket_gate",
+    "name": "Picket Gate",
+    "img": "/images/decorations/Inv_Picket_Gate.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 765
+  },
+  {
+    "id": "pincher_plant_statue",
+    "name": "Pincher Plant Statue",
+    "img": "/images/decorations/Inv_Pincher_Plant_Statue.png",
+    "category": "Statues",
+    "source": ["Hot Hot Hot"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "pink_tile_path",
+    "name": "Pink Tile Path",
+    "img": "/images/decorations/Inv_Pink_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "post_box",
+    "name": "Post Box",
+    "img": "/images/decorations/Inv_Post_Box.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 5000
+  },
+  {
+    "id": "potted_lilly_pilly",
+    "name": "Potted Lilly Pilly",
+    "img": "/images/decorations/Inv_Potted_Lilly_Pilly.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 1500
+  },
+  {
+    "id": "purple_tile_path",
+    "name": "Purple Tile Path",
+    "img": "/images/decorations/Inv_Purple_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "railway_bridge",
+    "name": "Railway Bridge",
+    "img": "/images/decorations/Inv_Railway_Bridge.png",
+    "category": "Bridges",
+    "source": ["Locomotive Licence Level 1"],
+    "baseSellPrice": 5938
+  },
+  {
+    "id": "ramp",
+    "name": "Ramp",
+    "img": "/images/decorations/Inv_Ramp.png",
+    "category": "Paths & Steps",
+    "source": ["Landscaping Licence Level 1"],
+    "baseSellPrice": 146
+  },
+  {
+    "id": "red_carpet_path",
+    "name": "Red Carpet Path",
+    "img": "/images/decorations/Inv_Red_Carpet_Path.png",
+    "category": "Paths & Steps",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 156
+  },
+  {
+    "id": "red_cloth_path",
+    "name": "Red Cloth Path",
+    "img": "/images/decorations/Inv_Red_Cloth_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 401
+  },
+  {
+    "id": "red_floor_light",
+    "name": "Red Floor Light",
+    "img": "/images/decorations/Inv_Red_Floor_Light.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2240
+  },
+  {
+    "id": "red_roundhead_lamp",
+    "name": "Red Roundhead Lamp",
+    "img": "/images/decorations/Inv_Red_Roundhead_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 8044
+  },
+  {
+    "id": "red_tile_path",
+    "name": "Red Tile Path",
+    "img": "/images/decorations/Inv_Red_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "river_daisy_pot",
+    "name": "River Daisy Pot",
+    "img": "/images/decorations/Inv_River_Daisy_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 984
+  },
+  {
+    "id": "road_lamp",
+    "name": "Road Lamp",
+    "img": "/images/decorations/Inv_Road_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "rock_edge_path",
+    "name": "Rock Edge Path",
+    "img": "/images/decorations/Inv_Rock_Edge_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "rock_path",
+    "name": "Rock Path",
+    "img": "/images/decorations/Inv_Rock_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "roo_plush",
+    "name": "Roo Plush",
+    "img": "/images/decorations/Inv_Roo_Plush.png",
+    "category": "Plush",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 6088
+  },
+  {
+    "id": "rope_bridge",
+    "name": "Rope Bridge",
+    "img": "/images/decorations/Inv_Rope_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building License Level 1"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "rope_fence",
+    "name": "Rope Fence",
+    "img": "/images/decorations/Inv_Rope_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 152
+  },
+  {
+    "id": "rope_ladder",
+    "name": "Rope Ladder",
+    "img": "/images/decorations/Inv_Rope_Ladder.png",
+    "category": "Ladders",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 500
+  },
+  {
+    "id": "royal_bluebell_pot",
+    "name": "Royal Bluebell Pot",
+    "img": "/images/decorations/Inv_Royal_Bluebell_Pot.png",
+    "category": "Flowers in Pots",
+    "source": ["NPC Job", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 984
+  },
+  {
+    "id": "sand_fence",
+    "name": "Sand Fence",
+    "img": "/images/decorations/Inv_Sand_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 14
+  },
+  {
+    "id": "shark_plush",
+    "name": "Shark Plush",
+    "img": "/images/decorations/Inv_Shark_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "shark_statue",
+    "name": "Shark Statue",
+    "img": "/images/decorations/Inv_Shark_Statue.png",
+    "category": "Statues",
+    "source": ["Island Reef"],
+    "baseSellPrice": 55000
+  },
+  {
+    "id": "slippery_jack_lamp",
+    "name": "Slippery Jack Lamp",
+    "img": "/images/decorations/Inv_Slippery_Jack_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4919
+  },
+  {
+    "id": "small_cement_fountain",
+    "name": "Small Cement Fountain",
+    "img": "/images/decorations/Inv_Small_Cement_Fountain.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 15500
+  },
+  {
+    "id": "smooth_black_path",
+    "name": "Smooth Black Path",
+    "img": "/images/decorations/Inv_Smooth_Black_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_blue_path",
+    "name": "Smooth Blue Path",
+    "img": "/images/decorations/Inv_Smooth_Blue_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_cement_path",
+    "name": "Smooth Cement Path",
+    "img": "/images/decorations/Inv_Smooth_Cement_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 2
+  },
+  {
+    "id": "smooth_green_path",
+    "name": "Smooth Green Path",
+    "img": "/images/decorations/Inv_Smooth_Green_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_orange_path",
+    "name": "Smooth Orange Path",
+    "img": "/images/decorations/Inv_Smooth_Orange_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_pink_path",
+    "name": "Smooth Pink Path",
+    "img": "/images/decorations/Inv_Smooth_Pink_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_purple_path",
+    "name": "Smooth Purple Path",
+    "img": "/images/decorations/Inv_Smooth_Purple_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_red_path",
+    "name": "Smooth Red Path",
+    "img": "/images/decorations/Inv_Smooth_Red_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_white_path",
+    "name": "Smooth White Path",
+    "img": "/images/decorations/Inv_Smooth_White_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "smooth_yellow_path",
+    "name": "Smooth Yellow Path",
+    "img": "/images/decorations/Inv_Smooth_Yellow_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Stone Grinder", "Improved Stone Grinder"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "star_carpet_path",
+    "name": "Star Carpet Path",
+    "img": "/images/decorations/Inv_Star_Carpet_Path.png",
+    "category": "Paths & Steps",
+    "source": ["Sky Fest"],
+    "baseSellPrice": 156
+  },
+  {
+    "id": "star_fence",
+    "name": "Star Fence",
+    "img": "/images/decorations/Inv_Star_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Sky Fest"],
+    "baseSellPrice": 312
+  },
+  {
+    "id": "star_light",
+    "name": "Star Light",
+    "img": "/images/decorations/Inv_Star_Light.png",
+    "category": "Lights",
+    "source": ["Jolly Sack"],
+    "baseSellPrice": 8487
+  },
+  {
+    "id": "statue",
+    "name": "Statue",
+    "img": "/images/decorations/Inv_Statue.png",
+    "category": "Statues",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 1000
+  },
+  {
+    "id": "stone_lantern",
+    "name": "Stone Lantern",
+    "img": "/images/decorations/Inv_Stone_Lantern.png",
+    "category": "Lights",
+    "source": ["Undergrove"],
+    "baseSellPrice": 292
+  },
+  {
+    "id": "street_lamp",
+    "name": "Street Lamp",
+    "img": "/images/decorations/Inv_Street_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4044
+  },
+  {
+    "id": "tiki_torch",
+    "name": "Tiki Torch",
+    "img": "/images/decorations/Inv_Tiki_Torch.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 205
+  },
+  {
+    "id": "tin_double_gate",
+    "name": "Tin Double Gate",
+    "img": "/images/decorations/Inv_Tin_Double_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 688
+  },
+  {
+    "id": "tin_fence",
+    "name": "Tin Fence",
+    "img": "/images/decorations/Inv_Tin_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 171
+  },
+  {
+    "id": "tin_flower_bed",
+    "name": "Tin Flower Bed",
+    "img": "/images/decorations/Inv_Tin_Flower_Bed.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 171
+  },
+  {
+    "id": "tin_gate",
+    "name": "Tin Gate",
+    "img": "/images/decorations/Inv_Tin_Gate.png",
+    "category": "Fences & Gates",
+    "source": ["Landscaping Licence Level 2"],
+    "baseSellPrice": 688
+  },
+  {
+    "id": "tin_pergola",
+    "name": "Tin Pergola",
+    "img": "/images/decorations/Inv_Tin_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1312
+  },
+  {
+    "id": "trash_bin",
+    "name": "Trash Bin",
+    "img": "/images/decorations/Inv_Trash_Bin.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 14531
+  },
+  {
+    "id": "velvet_rope_fence",
+    "name": "Velvet Rope Fence",
+    "img": "/images/decorations/Inv_Velvet_Rope_Fence.png",
+    "category": "Fences & Gates",
+    "source": ["John's Goods Anniversary Event"],
+    "baseSellPrice": 312
+  },
+  {
+    "id": "vine_fence",
+    "name": "Vine Fence",
+    "img": "/images/decorations/Inv_Vine_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 126
+  },
+  {
+    "id": "vine_festoon",
+    "name": "Vine Festoon",
+    "img": "/images/decorations/Inv_Vine_Festoon.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 1406
+  },
+  {
+    "id": "vine_lattice_ladder",
+    "name": "Vine Lattice Ladder",
+    "img": "/images/decorations/Inv_Vine_Lattice_Ladder.png",
+    "category": "Ladders",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 688
+  },
+  {
+    "id": "vine_pergola",
+    "name": "Vine Pergola",
+    "img": "/images/decorations/Inv_Vine_Pergola.png",
+    "category": "Pergolas",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 3342
+  },
+  {
+    "id": "vine_wall",
+    "name": "Vine Wall",
+    "img": "/images/decorations/Inv_Vine_Wall.png",
+    "category": "Flags, Festoons & Arches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 134
+  },
+  {
+    "id": "vombat_plush",
+    "name": "Vombat Plush",
+    "img": "/images/decorations/Inv_Vombat_Plush.png",
+    "category": "Plush",
+    "source": ["Prize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "wary_mu_plush",
+    "name": "Wary Mu Plush",
+    "img": "/images/decorations/Inv_Wary_Mu_Plush.png",
+    "category": "Plush",
+    "source": ["PRize Box"],
+    "baseSellPrice": 2500
+  },
+  {
+    "id": "waterbed",
+    "name": "Waterbed",
+    "img": "/images/decorations/Inv_Waterbed.png",
+    "category": "Water Fountains & Waterbeds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 940
+  },
+  {
+    "id": "wheelbarrow_flower_bed",
+    "name": "Wheelbarrow Flower Bed",
+    "img": "/images/decorations/Inv_Wheelbarrow_Flower_Bed.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 19094
+  },
+  {
+    "id": "white_brick_flower_bed",
+    "name": "White Brick Flower Bed",
+    "img": "/images/decorations/Inv_White_Brick_Flower_Bed.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "white_brick_path",
+    "name": "White Brick Path",
+    "img": "/images/decorations/Inv_White_Brick_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "white_tile_path",
+    "name": "White Tile Path",
+    "img": "/images/decorations/Inv_White_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  },
+  {
+    "id": "wide_brick_bridge",
+    "name": "Wide Brick Bridge",
+    "img": "/images/decorations/Inv_Wide_Brick_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 238
+  },
+  {
+    "id": "wide_cement_bridge",
+    "name": "Wide Cement Bridge",
+    "img": "/images/decorations/Inv_Wide_Cement_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 812
+  },
+  {
+    "id": "wide_hard_wood_bridge",
+    "name": "Wide Hard Wood Bridge",
+    "img": "/images/decorations/Inv_Wide_Hard_Wood_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 6150
+  },
+  {
+    "id": "wide_iron_bridge",
+    "name": "Wide Iron Bridge",
+    "img": "/images/decorations/Inv_Wide_Iron_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 12500
+  },
+  {
+    "id": "wide_palm_wood_bridge",
+    "name": "Wide Palm Wood Bridge",
+    "img": "/images/decorations/Inv_Wide_Palm_Wood_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building Licence Level 1"],
+    "baseSellPrice": 5681
+  },
+  {
+    "id": "wide_rope_bridge",
+    "name": "Wide Rope Bridge",
+    "img": "/images/decorations/Inv_Wide_Rope_Bridge.png",
+    "category": "Bridges",
+    "source": ["Building License Level 1"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "wooden_flower_bed",
+    "name": "Wooden Flower Bed",
+    "img": "/images/decorations/Inv_Wooden_Flower_Bed.png",
+    "category": "Flower Beds",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 330
+  },
+  {
+    "id": "wooden_lamp_post",
+    "name": "Wooden Lamp Post",
+    "img": "/images/decorations/Inv_Wooden_Lamp_Post.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 558
+  },
+  {
+    "id": "wooden_torch",
+    "name": "Wooden Torch",
+    "img": "/images/decorations/Inv_Wooden_Torch.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 14
+  },
+  {
+    "id": "wrought_iron_bench",
+    "name": "Wrought Iron Bench",
+    "img": "/images/decorations/Inv_Wrought_Iron_Bench.png",
+    "category": "Benches",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 5000
+  },
+  {
+    "id": "wrought_iron_fence",
+    "name": "Wrought Iron Fence",
+    "img": "/images/decorations/Inv_Wrought_Iron_Fence.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 625
+  },
+  {
+    "id": "wrought_iron_gate",
+    "name": "Wrought Iron Gate",
+    "img": "/images/decorations/Inv_Wrought_Iron_Gate.png",
+    "category": "Fences & Gates",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 5000
+  },
+  {
+    "id": "wrought_iron_lamp",
+    "name": "Wrought Iron Lamp",
+    "img": "/images/decorations/Inv_Wrought_Iron_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4044
+  },
+  {
+    "id": "yellow_morel_lamp",
+    "name": "Yellow Morel Lamp",
+    "img": "/images/decorations/Inv_Yellow_Morel_Lamp.png",
+    "category": "Lights",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 4919
+  },
+  {
+    "id": "yellow_tile_path",
+    "name": "Yellow Tile Path",
+    "img": "/images/decorations/Inv_Yellow_Tile_Path.png",
+    "category": "Paths & Steps",
+    "source": [
+      "NPC Jobs",
+      "Franklyn's Lab",
+      "Jimmy's Boat",
+      "Undergrove",
+      "Island Reef",
+      "Hot Hot Hot"
+    ],
+    "baseSellPrice": 16
+  }
+]

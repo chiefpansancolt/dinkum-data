@@ -149,6 +149,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | ------------------------------------------------------ | ----------------- | ----- | ---------------------------------------- |
 | [clothing](src/modules/clothing/README.md)             | `clothing()`      | 520   | Wearable clothing across every slot      |
 | [clothing-slots](src/modules/clothing-slots/README.md) | `clothingSlots()` | n/a   | Which clothing types belong to each slot |
+| [decorations](src/modules/decorations/README.md)       | `decorations()`   | 261   | Placeable world decorations by category  |
 | [furniture](src/modules/furniture/README.md)           | `furniture()`     | 441   | Placeable furniture                      |
 
 ### 🏠 World
@@ -213,6 +214,7 @@ each entry's `img` field exactly (case-sensitive).
 | `buffs/`            | Buff and status effect icons                                           |
 | `buildings/`        | Building and deed icons                                                |
 | `clothing/`         | Clothing item icons                                                    |
+| `decorations/`      | Placeable world decoration icons                                       |
 | `flowers/`          | Flower icons                                                           |
 | `furniture/`        | Furniture icons                                                        |
 | `gearAndEquipment/` | Books, cassettes, equipment, tools, vehicles, weapons                  |

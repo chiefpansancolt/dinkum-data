@@ -329,6 +329,14 @@
     "baseSellPrice": 80
   },
   {
+    "id": "termite_nest",
+    "name": "Termite Nest",
+    "img": "/images/resources/foragables/Inv_Termite_Nest.png",
+    "source": ["Termite Mound"],
+    "locations": ["Desert", "Bushlands"],
+    "baseSellPrice": 38
+  },
+  {
     "id": "tonnidae_shell",
     "name": "Tonnidae Shell",
     "img": "/images/resources/foragables/Inv_Tonnidae_Shell.png",

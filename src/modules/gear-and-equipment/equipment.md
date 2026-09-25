@@ -1,7 +1,7 @@
 # Equipment
 
 Wearable and placeable equipment, including license/skill requirements and Windmill/Solar Panel
-compatibility. 58 items are included.
+compatibility. 62 items are included.
 
 ---
 
@@ -36,7 +36,7 @@ compatibility. 58 items are included.
 ```ts
 import { equipment } from "dinkum-data";
 
-equipment(); // all 58 items
+equipment(); // all 62 items
 equipment(source); // wrap a pre-filtered array
 ```
 

@@ -1,6 +1,6 @@
 # Tools
 
-Gathering and combat tools, with the license and source needed to unlock each. 69 tools are
+Gathering and combat tools, with the license and source needed to unlock each. 89 tools are
 included.
 
 ---
@@ -33,7 +33,7 @@ included.
 ```ts
 import { tools } from "dinkum-data";
 
-tools(); // all 69 tools
+tools(); // all 89 tools
 tools(source); // wrap a pre-filtered array
 ```
 

@@ -986,5 +986,151 @@
         "img": "/images/resources/otherCraftables/Inv_Berkonium_Bar.png"
       }
     ]
+  },
+  {
+    "id": "fish_berley_box",
+    "name": "Fish Berley Box",
+    "img": "/images/gearAndEquipment/equipment/Inv_Fish_Berley_Box.png",
+    "description": "Lures Fish to its position. Once placed works for 5 minutes.",
+    "requirementLevel": null,
+    "source": ["Ted Selly"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Milking Bucket",
+        "img": "/images/gearAndEquipment/tools/Inv_Milking_Bucket.png"
+      },
+      {
+        "count": 2,
+        "name": "Raw Grub Meat",
+        "img": "/images/animals/Inv_Raw_Grub_Meat.png"
+      },
+      {
+        "count": 3,
+        "name": "Termite Nest",
+        "img": "/images/resources/foragables/Inv_Termite_Nest.png"
+      },
+      {
+        "count": 5,
+        "name": "Fish Roe",
+        "img": "/images/resources/foragables/Inv_Fish_Roe.png"
+      }
+    ],
+    "buyPrice": 10200,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 0
+  },
+  {
+    "id": "improved_stone_grinder",
+    "name": "Improved Stone Grinder",
+    "img": "/images/gearAndEquipment/equipment/Inv_Improved_Stone_Grinder.png",
+    "description": "Processes materials faster than the standard Stone Grinder.\nWindmill Compatible",
+    "requirementLevel": null,
+    "shinyDiscCount": 1,
+    "berkoniumOreCount": 10,
+    "windmillCompatable": true,
+    "solarPanelCompatable": true,
+    "source": ["Franklyn's Lab"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Stone Grinder",
+        "img": "/images/gearAndEquipment/equipment/Inv_Stone_Grinder.png"
+      },
+      {
+        "count": 1,
+        "name": "Berkonium Bar",
+        "img": "/images/resources/otherCraftables/Inv_Berkonium_Bar.png"
+      },
+      {
+        "count": 5,
+        "name": "Copper Bar",
+        "img": "/images/resources/otherCraftables/Inv_Copper_Bar.png"
+      },
+      {
+        "count": 5,
+        "name": "Iron Bar",
+        "img": "/images/resources/otherCraftables/Inv_Iron_Bar.png"
+      },
+      {
+        "count": 10,
+        "name": "Old Gear",
+        "img": "/images/resources/relics/Inv_Old_Gear.png"
+      }
+    ],
+    "buyPrice": 150000,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 75000
+  },
+  {
+    "id": "orb_of_stars",
+    "name": "Orb of Stars",
+    "img": "/images/gearAndEquipment/equipment/Inv_Orb_of_Stars.png",
+    "description": "A single-use item that summons a meteor shower the following night.",
+    "requirementLevel": null,
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Meteorite Chunk",
+        "img": "/images/resources/minerals/Inv_Meteorite_Chunk.png"
+      },
+      {
+        "count": 1,
+        "name": "Bottle of Clouds",
+        "img": "/images/resources/foragables/Inv_Bottle_of_Clouds.png"
+      },
+      {
+        "count": 1,
+        "name": "Pearl",
+        "img": "/images/resources/animalProducts/Inv_Pearl.png"
+      }
+    ],
+    "baseSellPrice": 64062
+  },
+  {
+    "id": "servo",
+    "name": "Servo",
+    "img": "/images/gearAndEquipment/equipment/Inv_Servo.png",
+    "description": "Recalls certain vehicles to itself.",
+    "requirementLevel": null,
+    "shinyDiscCount": 1,
+    "berkoniumOreCount": 10,
+    "source": ["Franklyn's Lab"],
+    "inputs": [
+      {
+        "count": 10,
+        "name": "Bag of Cement",
+        "img": "/images/resources/otherCraftables/Inv_Bag_of_Cement.png"
+      },
+      {
+        "count": 5,
+        "name": "Iron Bar",
+        "img": "/images/resources/otherCraftables/Inv_Iron_Bar.png"
+      },
+      {
+        "count": 3,
+        "name": "Smooth Slate",
+        "img": "/images/resources/relics/Inv_Smooth_Slate.png"
+      },
+      {
+        "count": 1,
+        "name": "Tele-Jumper",
+        "img": "/images/gearAndEquipment/tools/Inv_Tele-Jumper.png"
+      },
+      {
+        "count": 1,
+        "name": "Old Bowser",
+        "img": "/images/decorations/Inv_Old_Bowser.png"
+      },
+      {
+        "count": 3,
+        "name": "Berkonium Bar",
+        "img": "/images/resources/otherCraftables/Inv_Berkonium_Bar.png"
+      }
+    ],
+    "buyPrice": 150000,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 75000
   }
 ]

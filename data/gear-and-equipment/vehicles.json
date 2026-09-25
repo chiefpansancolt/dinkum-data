@@ -509,6 +509,31 @@
     "baseSellPrice": 116344
   },
   {
+    "id": "scooter",
+    "name": "Scooter",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Scooter.png",
+    "requirementLevel": null,
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Hand Trolley",
+        "img": "/images/gearAndEquipment/tools/Inv_Hand_Trolley.png"
+      },
+      {
+        "count": 1,
+        "name": "Boogie Board",
+        "img": "/images/gearAndEquipment/equipment/Inv_Boogie_Board.png"
+      },
+      {
+        "count": 1,
+        "name": "Berkonium Bar",
+        "img": "/images/resources/otherCraftables/Inv_Berkonium_Bar.png"
+      }
+    ],
+    "baseSellPrice": 43750
+  },
+  {
     "id": "tractor",
     "name": "Tractor",
     "img": "/images/gearAndEquipment/vehicles/Inv_Tractor.png",

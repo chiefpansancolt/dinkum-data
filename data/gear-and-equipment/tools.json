@@ -20,6 +20,32 @@
     "baseSellPrice": 4025
   },
   {
+    "id": "auto_animal_trap",
+    "name": "Auto Animal Trap",
+    "img": "/images/gearAndEquipment/tools/Inv_Auto_Animal_Trap.png",
+    "damage": null,
+    "licence": "Trapping",
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Animal Trap",
+        "img": "/images/gearAndEquipment/tools/Inv_Animal_Trap.png"
+      },
+      {
+        "count": 1,
+        "name": "Balloon",
+        "img": "/images/other/Inv_Balloon.png"
+      },
+      {
+        "count": 1,
+        "name": "Berkonium Bar",
+        "img": "/images/resources/otherCraftables/Inv_Berkonium_Bar.png"
+      }
+    ],
+    "baseSellPrice": 21281
+  },
+  {
     "id": "basic_axe",
     "name": "Basic Axe",
     "img": "/images/gearAndEquipment/tools/Inv_Basic_Axe.png",
@@ -51,6 +77,54 @@
     "buyPrice": 10000,
     "buyUnits": "Dinks",
     "baseSellPrice": 5000
+  },
+  {
+    "id": "black_pocket_watch",
+    "name": "Black Pocket Watch",
+    "img": "/images/gearAndEquipment/tools/Inv_Black_Pocket_Watch.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Gold Pocket Watch",
+        "img": "/images/gearAndEquipment/tools/Inv_Gold_Pocket_Watch.png"
+      },
+      {
+        "count": 1,
+        "name": "Cup of Sunshine",
+        "img": "/images/other/Inv_Cup_of_Sunshine.png"
+      },
+      {
+        "count": 1,
+        "name": "Berkonium Bar",
+        "img": "/images/resources/otherCraftables/Inv_Berkonium_Bar.png"
+      }
+    ],
+    "baseSellPrice": 1300312
+  },
+  {
+    "id": "blue_single_person_tent",
+    "name": "Blue Single Person Tent",
+    "img": "/images/gearAndEquipment/tools/Inv_Blue_Single_Person_Tent.png",
+    "damage": null,
+    "licence": "",
+    "source": ["John's Goods"],
+    "buyPrice": 1600,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 800
+  },
+  {
+    "id": "boaricoot_whistle",
+    "name": "Boaricoot Whistle",
+    "img": "/images/gearAndEquipment/tools/Inv_Boaricoot_Whistle.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Irwin's Barn"],
+    "buyPrice": 6196,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 3098
   },
   {
     "id": "bomb",
@@ -87,6 +161,27 @@
     "baseSellPrice": 5000
   },
   {
+    "id": "boombox_pack",
+    "name": "Boombox Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Boombox_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Boom Box",
+        "img": "/images/gearAndEquipment/equipment/Inv_Boom_Box.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
     "id": "bug_net",
     "name": "Bug Net",
     "img": "/images/gearAndEquipment/tools/Inv_Bug_Net.png",
@@ -98,6 +193,48 @@
     "baseSellPrice": 550
   },
   {
+    "id": "bum_bag_pack",
+    "name": "Bum Bag Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Bum_Bag_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Cloth",
+        "img": "/images/resources/otherCraftables/Inv_Cloth.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "burger_pack",
+    "name": "Burger Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Burger_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Lot Burger",
+        "img": "/images/recipes/cookingRecipes/Inv_Lot_Burger.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
     "id": "camera",
     "name": "Camera",
     "img": "/images/gearAndEquipment/tools/Inv_Camera.png",
@@ -107,6 +244,27 @@
     "buyPrice": 16000,
     "buyUnits": "Dinks",
     "baseSellPrice": 8000
+  },
+  {
+    "id": "camera_pack",
+    "name": "Camera Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Camera_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Camera",
+        "img": "/images/gearAndEquipment/tools/Inv_Camera.png"
+      }
+    ],
+    "baseSellPrice": 0
   },
   {
     "id": "camera_tripod",
@@ -303,6 +461,27 @@
     "baseSellPrice": 12500
   },
   {
+    "id": "crate_pack",
+    "name": "Crate Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Crate_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Wooden Crate",
+        "img": "/images/gearAndEquipment/equipment/Inv_Wooden_Crate.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
     "id": "dirt_printer",
     "name": "Dirt Printer",
     "img": "/images/gearAndEquipment/tools/Inv_Dirt_Printer.png",
@@ -402,6 +581,27 @@
     "baseSellPrice": 630
   },
   {
+    "id": "flame_jelly_pack",
+    "name": "Flame Jelly Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Flame_Jelly_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Flame Jelly Hood",
+        "img": "/images/clothing/Inv_Flame_Jelly_Hood.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
     "id": "glowing_axe",
     "name": "Glowing Axe",
     "img": "/images/gearAndEquipment/tools/Inv_Glowing_Axe.png",
@@ -431,6 +631,17 @@
     "baseSellPrice": 5000000
   },
   {
+    "id": "green_single_person_tent",
+    "name": "Green Single Person Tent",
+    "img": "/images/gearAndEquipment/tools/Inv_Green_Single_Person_Tent.png",
+    "damage": null,
+    "licence": "",
+    "source": ["John's Goods"],
+    "buyPrice": 1600,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 800
+  },
+  {
     "id": "guitar",
     "name": "Guitar",
     "img": "/images/gearAndEquipment/tools/Inv_Guitar.png",
@@ -438,6 +649,27 @@
     "licence": "",
     "source": ["Deep Mine"],
     "baseSellPrice": 3025
+  },
+  {
+    "id": "guitar_pack",
+    "name": "Guitar Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Guitar_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Guitar",
+        "img": "/images/gearAndEquipment/tools/Inv_Guitar.png"
+      }
+    ],
+    "baseSellPrice": 0
   },
   {
     "id": "hand_bell",
@@ -458,6 +690,27 @@
     "buyPrice": 30000,
     "buyUnits": "Dinks",
     "baseSellPrice": 15000
+  },
+  {
+    "id": "handbag_pack",
+    "name": "Handbag Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Handbag_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 2,
+        "name": "Cloth",
+        "img": "/images/resources/otherCraftables/Inv_Cloth.png"
+      }
+    ],
+    "baseSellPrice": 0
   },
   {
     "id": "harvac",
@@ -498,6 +751,27 @@
     "buyPrice": 2000000,
     "buyUnits": "Dinks",
     "baseSellPrice": 1000000
+  },
+  {
+    "id": "hard_pack",
+    "name": "Hard Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Hard_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 2,
+        "name": "Iron Bar",
+        "img": "/images/resources/otherCraftables/Inv_Iron_Bar.png"
+      }
+    ],
+    "baseSellPrice": 0
   },
   {
     "id": "hoe",
@@ -744,6 +1018,27 @@
     "baseSellPrice": 50000
   },
   {
+    "id": "jackaroo_pack",
+    "name": "Jackaroo Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Jackaroo_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 1,
+        "name": "Jackaroo Hood",
+        "img": "/images/clothing/Inv_Jackaroo_Hood.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
     "id": "jackaroo_wand",
     "name": "Jackaroo Wand",
     "img": "/images/gearAndEquipment/tools/Inv_Jackaroo_Wand.png",
@@ -751,6 +1046,32 @@
     "licence": "",
     "source": ["Night Merchant Event"],
     "baseSellPrice": 45000
+  },
+  {
+    "id": "medkit",
+    "name": "Medkit",
+    "img": "/images/gearAndEquipment/tools/Inv_Medkit.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "First Aid Kit",
+        "img": "/images/gearAndEquipment/tools/Inv_First_Aid_Kit.png"
+      },
+      {
+        "count": 1,
+        "name": "Cloth",
+        "img": "/images/resources/otherCraftables/Inv_Cloth.png"
+      },
+      {
+        "count": 1,
+        "name": "Silk",
+        "img": "/images/resources/otherCraftables/Inv_Silk.png"
+      }
+    ],
+    "baseSellPrice": 123312
   },
   {
     "id": "megaphone",
@@ -762,6 +1083,27 @@
     "buyPrice": 20000,
     "buyUnits": "Dinks",
     "baseSellPrice": 10000
+  },
+  {
+    "id": "messenger_pack",
+    "name": "Messenger Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Messenger_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 2,
+        "name": "Cloth",
+        "img": "/images/resources/otherCraftables/Inv_Cloth.png"
+      }
+    ],
+    "baseSellPrice": 0
   },
   {
     "id": "metal_detector",
@@ -833,6 +1175,17 @@
     "licence": "Farming",
     "source": ["Crafting Table"],
     "baseSellPrice": 906
+  },
+  {
+    "id": "secateurs",
+    "name": "Secateurs",
+    "img": "/images/gearAndEquipment/tools/Inv_Secateurs.png",
+    "damage": null,
+    "licence": "Farming",
+    "source": ["Rayne's Greenhouse"],
+    "buyPrice": 3600,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 0
   },
   {
     "id": "shears",
@@ -933,6 +1286,27 @@
     "baseSellPrice": 3000
   },
   {
+    "id": "tote_pack",
+    "name": "Tote Pack",
+    "img": "/images/gearAndEquipment/tools/Inv_Tote_Pack.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Great Bite", "Customise Pack Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Swag Pack",
+        "img": "/images/gearAndEquipment/tools/Inv_Swag_Pack.png"
+      },
+      {
+        "count": 2,
+        "name": "Cloth",
+        "img": "/images/resources/otherCraftables/Inv_Cloth.png"
+      }
+    ],
+    "baseSellPrice": 0
+  },
+  {
     "id": "tree_pinchers",
     "name": "Tree Pinchers",
     "img": "/images/gearAndEquipment/tools/Inv_Tree_Pinchers.png",
@@ -960,5 +1334,16 @@
     "buyPrice": 6196,
     "buyUnits": "Dinks",
     "baseSellPrice": 3098
+  },
+  {
+    "id": "yellow_single_person_tent",
+    "name": "Yellow Single Person Tent",
+    "img": "/images/gearAndEquipment/tools/Inv_Yellow_Single_Person_Tent.png",
+    "damage": null,
+    "licence": "",
+    "source": ["John's Goods"],
+    "buyPrice": 1600,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 800
   }
 ]

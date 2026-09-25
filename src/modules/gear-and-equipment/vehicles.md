@@ -1,6 +1,6 @@
 # Vehicles
 
-Gliders and other rideable vehicles, with their unlock requirements. 26 vehicles are included.
+Gliders and other rideable vehicles, with their unlock requirements. 27 vehicles are included.
 
 ---
 
@@ -33,7 +33,7 @@ Gliders and other rideable vehicles, with their unlock requirements. 26 vehicles
 ```ts
 import { vehicles } from "dinkum-data";
 
-vehicles(); // all 26 vehicles
+vehicles(); // all 27 vehicles
 vehicles(source); // wrap a pre-filtered array
 ```
 

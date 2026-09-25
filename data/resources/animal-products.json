@@ -86,7 +86,7 @@
     "name": "Cocoon",
     "img": "/images/resources/animalProducts/Inv_Cocoon.png",
     "source": ["Bug Terrarium"],
-    "baseSellPrice": 0
+    "baseSellPrice": 1550
   },
   {
     "id": "croco_meat",

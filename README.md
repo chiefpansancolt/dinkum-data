@@ -203,6 +203,8 @@ has no page for them yet to source their data from. Add these once a wiki page a
   "Pastel Floor" page exists yet for any colour.
 - **Smooth Brown Path** — the wiki's Smooth Path page only documents 9 colours (Black, Blue, Green,
   Orange, Pink, Purple, Red, White, Yellow); the patch notes say Brown makes a 10th.
+- **Shovel of Pebbles** — mined from pebble terrain on the Great Bite; no wiki page exists yet
+  ("Shovel" and "Pebbles" searches turn up nothing matching).
 
 ---
 

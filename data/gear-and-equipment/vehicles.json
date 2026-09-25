@@ -23,6 +23,15 @@
     "baseSellPrice": 400000
   },
   {
+    "id": "butter_glider",
+    "name": "Butter Glider",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Butter_Glider.png",
+    "requirementLevel": null,
+    "source": ["Museum"],
+    "buyPrice": 250000,
+    "baseSellPrice": 125000
+  },
+  {
     "id": "flame_glider",
     "name": "Flame Glider",
     "img": "/images/gearAndEquipment/vehicles/Inv_Flame_Glider.png",
@@ -37,6 +46,14 @@
     "requirementLevel": null,
     "source": ["Meteorite"],
     "baseSellPrice": 500000
+  },
+  {
+    "id": "glowing_hang_glider",
+    "name": "Glowing Hang Glider",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Glowing_Hang_Glider.png",
+    "requirementLevel": null,
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 400000
   },
   {
     "id": "gogo_trike",
@@ -71,7 +88,7 @@
         "img": "/images/resources/relics/Inv_Old_Wheel.png"
       }
     ],
-    "baseSellPrice": 0
+    "baseSellPrice": 25000
   },
   {
     "id": "helicopter",
@@ -155,6 +172,46 @@
     "baseSellPrice": 750000
   },
   {
+    "id": "invisible_glider",
+    "name": "Invisible Glider",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Invisible_Glider.png",
+    "requirementLevel": null,
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "inputs": [
+      {
+        "count": 1,
+        "name": "Bat Glider",
+        "img": "/images/gearAndEquipment/vehicles/Inv_Bat_Glider.png"
+      },
+      {
+        "count": 1,
+        "name": "Leaf Glider",
+        "img": "/images/gearAndEquipment/vehicles/Inv_Leaf_Glider.png"
+      },
+      {
+        "count": 1,
+        "name": "Flame Glider",
+        "img": "/images/gearAndEquipment/vehicles/Inv_Flame_Glider.png"
+      },
+      {
+        "count": 1,
+        "name": "Galaxy Glider",
+        "img": "/images/gearAndEquipment/vehicles/Inv_Galaxy_Glider.png"
+      },
+      {
+        "count": 1,
+        "name": "Glowing Hang Glider",
+        "img": "/images/gearAndEquipment/vehicles/Inv_Glowing_Hang_Glider.png"
+      },
+      {
+        "count": 1,
+        "name": "Butter Glider",
+        "img": "/images/gearAndEquipment/vehicles/Inv_Butter_Glider.png"
+      }
+    ],
+    "baseSellPrice": 3156250
+  },
+  {
     "id": "jet_ski",
     "name": "Jet Ski",
     "img": "/images/gearAndEquipment/vehicles/Inv_Jet_Ski.png",
@@ -202,7 +259,7 @@
     "name": "Leaf Glider",
     "img": "/images/gearAndEquipment/vehicles/Inv_Leaf_Glider.png",
     "requirementLevel": null,
-    "source": ["Undergrove", "Island Reef"],
+    "source": ["Undergrove", "Island Reef", "Jimmy's Boat"],
     "baseSellPrice": 500000
   },
   {
@@ -242,6 +299,22 @@
     ],
     "buyPrice": 80000,
     "baseSellPrice": 40000
+  },
+  {
+    "id": "orange_hang_glider",
+    "name": "Orange Hang Glider",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Orange_Hang_Glider.png",
+    "requirementLevel": null,
+    "source": ["Buried Treasure"],
+    "baseSellPrice": 400000
+  },
+  {
+    "id": "pink_hang_glider",
+    "name": "Pink Hang Glider",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Pink_Hang_Glider.png",
+    "requirementLevel": null,
+    "source": ["Animal Collection Point", "Animal Trap"],
+    "baseSellPrice": 400000
   },
   {
     "id": "pirate_glider",
@@ -369,7 +442,7 @@
       {
         "count": 10,
         "name": "Gum Wood Plank",
-        "img": ""
+        "img": "/images/resources/otherCraftables/Inv_Gum_Wood_Plank.png"
       },
       {
         "count": 10,
@@ -384,7 +457,7 @@
       {
         "count": 4,
         "name": "Nails",
-        "img": ""
+        "img": "/images/gearAndEquipment/equipment/Inv_Nails.png"
       }
     ],
     "baseSellPrice": 6328
@@ -474,49 +547,6 @@
     "baseSellPrice": 750000
   },
   {
-    "id": "ute",
-    "name": "Ute",
-    "img": "/images/gearAndEquipment/vehicles/Inv_Ute.png",
-    "requirementLevel": 2,
-    "requirementType": "Vehicle Licence",
-    "shinyDiscCount": 7,
-    "source": ["Franklyn's Lab"],
-    "inputs": [
-      {
-        "count": 10,
-        "name": "Old Gear",
-        "img": "/images/resources/relics/Inv_Old_Gear.png"
-      },
-      {
-        "count": 8,
-        "name": "Old Spring",
-        "img": "/images/resources/relics/Inv_Old_Spring.png"
-      },
-      {
-        "count": 10,
-        "name": "Iron Bar",
-        "img": "/images/resources/otherCraftables/Inv_Iron_Bar.png"
-      },
-      {
-        "count": 1,
-        "name": "Old Contraption",
-        "img": "/images/resources/relics/Inv_Old_Contraption.png"
-      },
-      {
-        "count": 4,
-        "name": "Old Wheel",
-        "img": "/images/resources/relics/Inv_Old_Wheel.png"
-      },
-      {
-        "count": 4,
-        "name": "Tin Sheet",
-        "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
-      }
-    ],
-    "buyPrice": 320000,
-    "baseSellPrice": 160000
-  },
-  {
     "id": "train",
     "name": "Train",
     "img": "/images/gearAndEquipment/vehicles/Inv_Train.png",
@@ -560,11 +590,54 @@
     "baseSellPrice": 160000
   },
   {
+    "id": "ute",
+    "name": "Ute",
+    "img": "/images/gearAndEquipment/vehicles/Inv_Ute.png",
+    "requirementLevel": 2,
+    "requirementType": "Vehicle Licence",
+    "shinyDiscCount": 7,
+    "source": ["Franklyn's Lab"],
+    "inputs": [
+      {
+        "count": 10,
+        "name": "Old Gear",
+        "img": "/images/resources/relics/Inv_Old_Gear.png"
+      },
+      {
+        "count": 8,
+        "name": "Old Spring",
+        "img": "/images/resources/relics/Inv_Old_Spring.png"
+      },
+      {
+        "count": 10,
+        "name": "Iron Bar",
+        "img": "/images/resources/otherCraftables/Inv_Iron_Bar.png"
+      },
+      {
+        "count": 1,
+        "name": "Old Contraption",
+        "img": "/images/resources/relics/Inv_Old_Contraption.png"
+      },
+      {
+        "count": 4,
+        "name": "Old Wheel",
+        "img": "/images/resources/relics/Inv_Old_Wheel.png"
+      },
+      {
+        "count": 4,
+        "name": "Tin Sheet",
+        "img": "/images/resources/otherCraftables/Inv_Tin_Sheet.png"
+      }
+    ],
+    "buyPrice": 320000,
+    "baseSellPrice": 160000
+  },
+  {
     "id": "yellow_hang_glider",
     "name": "Yellow Hang Glider",
     "img": "/images/gearAndEquipment/vehicles/Inv_Yellow_Hang_Glider.png",
     "requirementLevel": null,
-    "source": ["Deep Mine"],
+    "source": ["Deep Mine", "Island Reef"],
     "baseSellPrice": 400000
   }
 ]

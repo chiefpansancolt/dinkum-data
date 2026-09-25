@@ -1030,7 +1030,7 @@
   },
   {
     "id": "buttowcoot",
-    "name": "Buttowcoot",
+    "name": "Burrowcoot",
     "img": "/images/animals/Burrowcoot_White.png",
     "temperament": "Passive",
     "health": 0,
@@ -1052,7 +1052,7 @@
   },
   {
     "id": "buttowcoot_joey",
-    "name": "Buttowcoot Joey",
+    "name": "Burrowcoot Joey",
     "img": "/images/animals/Burrowcoot_Joey.png",
     "temperament": "Passive",
     "health": 0,

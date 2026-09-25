@@ -46,6 +46,15 @@
     "baseSellPrice": 200000
   },
   {
+    "id": "alpha_battle_fish",
+    "name": "Alpha Battle Fish",
+    "img": "/images/gearAndEquipment/weapons/Inv_Alpha_Battle_Fish.png",
+    "damage": 18,
+    "licenceLevel": null,
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "baseSellPrice": 406250
+  },
+  {
     "id": "alpha_hammer",
     "name": "Alpha Hammer",
     "img": "/images/gearAndEquipment/weapons/Inv_Alpha_Hammer.png",
@@ -81,6 +90,15 @@
     ],
     "buyPrice": 400000,
     "baseSellPrice": 200000
+  },
+  {
+    "id": "alpha_plant_hammer",
+    "name": "Alpha Plant Hammer",
+    "img": "/images/gearAndEquipment/weapons/Inv_Alpha_Plant_Hammer.png",
+    "damage": 26,
+    "licenceLevel": null,
+    "source": ["Great Bite", "Hunter's Crafting Table"],
+    "baseSellPrice": 260156
   },
   {
     "id": "alpha_spear",

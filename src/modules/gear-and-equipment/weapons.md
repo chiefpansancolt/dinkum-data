@@ -1,6 +1,6 @@
 # Weapons
 
-Melee and ranged weapons, with their damage and source. 30 weapons are included.
+Melee and ranged weapons, with their damage and source. 32 weapons are included.
 
 ---
 
@@ -30,7 +30,7 @@ Melee and ranged weapons, with their damage and source. 30 weapons are included.
 ```ts
 import { weapons } from "dinkum-data";
 
-weapons(); // all 30 weapons
+weapons(); // all 32 weapons
 weapons(source); // wrap a pre-filtered array
 ```
 

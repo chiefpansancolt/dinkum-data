@@ -8,13 +8,14 @@ Music cassettes and their purchase price and source. 15 cassettes are included.
 
 ### `Cassette`
 
-| Field    | Type     | Description                                        |
-| -------- | -------- | -------------------------------------------------- |
-| id       | string   | Stable identifier                                  |
-| name     | string   | Display name                                       |
-| img      | string   | Path to the cassette's icon, relative to `images/` |
-| buyPrice | number   | Purchase price in Dinks                            |
-| source   | string[] | Where the cassette is sold                         |
+| Field    | Type     | Description                                                       |
+| -------- | -------- | ----------------------------------------------------------------- |
+| id       | string   | Stable identifier                                                 |
+| name     | string   | Display name                                                      |
+| img      | string   | Path to the cassette's icon, relative to `images/`                |
+| buyPrice | number   | Purchase price                                                    |
+| buyUnits | string   | Currency the purchase price is in: `'Dinks'` or `'Permit Points'` |
+| source   | string[] | Where the cassette is sold                                        |
 
 ---
 

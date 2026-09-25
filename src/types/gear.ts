@@ -1,4 +1,4 @@
-import { Base } from './common';
+import { Base, BuyUnits } from './common';
 
 export interface BookDetail {
   aquiredFrom: string;
@@ -13,5 +13,6 @@ export interface Book extends Base {
 
 export interface Cassette extends Base {
   buyPrice: number;
+  buyUnits: BuyUnits;
   source: string[];
 }

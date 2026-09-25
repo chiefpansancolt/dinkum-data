@@ -1,7 +1,7 @@
 # Decorations
 
 Placeable world decorations grouped by category: paths, fences, benches, bridges, lights, statues,
-and more. 261 items are included. Many of these items also appear in
+and more. 265 items are included. Many of these items also appear in
 [crafting-recipes](../recipes/crafting-recipes.md) or [furniture](../furniture/README.md); this
 module is a curated index across every decoration category shown on the wiki, not a separate source
 of truth for those items' prices.
@@ -36,7 +36,7 @@ One of: `'Paths & Steps'`, `'Fences & Gates'`, `'Benches'`, `'Bridges'`,
 ```ts
 import { decorations } from "dinkum-data";
 
-decorations(); // all 261 items
+decorations(); // all 265 items
 decorations(source); // wrap a pre-filtered array
 ```
 

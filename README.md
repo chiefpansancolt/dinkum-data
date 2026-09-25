@@ -149,8 +149,8 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | ------------------------------------------------------ | ----------------- | ----- | ---------------------------------------- |
 | [clothing](src/modules/clothing/README.md)             | `clothing()`      | 532   | Wearable clothing across every slot      |
 | [clothing-slots](src/modules/clothing-slots/README.md) | `clothingSlots()` | n/a   | Which clothing types belong to each slot |
-| [decorations](src/modules/decorations/README.md)       | `decorations()`   | 261   | Placeable world decorations by category  |
-| [furniture](src/modules/furniture/README.md)           | `furniture()`     | 441   | Placeable furniture                      |
+| [decorations](src/modules/decorations/README.md)       | `decorations()`   | 265   | Placeable world decorations by category  |
+| [furniture](src/modules/furniture/README.md)           | `furniture()`     | 443   | Placeable furniture                      |
 
 ### 🏠 World
 
@@ -199,6 +199,10 @@ has no page for them yet to source their data from. Add these once a wiki page a
 - **Metal Detector Level 2** — referenced in the same patch notes as a tool tier change; unclear
   whether it's a separate trackable item or just a behavior change to the existing `Metal Detector`
   tool.
+- **Pastel Floors (10 colours)** — the wiki has pages for the matching Pastel Wall furniture, but no
+  "Pastel Floor" page exists yet for any colour.
+- **Smooth Brown Path** — the wiki's Smooth Path page only documents 9 colours (Black, Blue, Green,
+  Orange, Pink, Purple, Red, White, Yellow); the patch notes say Brown makes a 10th.
 
 ---
 

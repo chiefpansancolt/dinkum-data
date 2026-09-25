@@ -3760,6 +3760,14 @@
     "melvinsCatalogue": false
   },
   {
+    "id": "toy_ute",
+    "name": "Toy Ute",
+    "img": "/images/furniture/Inv_Toy_Ute.png",
+    "source": ["Prize Box during John's Goods Anniversary Event"],
+    "baseSellPrice": 500,
+    "melvinsCatalogue": false
+  },
+  {
     "id": "traffic_cone",
     "name": "Traffic Cone",
     "img": "/images/furniture/Inv_Traffic_Cone.png",
@@ -3776,6 +3784,14 @@
     "source": ["Prize Box"],
     "baseSellPrice": 2500,
     "melvinsCatalogue": false
+  },
+  {
+    "id": "votive_candle",
+    "name": "Votive Candle",
+    "img": "/images/furniture/Inv_Votive_Candle.png",
+    "source": ["NPC Jobs", "Melvin Furniture", "Recycling Bin"],
+    "baseSellPrice": 0,
+    "melvinsCatalogue": true
   },
   {
     "id": "waiting_chair",

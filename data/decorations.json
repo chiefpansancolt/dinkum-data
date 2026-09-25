@@ -1612,6 +1612,14 @@
     "baseSellPrice": 1445
   },
   {
+    "id": "lighthouse",
+    "name": "Lighthouse",
+    "img": "/images/decorations/Inv_Lighthouse.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": ["Great Bite", "Crafting Table", "Advanced Crafting Table"],
+    "baseSellPrice": 0
+  },
+  {
     "id": "loop_fence",
     "name": "Loop Fence",
     "img": "/images/decorations/Inv_Loop_Fence.png",
@@ -1815,6 +1823,14 @@
       "Hot Hot Hot"
     ],
     "baseSellPrice": 2
+  },
+  {
+    "id": "old_bowser",
+    "name": "Old Bowser",
+    "img": "/images/decorations/Inv_Old_Bowser.png",
+    "category": "Market Stalls & Miscellaneous",
+    "source": ["Deep Mine", "Undergrove", "Hot Hot Hot"],
+    "baseSellPrice": 55000
   },
   {
     "id": "old_wood_fence",
@@ -2599,6 +2615,22 @@
       "Hot Hot Hot"
     ],
     "baseSellPrice": 14531
+  },
+  {
+    "id": "tyre_bench",
+    "name": "Tyre Bench",
+    "img": "/images/decorations/Inv_Tyre_Bench.png",
+    "category": "Benches",
+    "source": ["Blueprint", "Crafting Table", "Advanced Crafting Table"],
+    "baseSellPrice": 0
+  },
+  {
+    "id": "tyre_planter",
+    "name": "Tyre Planter",
+    "img": "/images/decorations/Inv_Tyre_Planter.png",
+    "category": "Flower Beds",
+    "source": ["Blueprint", "Crafting Table", "Advanced Crafting Table"],
+    "baseSellPrice": 0
   },
   {
     "id": "velvet_rope_fence",

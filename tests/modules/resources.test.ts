@@ -174,12 +174,10 @@ describe('OtherCraftableQuery filters', () => {
   });
 
   it('bySource() excludes craftables with no source', () => {
-    const noSource = otherCraftables()
-      .get()
-      .find((c) => !c.source || c.source.length === 0)!;
-    expect(noSource).toBeDefined();
-    const results = otherCraftables().bySource('__nonexistent__').get();
-    expect(results.some((c) => c.id === noSource.id)).toBe(false);
+    const noSource = new OtherCraftableQuery([
+      { ...otherCraftables().first()!, source: undefined },
+    ]);
+    expect(noSource.bySource('anything').count()).toBe(0);
   });
 });
 

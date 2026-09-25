@@ -50,7 +50,8 @@
         ]
       }
     ],
-    "source": ["Grain Mill"],
+    "source": ["Irwin's Barn", "Grain Mill"],
+    "buyPrice": 100,
     "baseSellPrice": 50
   },
   {
@@ -456,7 +457,7 @@
         ]
       }
     ],
-    "baseSellPrice": 300000
+    "baseSellPrice": 330000
   },
   {
     "id": "gum_wood_plank",
@@ -620,6 +621,7 @@
         ]
       }
     ],
+    "source": ["Meteorite"],
     "baseSellPrice": 16000
   },
   {
@@ -761,7 +763,7 @@
         ]
       }
     ],
-    "baseSellPrice": 0
+    "baseSellPrice": 90000
   },
   {
     "id": "spinifex_resin",

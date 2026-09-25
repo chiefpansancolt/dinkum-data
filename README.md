@@ -139,7 +139,7 @@ Four modules don't follow this pattern, since their source data isn't a flat, fi
 | [books](src/modules/gear-and-equipment/books.md)         | `books()`     | 6     | Collectible books                   |
 | [cassettes](src/modules/gear-and-equipment/cassettes.md) | `cassettes()` | 15    | Music cassettes                     |
 | [equipment](src/modules/gear-and-equipment/equipment.md) | `equipment()` | 58    | Wearable and placeable equipment    |
-| [tools](src/modules/gear-and-equipment/tools.md)         | `tools()`     | 63    | Gathering and combat tools          |
+| [tools](src/modules/gear-and-equipment/tools.md)         | `tools()`     | 69    | Gathering and combat tools          |
 | [vehicles](src/modules/gear-and-equipment/vehicles.md)   | `vehicles()`  | 21    | Gliders and other rideable vehicles |
 | [weapons](src/modules/gear-and-equipment/weapons.md)     | `weapons()`   | 30    | Melee and ranged weapons            |
 

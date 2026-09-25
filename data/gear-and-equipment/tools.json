@@ -358,6 +358,39 @@
     "baseSellPrice": 758
   },
   {
+    "id": "domesti_crate",
+    "name": "Domesti-Crate",
+    "img": "/images/gearAndEquipment/tools/Inv_Domesti-Crate.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Irwin's Barn"],
+    "buyPrice": 45000,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 22500
+  },
+  {
+    "id": "duff_dust",
+    "name": "Duff Dust",
+    "img": "/images/gearAndEquipment/tools/Inv_Duff_Dust.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Irwin's Barn"],
+    "buyPrice": 45000,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 22500
+  },
+  {
+    "id": "first_aid_kit",
+    "name": "First Aid Kit",
+    "img": "/images/gearAndEquipment/tools/Inv_First_Aid_Kit.png",
+    "damage": null,
+    "licence": "",
+    "source": ["John's Goods"],
+    "buyPrice": 7000,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 3500
+  },
+  {
     "id": "fishing_rod",
     "name": "Fishing Rod",
     "img": "/images/gearAndEquipment/tools/Inv_Fishing_Rod.png",
@@ -367,6 +400,24 @@
     "buyPrice": 1260,
     "buyUnits": "Dinks",
     "baseSellPrice": 630
+  },
+  {
+    "id": "glowing_axe",
+    "name": "Glowing Axe",
+    "img": "/images/gearAndEquipment/tools/Inv_Glowing_Axe.png",
+    "damage": 8,
+    "licence": "",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 8817
+  },
+  {
+    "id": "glowing_pickaxe",
+    "name": "Glowing Pickaxe",
+    "img": "/images/gearAndEquipment/tools/Inv_Glowing_Pickaxe.png",
+    "damage": 8,
+    "licence": "",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 10000
   },
   {
     "id": "gold_pocket_watch",
@@ -387,6 +438,15 @@
     "licence": "",
     "source": ["Deep Mine"],
     "baseSellPrice": 3025
+  },
+  {
+    "id": "hand_bell",
+    "name": "Hand Bell",
+    "img": "/images/gearAndEquipment/tools/Inv_Hand_Bell.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 1200
   },
   {
     "id": "hand_trolley",
@@ -684,6 +744,26 @@
     "baseSellPrice": 50000
   },
   {
+    "id": "jackaroo_wand",
+    "name": "Jackaroo Wand",
+    "img": "/images/gearAndEquipment/tools/Inv_Jackaroo_Wand.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Night Merchant Event"],
+    "baseSellPrice": 45000
+  },
+  {
+    "id": "megaphone",
+    "name": "Megaphone",
+    "img": "/images/gearAndEquipment/tools/Inv_Megaphone.png",
+    "damage": null,
+    "licence": "",
+    "source": ["John's Goods"],
+    "buyPrice": 20000,
+    "buyUnits": "Dinks",
+    "baseSellPrice": 10000
+  },
+  {
     "id": "metal_detector",
     "name": "Metal Detector",
     "img": "/images/gearAndEquipment/tools/Inv_Metal_Detector.png",
@@ -862,6 +942,15 @@
     "baseSellPrice": 15000
   },
   {
+    "id": "tropical_grass_turf_roll",
+    "name": "Tropical Grass Turf Roll",
+    "img": "/images/gearAndEquipment/tools/Inv_Tropical_Grass_Turf_Roll.png",
+    "damage": null,
+    "licence": "",
+    "source": ["Island Reef"],
+    "baseSellPrice": 2
+  },
+  {
     "id": "vombat_whistle",
     "name": "Vombat Whistle",
     "img": "/images/gearAndEquipment/tools/Inv_Vombat_Whistle.png",
@@ -871,38 +960,5 @@
     "buyPrice": 6196,
     "buyUnits": "Dinks",
     "baseSellPrice": 3098
-  },
-  {
-    "id": "domesti_crate",
-    "name": "Domesti-Crate",
-    "img": "/images/gearAndEquipment/tools/Inv_Domesti-Crate.png",
-    "damage": null,
-    "licence": "",
-    "source": ["Irwin's Barn"],
-    "buyPrice": 45000,
-    "buyUnits": "Dinks",
-    "baseSellPrice": 22500
-  },
-  {
-    "id": "duff_dust",
-    "name": "Duff Dust",
-    "img": "/images/gearAndEquipment/tools/Inv_Duff_Dust.png",
-    "damage": null,
-    "licence": "",
-    "source": ["Irwin's Barn"],
-    "buyPrice": 45000,
-    "buyUnits": "Dinks",
-    "baseSellPrice": 22500
-  },
-  {
-    "id": "first_aid_kit",
-    "name": "First Aid Kit",
-    "img": "/images/gearAndEquipment/tools/Inv_First_Aid_Kit.png",
-    "damage": null,
-    "licence": "",
-    "source": ["John's Goods"],
-    "buyPrice": 7000,
-    "buyUnits": "Dinks",
-    "baseSellPrice": 3500
   }
 ]

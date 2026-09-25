@@ -4,7 +4,7 @@
     "name": "Amber Chunk",
     "img": "/images/resources/minerals/Amber_Chunk.png",
     "source": ["Metal Detecting"],
-    "baseSellPrice": 15000
+    "baseSellPrice": 30000
   },
   {
     "id": "aquamarine_gemstone",
@@ -80,7 +80,7 @@
     "id": "ruby_gemstone",
     "name": "Ruby Gemstone",
     "img": "/images/resources/minerals/Ruby.png",
-    "locations": ["Island Reef"],
+    "locations": ["Deep Mine"],
     "baseSellPrice": 15000
   },
   {

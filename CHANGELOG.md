@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-09-25
+
+### Fixed
+
+- The published `1.0.0` package was built from a stale `dist/` that predated the `decorations()` and
+  `foodModellerRecipes()` modules being wired into `src/index.ts`, so neither function (nor their
+  types) was actually importable, even though `data/decorations.json` and
+  `data/recipes/food-modeller-recipes.json` shipped correctly. Republished with a fresh build that
+  includes both.
+- Added a `prepublishOnly` script (`npm run build`) so a stale `dist/` can't be published again.
+
 ## [1.0.0] - 2026-09-25
 
 A full reconciliation pass against the [Dinkum Wiki](https://dinkum.fandom.com/wiki/Dinkum_Wiki),

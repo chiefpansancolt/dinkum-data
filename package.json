@@ -1,6 +1,6 @@
 {
   "name": "dinkum-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive, fully-typed dataset for Dinkum: structured JSON data, image assets, and a chainable query builder API.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -17,6 +17,7 @@
   "sideEffects": false,
   "scripts": {
     "build": "tsup",
+    "prepublishOnly": "npm run build",
     "dev": "tsup --watch",
     "lint": "tsc --noEmit && eslint .",
     "format": "prettier --write \"**/*.ts\" \"**/*.md\" \"**/*.json\"",
